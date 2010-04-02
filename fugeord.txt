@@ -3887,7 +3887,7 @@
 5277	baneanlegg	
 5279	banebrytar	
 5280	baneformann	
-5281	banehogg	
+5281	banehogg	N
 5284	banelekam	
 5285	banemann	
 5286	banemann	
@@ -5809,7 +5809,7 @@
 7694	blandingsfarge	
 7695	blandingsfolk	
 7696	blandingsforhold	
-7697	blandingsføre	
+7697	blandingsføre	N
 7698	blandingsgjødsel	
 7699	blandingshøve	
 7700	blandingsjord	
@@ -10020,7 +10020,7 @@
 13115	daldrag	
 13118	dalefolk	
 13119	dalemann	
-13122	dalføre	
+13122	dalføre	N
 13124	daling	
 13125	dalk	
 13126	dalk	
@@ -13198,7 +13198,7 @@
 17750	eldespurke	
 17751	eldfang	
 17756	eldfluge	
-17758	eldføre	
+17758	eldføre	N
 17759	eldfån	
 17762	eldgiving	
 17763	eldgjeving	
@@ -16574,13 +16574,13 @@
 22371	fjølebu	
 22372	fjølegolv	
 22373	fjølgolv	
-22374	fjølehogg	
-22375	fjølhogg	
+22374	fjølehogg	N
+22375	fjølhogg	N
 22376	fjølende	
 22379	fjølegolv	
 22380	fjølgolv	
-22381	fjølehogg	
-22382	fjølhogg	
+22381	fjølehogg	N
+22382	fjølhogg	N
 22384	fjør	
 22386	fjørball	
 22387	fjørdrakt	
@@ -17469,7 +17469,7 @@
 23674	folkefront	
 23676	folkeføde	
 23677	folkeførar	
-23678	folkeføre	
+23678	folkeføre	N
 23679	folkegjerd	
 23680	folkegrein	
 23681	folkegruppe	
@@ -20551,7 +20551,7 @@
 28144	førarstilling	
 28146	førd	
 28147	førdag	
-28148	føre	
+28148	føre	N
 28150	førearbeid	
 28151	forarbeid	
 28154	førebering	
@@ -22959,7 +22959,7 @@
 31582	godfjotte	
 31586	godfjotting	
 31587	godfot	
-31588	godføre	
+31588	godføre	N
 31594	godheit	
 31597	godhug	
 31599	godhøve	
@@ -25645,7 +25645,7 @@
 35355	hark	
 35357	harke	
 35358	harke	
-35361	harkeføre	
+35361	harkeføre	N
 35366	harlekin	
 35367	harlekindrakt	
 35368	harlekinfigur	
@@ -27357,7 +27357,7 @@
 37709	hoftesving	
 37710	hegd	
 37711	hogd	
-37712	hogg	
+37712	hogg	N
 37713	hoggar	
 37714	hoggberg	
 37719	hoggestabbe	
@@ -29007,7 +29007,7 @@
 40049	håkjerringfamilie	
 40053	hålis	
 40056	hålke	
-40057	hålkeføre	
+40057	hålkeføre	N
 40062	hålogalending	
 40063	håløyg	
 40065	håløyse	
@@ -29827,7 +29827,7 @@
 41451	innhav	
 41454	innhegning	
 41456	innheradsbygg	
-41457	innhogg	
+41457	innhogg	SN
 41461	innhysing	
 41463	innkalling	
 41464	innkallingsordre	
@@ -33369,7 +33369,7 @@
 46078	kjelke	
 46079	kjelkeaking	
 46080	kjelkebakke	
-46081	kjelkeføre	
+46081	kjelkeføre	N
 46082	kjelkelass	
 46083	kjelkemei	
 46087	kjelketau	
@@ -33971,14 +33971,14 @@
 46796	kjøv	
 46800	klabautermann	
 46801	klabb	
-46803	klabbeføre	
+46803	klabbeføre	N
 46805	klabbesnø	
 46809	kladas	
 46810	kladd	
 46812	kladdeark	
 46813	kladdeblokk	
 46814	kladdebok	
-46815	kladdeføre	
+46815	kladdeføre	N
 46816	kladdepapir	
 46817	kladdesnø	
 46818	klaff	
@@ -34511,7 +34511,7 @@
 47533	klissprat	
 47534	klissvêr	
 47536	klister	
-47537	klisterføre	
+47537	klisterføre	N
 47538	klisterhjerne	
 47539	klistersmurning	
 47541	klitoris	
@@ -40307,7 +40307,7 @@
 55336	leverbetennelse	
 55338	leveregel	
 55339	leverflekk	
-55340	leverhogg	
+55340	leverhogg	N
 55341	leverikte	
 55342	levering	
 55343	leveringstid	
@@ -43747,7 +43747,7 @@
 60016	mein	
 60020	meineid	
 60021	meineidar	
-60024	meinhogg	
+60024	meinhogg	N
 60025	meinhøve	
 60027	meinigmann	
 60028	meining	
@@ -45998,7 +45998,7 @@
 63246	målform	
 63247	målforskjell	
 63248	målfoto	
-63250	målføre	
+63250	målføre	N
 63252	målføreform	
 63253	målføregranskar	
 63254	målføregransking	
@@ -47292,7 +47292,7 @@
 65129	nuklide	
 65130	null	
 65132	nullavleiing	
-65134	nullføre	
+65134	nullføre	N
 65135	nullitet	
 65136	nullmeridian	
 65137	nullpunkt	
@@ -53171,7 +53171,7 @@
 73488	rass	
 73489	rass	
 73490	rassball	
-73491	rassballføre	
+73491	rassballføre	N
 73493	rassel	
 73494	rasshol	
 73495	rassia	
@@ -55483,20 +55483,20 @@
 76813	råvêr	
 76814	råvirke	
 76815	råvyrke	
-76817	S	
-76818	s	
-76823	sabadille	
-76824	sabadillefrø	
+76817	S	F
+76818	s	F
+76823	sabadille	N
+76824	sabadillefrø	N
 76825	sabb	
-76827	sabbat	
-76828	sabbatsdag	
-76829	sabbatsår	
+76827	sabbat	SN
+76828	sabbatsdag	SN
+76829	sabbatsår	S
 76830	sabbe	
-76832	sabbeføre	
-76837	sabel	
-76838	sabelhogg	
-76839	sabelklirr	
-76840	sabelrasling	
+76832	sabbeføre	N
+76837	sabel	N
+76838	sabelhogg	N
+76839	sabelklirr	NE
+76840	sabelrasling	SN
 76841	sabelslukar	
 76844	sabotasje	
 76845	sabotasjeaksjon	
@@ -57815,7 +57815,7 @@
 79875	silkebluse	
 79876	silkebroderi	
 79877	silkeduk	
-79879	silkeføre	
+79879	silkeføre	N
 79880	silkeglans	
 79881	silkehanske	
 79882	silkehose	
@@ -58895,7 +58895,7 @@
 81406	skard	
 81413	skare	
 81414	skare	
-81419	skareføre	
+81419	skareføre	N
 81420	skareklister	
 81421	skarerype	
 81422	skareskorpe	
@@ -59113,7 +59113,7 @@
 81730	skiftetraktor	
 81732	skifteverknad	
 81733	skifting	
-81734	skiføre	
+81734	skiføre	N
 81735	skiføring	
 81736	skigard	
 81737	skigymnas	
@@ -60451,7 +60451,7 @@
 83462	skragg	
 83464	skrakkel	
 83465	skrakl	
-83468	skrakleføre	
+83468	skrakleføre	N
 83474	skrall	
 83477	skramlekasse	
 83478	skramlekjerre	
@@ -60467,7 +60467,7 @@
 83499	skrangel	
 83500	skrangel	
 83501	skrangle	
-83503	skrangleføre	
+83503	skrangleføre	N
 83504	skranglekasse	
 83505	skranglekjerre	
 83510	skrangleveg	
@@ -61653,7 +61653,7 @@
 85170	slabb	
 85171	slabbe	
 85173	slabbedask	
-85174	slabbeføre	
+85174	slabbeføre	N
 85176	slabberas	
 85177	slaberg	
 85178	slacks	
@@ -61669,7 +61669,7 @@
 85192	sladrespegel	
 85194	slafs	
 85195	slafs	
-85197	slafseføre	
+85197	slafseføre	N
 85202	slag	
 85203	slag	
 85204	slag	
@@ -61774,7 +61774,7 @@
 85342	slappfisk	
 85343	slappkiste	
 85344	slaps	
-85346	slapseføre	
+85346	slapseføre	N
 85350	slaraffenland	
 85351	slaraffenliv	
 85352	slark	
@@ -61819,7 +61819,7 @@
 85416	slavon	
 85418	slede	
 85419	sledefell	
-85420	sledeføre	
+85420	sledeføre	N
 85421	sledemei	
 85422	sledevogn	
 85423	sleeping partner	
@@ -62915,7 +62915,7 @@
 87134	snøfres	
 87135	snøfresar	
 87136	snøft	
-87138	snøføre	
+87138	snøføre	N
 87139	snøføyk	
 87140	snøføyke	
 87141	snøføykje	
@@ -63277,8 +63277,8 @@
 87598	sumarfrukt	
 87599	sommarfugl	
 87600	sumarfugl	
-87601	sommarføre	
-87602	sumarføre	
+87601	sommarføre	N
+87602	sumarføre	N
 87603	sommargjest	
 87604	sumargjest	
 87605	sommarhalvår	
@@ -63633,7 +63633,7 @@
 88050	sparkelmasse	
 88051	sparkesykkel	
 88052	sparksykkel	
-88053	sparkføre	
+88053	sparkføre	N
 88055	sparknekt	
 88056	sparkonge	
 88057	sparkstutting	
@@ -65495,7 +65495,7 @@
 90633	strandbredd	
 90634	strandbreidd	
 90636	strandflate	
-90637	strandhogg	
+90637	strandhogg	N
 90638	stranding	
 90639	strandkant	
 90640	strandløk	
@@ -66338,7 +66338,7 @@
 91874	subb	
 91875	subb	
 91876	subbe	
-91878	subbeføre	
+91878	subbeføre	N
 91884	subjekt	
 91886	subjektivisme	
 91887	subjektivitet	
@@ -66488,7 +66488,7 @@
 92091	sumarfjøs	
 92092	sumarfrukt	
 92093	sumarfugl	
-92094	sumarføre	
+92094	sumarføre	N
 92095	sumargjest	
 92096	sumarhalvår	
 92097	sumarhus	
@@ -66883,7 +66883,7 @@
 92699	sverddans	
 92700	sverdfisk	
 92702	sverdhald	
-92703	sverdhogg	
+92703	sverdhogg	N
 92704	sverdknapp	
 92705	sverdlilje	
 92706	sverdside	
@@ -67696,7 +67696,7 @@
 93941	sørlending	
 93942	sørp	
 93943	sørpe	
-93945	sørpeføre	
+93945	sørpeføre	N
 93949	sørpol	
 93950	sørpolsekspedisjon	
 93951	sørpolsfarar	
@@ -69487,7 +69487,7 @@
 96344	tilfredsstilling	
 96346	tilfriskning	
 96348	tilfrysing	
-96349	tilføre	
+96349	tilføre	N
 96351	tilførsel	
 96352	tilførsle	
 96353	tilførselkanal	
@@ -69744,7 +69744,7 @@
 96769	tinderekkje	
 96773	tindehorv	
 96774	tindharv	
-96775	tindhogg	
+96775	tindhogg	N
 96776	tindle	
 96777	tindmort	
 96782	tindved	
@@ -73718,8 +73718,8 @@
 102892	ufyllefat	
 102893	ufyse	
 102897	ufysne	
-102899	uføre	
-102900	uføre	
+102899	uføre	N
+102900	uføre	N
 102901	uførehjelp	
 102902	uførepensjon	
 102904	uførepensjonist	
@@ -79433,7 +79433,7 @@
 111528	vinterfrakk	
 111529	vinterfrost	
 111530	vinterfrukt	
-111533	vinterføre	
+111533	vinterføre	N
 111534	vintergate	
 111535	vintergrøn	
 111537	vinterhage	
@@ -80946,7 +80946,7 @@
 113707	øksegg	
 113708	øksehamar	
 113709	øksehammar	
-113710	øksehogg	
+113710	øksehogg	N
 113711	øksehovud	
 113712	øksekjeft	
 113713	øksekomité	
@@ -81373,7 +81373,7 @@
 114307	åferd	
 114308	åflog	
 114309	åfoss	
-114310	åføre	
+114310	åføre	N
 114312	ågang	
 114315	åger	
 114316	ågerkar	
