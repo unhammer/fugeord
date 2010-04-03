@@ -7924,8 +7924,8 @@
 10489	bruk	
 10490	bruk	
 10491	brukanal	
-10493	brukar	
-10494	brukar	
+10493	brukar	N
+10494	brukar	N
 10503	brukjer	
 10504	bruksdyr	
 10505	brukseigenskap	
@@ -13283,9 +13283,9 @@
 17865	elektrisermaskin	
 17866	elektrisitet	
 17867	elektrisitetsbruk	
-17868	elektrisitetsbrukar	
+17868	elektrisitetsbrukar	N
 17869	elektrisitetsforbruk	
-17870	elektrisitetsforbrukar	
+17870	elektrisitetsforbrukar	N
 17871	elektrisitetsforsyning	
 17872	elektrisitetslære	
 17873	elektrisitetsmålar	
@@ -17693,7 +17693,7 @@
 24028	forbrott	
 24029	fôrbruk	
 24030	forbruk	
-24031	forbrukar	
+24031	forbrukar	N
 24032	forbrukardepartement	
 24033	forbrukarombod	
 24034	forbrukarombodsmann	
@@ -21434,7 +21434,7 @@
 29354	garasjehus	
 29355	garasjeplass	
 29356	gard	
-29357	gardbrukar	
+29357	gardbrukar	N
 29358	garde	
 29359	garde	
 29360	garde	
@@ -26666,7 +26666,7 @@
 36803	hero	
 36804	heroin	
 36805	heroinist	
-36806	heroinmisbrukar	
+36806	heroinmisbrukar	N
 36809	heroisme	
 36810	herold	
 36812	herpil	
@@ -31213,7 +31213,7 @@
 43401	jordbane	
 43402	jordbotn	
 43403	jordbruk	
-43404	jordbrukar	
+43404	jordbrukar	N
 43405	jordbruksavtale	
 43406	jordbruksbygd	
 43407	jordbruksferie	
@@ -35191,7 +35191,7 @@
 48588	kokainforgifting	
 48589	kokainist	
 48590	kokainmisbruk	
-48591	kokainmisbrukar	
+48591	kokainmisbrukar	N
 48592	kokainrus	
 48593	kokainsmuglar	
 48594	kokainsmugling	
@@ -43574,7 +43574,7 @@
 59775	maurmig	
 59776	maurpiggsvin	
 59777	maurpiss	
-59778	maurslukar	
+59778	maurslukar	N
 59779	maursyre	
 59780	maurtue	
 59781	maurtuve	
@@ -44594,7 +44594,7 @@
 61166	misantrop	
 61167	misantropi	
 61169	misbruk	
-61170	misbrukar	
+61170	misbrukar	N
 61178	misdaning	
 61179	misdanning	
 61182	misere	
@@ -47493,7 +47493,7 @@
 65416	nynn	
 65418	nynning	
 65419	nynorsk	
-65421	nynorskbrukar	
+65421	nynorskbrukar	N
 65422	nynorskkvinne	
 65423	nynorskmann	
 65424	nynorskutgåve	
@@ -55497,8 +55497,8 @@
 76838	sabelhogg	N
 76839	sabelklirr	NE
 76840	sabelrasling	SN
-76841	sabelslukar	
-76844	sabotasje	
+76841	sabelslukar	N
+76844	sabotasje	N
 76845	sabotasjeaksjon	
 76846	sabotasjehandling	
 76847	sabotasjemål	
@@ -62102,7 +62102,7 @@
 85818	sluing	
 85819	sluk	
 85820	sluk	
-85821	slukar	
+85821	slukar	N
 85824	slukfiske	
 85825	slukhals	
 85826	slukstong	
@@ -62524,7 +62524,7 @@
 86477	småborgar	
 86480	småbrigde	
 86482	småbruk	
-86483	småbrukar	
+86483	småbrukar	N
 86484	småbrød	
 86485	småby	
 86486	småbølgje	
@@ -64220,7 +64220,7 @@
 88872	språkblome	
 88873	språkblomster	
 88874	språkbruk	
-88875	språkbrukar	
+88875	språkbrukar	N
 88876	språkbruksanalyse	
 88877	språkdrag	
 88878	språkdrakt	
@@ -65159,11 +65159,11 @@
 90165	stockholmar	
 90167	stode	
 90168	stoff	
-90169	stoffbrukar	
+90169	stoffbrukar	N
 90174	stoffløyse	
 90175	stoffmengd	
 90176	stoffmisbruk	
-90177	stoffmisbrukar	
+90177	stoffmisbrukar	N
 90178	stoffnamn	
 90179	stoffskifte	
 90180	stogg	
@@ -66890,7 +66890,7 @@
 92707	sverdskjefte	
 92708	sverdslag	
 92709	sverdslire	
-92710	sverdslukar	
+92710	sverdslukar	N
 92711	sverdslukjar	
 92713	sverm	
 92714	svermar	
@@ -67825,7 +67825,7 @@
 94172	tabernakel	
 94173	tablett	
 94174	tablettform	
-94175	tablettmisbrukar	
+94175	tablettmisbrukar	N
 94176	tabloidavis	
 94177	tabloidformat	
 94178	tablå	
@@ -79274,7 +79274,7 @@
 111324	vindskala	
 111327	vindskie	
 111328	vindskjerm	
-111329	vindslukar	
+111329	vindslukar	N
 111330	vindspreiing	
 111332	vindstille	
 111333	vindstoff	
@@ -83363,7 +83363,7 @@
 125010	fibromyalgi	
 125011	fotsoneterapi	
 125012	fundamentalist	
-125013	e-postbrukar	
+125013	e-postbrukar	N
 125014	disp	
 125015	empati	
 125016	ekserptor	
