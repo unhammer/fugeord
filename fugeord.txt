@@ -2147,179 +2147,179 @@
 2863	arkont	N
 2865	arktikfront	S
 2866	arktikluft	N
-2868	arm	
-2871	armada	
-2872	armatur	
-2873	armaturfabrikk	
-2874	armband	
-2875	armbandsur	
-2876	armbind	
-2877	armbrot	
-2878	armbrott	
-2879	armbøst	
-2880	armbrøst	
-2881	armé	
-2883	armégevær	
-2884	armégruppe	
-2885	armékorps	
-2886	armenar	
-2887	armeniar	
-2888	armensk	
-2891	armering	
-2892	armeringsjarn	
-2893	armeringsjern	
-2894	armeringsnet	
-2895	armeringsnett	
-2896	armeringsstål	
-2897	armføting	
-2898	armgang	
-2899	armheving	
-2900	armhole	
-2901	arming	
-2902	armkrik	
-2903	armkrok	
-2904	armlene	
-2905	armlengd	
-2906	armlykkje	
-2907	armod	
-2909	armodsdom	
-2910	armodsfolk	
-2911	armodskrek	
-2912	armodskrok	
-2913	armodskryp	
-2914	armodskår	
-2917	armodsmann	
-2918	armodsting	
-2919	armring	
-2920	armrom	
-2921	armslag	
-2922	armslit	
-2924	armstake	
-2926	armstol	
-2927	armstyrke	
-2928	armstø	
-2929	armsving	
-2930	armsvinging	
-2931	armtak	
-2932	aroma	
-2935	arr	
-2936	ær	
-2937	arr	
-2938	arrangement	
-2939	arrangementskomité	
-2941	arrangør	
-2942	arrangørklubb	
-2943	arrest	
-2944	arrestant	
-2945	arrestasjon	
-2947	arrestering	
-2948	arrestforretning	
-2949	arrestgrunn	
-2950	arrestkrav	
-2951	arrestlokale	
-2952	arrestløyve	
-2953	arrestordre	
-2954	arrestrom	
-2955	arresttenest	
-2956	arrestteneste	
-2965	arroganse	
-2968	arrondering	
-2969	arrondissement	
-2976	arsen	
-2977	arsenal	
-2978	arsenikk	
-2979	arsenikkforgifting	
-2981	art	
-2985	arterie	
-2986	arterieblod	
-2988	arteriosklerose	
-2990	artianar	
-2993	artikkel	
-2994	artikkelforfattar	
-2995	artikkelskribent	
-2996	artikkelskrivar	
-2997	artikulasjon	
-2998	artikulasjonsorgan	
-2999	artikulasjonsstad	
-3002	artilleri	
-3003	artillerield	
-3004	artillerioffiser	
-3005	artilleriregiment	
-3006	artillerist	
-3007	artisjokk	
-3008	artiskokk	
-3009	artist	
-3010	artisteri	
-3012	artium	
-3013	artiumsfag	
-3014	artiumskamerat	
-3015	artiumskandidat	
-3016	artiumskarakter	
-3017	artiumskull	
-3018	artiumsline	
-3019	artiumslinje	
-3020	artiumsoppgåve	
-3021	artiumsresultat	
-3022	artiumssensur	
-3023	artiumsstil	
-3024	artiumsvitnemål	
-3025	artiumsår	
-3026	art nouveau	
-3027	artotek	
-3028	artritt	
-3030	artsforsøk	
-3033	artsfreding	
-3034	artskryssing	
-3035	artsnamn	
-3036	artsnemning	
-3039	artsskilnad	
-3040	arv	
-3042	arve	
-3044	arveanlegg	
-3045	arveavgift	
-3046	arveeigenskap	
-3047	arvefall	
-3048	arvefeil	
-3049	arvefeste	
-3050	arvefiende	
-3051	arveforskar	
-3052	arveforsking	
-3053	arvefyrste	
-3054	arvefølgd	
-3055	arvefølgje	
-3056	arvefylgd	
-3057	arvefylgje	
-3058	arvegang	
-3059	arvegods	
-3060	arvegransking	
-3061	arvehygiene	
-3062	arvekonge	
-3063	arvekrav	
-3068	arvelott	
-3069	arvelut	
-3070	arvlott	
-3071	arvlut	
-3072	arvelov	
-3073	arvelære	
-3074	arveonkel	
-3075	arveord	
-3076	arvepakt	
-3077	arveprins	
-3078	arverett	
-3079	arveskifte	
-3080	arvestykke	
-3081	arvesynd	
-3082	arvesølv	
-3083	arvesylv	
-3084	arvetante	
-3085	arveøl	
-3086	arving	
-3087	arvlatar	
-3090	arvelott	
-3091	arvelut	
-3092	arvlott	
-3093	arvlut	
-3094	arvtakar	
+2868	arm	N
+2871	armada	N
+2872	armatur	N
+2873	armaturfabrikk	N
+2874	armband	S
+2875	armbandsur	N
+2876	armbind	N
+2877	armbrot	N
+2878	armbrott	N
+2879	armbøst	N
+2880	armbrøst	N
+2881	armé	N
+2883	armégevær	N
+2884	armégruppe	N
+2885	armékorps	N
+2886	armenar	N
+2887	armeniar	N
+2888	armensk	N
+2891	armering	S
+2892	armeringsjarn	N
+2893	armeringsjern	N
+2894	armeringsnet	N
+2895	armeringsnett	N
+2896	armeringsstål	N
+2897	armføting	S
+2898	armgang	S
+2899	armheving	S
+2900	armhole	N
+2901	arming	S
+2902	armkrik	N
+2903	armkrok	SN
+2904	armlene	N
+2905	armlengd	E
+2906	armlykkje	N
+2907	armod	S
+2909	armodsdom	N
+2910	armodsfolk	N
+2911	armodskrek	N
+2912	armodskrok	N
+2913	armodskryp	N
+2914	armodskår	N
+2917	armodsmann	SN
+2918	armodsting	S
+2919	armring	N
+2920	armrom	S
+2921	armslag	N
+2922	armslit	N
+2924	armstake	N
+2926	armstol	N
+2927	armstyrke	N
+2928	armstø	N
+2929	armsving	N
+2930	armsvinging	S
+2931	armtak	N
+2932	aroma	N
+2935	arr	N
+2936	ær	N
+2937	arr	N
+2938	arrangement	S
+2939	arrangementskomité	N
+2941	arrangør	N
+2942	arrangørklubb	N
+2943	arrest	N
+2944	arrestant	N
+2945	arrestasjon	S
+2947	arrestering	S
+2948	arrestforretning	S
+2949	arrestgrunn	N
+2950	arrestkrav	N
+2951	arrestlokale	N
+2952	arrestløyve	N
+2953	arrestordre	N
+2954	arrestrom	SN
+2955	arresttenest	E
+2956	arrestteneste	N
+2965	arroganse	N
+2968	arrondering	S
+2969	arrondissement	S
+2976	arsen	N
+2977	arsenal	N
+2978	arsenikk	N
+2979	arsenikkforgifting	S
+2981	art	N
+2985	arterie	N
+2986	arterieblod	N
+2988	arteriosklerose	N
+2990	artianar	N
+2993	artikkel	N
+2994	artikkelforfattar	N
+2995	artikkelskribent	N
+2996	artikkelskrivar	N
+2997	artikulasjon	S
+2998	artikulasjonsorgan	N
+2999	artikulasjonsstad	S
+3002	artilleri	N
+3003	artillerield	N
+3004	artillerioffiser	SN
+3005	artilleriregiment	SN
+3006	artillerist	N
+3007	artisjokk	N
+3008	artiskokk	N
+3009	artist	N
+3010	artisteri	N
+3012	artium	S
+3013	artiumsfag	N
+3014	artiumskamerat	N
+3015	artiumskandidat	N
+3016	artiumskarakter	N
+3017	artiumskull	N
+3018	artiumsline	N
+3019	artiumslinje	N
+3020	artiumsoppgåve	N
+3021	artiumsresultat	N
+3022	artiumssensur	N
+3023	artiumsstil	N
+3024	artiumsvitnemål	N
+3025	artiumsår	N
+3026	art nouveau	F
+3027	artotek	N
+3028	artritt	N
+3030	artsforsøk	SN
+3033	artsfreding	S
+3034	artskryssing	S
+3035	artsnamn	N
+3036	artsnemning	S
+3039	artsskilnad	S
+3040	arv	E
+3042	arve	N
+3044	arveanlegg	N
+3045	arveavgift	S
+3046	arveeigenskap	S
+3047	arvefall	N
+3048	arvefeil	N
+3049	arvefeste	N
+3050	arvefiende	N
+3051	arveforskar	N
+3052	arveforsking	S
+3053	arvefyrste	N
+3054	arvefølgd	N
+3055	arvefølgje	N
+3056	arvefylgd	N
+3057	arvefylgje	N
+3058	arvegang	S
+3059	arvegods	N
+3060	arvegransking	S
+3061	arvehygiene	N
+3062	arvekonge	N
+3063	arvekrav	SN
+3068	arvelott	SN
+3069	arvelut	SN
+3070	arvlott	SN
+3071	arvlut	SN
+3072	arvelov	SN
+3073	arvelære	N
+3074	arveonkel	N
+3075	arveord	N
+3076	arvepakt	N
+3077	arveprins	N
+3078	arverett	N
+3079	arveskifte	N
+3080	arvestykke	N
+3081	arvesynd	N
+3082	arvesølv	N
+3083	arvesylv	N
+3084	arvetante	N
+3085	arveøl	N
+3086	arving	S
+3087	arvlatar	N
+3090	arvelott	N
+3091	arvelut	SN
+3092	arvlott	SN
+3093	arvlut	SN
+3094	arvtakar	N
 3098	as	
 3102	asal	
 3103	asalbær	
