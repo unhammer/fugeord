@@ -55499,7 +55499,7 @@
 76840	sabelrasling	SN
 76841	sabelslukar	N
 76844	sabotasje	N
-76845	sabotasjeaksjon	
+76845	sabotasjeaksjon	S
 76846	sabotasjehandling	
 76847	sabotasjemål	
 76849	sabotør	
