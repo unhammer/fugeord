@@ -2320,150 +2320,150 @@
 3092	arvlott	SN
 3093	arvlut	SN
 3094	arvtakar	N
-3098	as	
-3102	asal	
-3103	asalbær	
-3104	asalea	
-3105	asaltre	
-3106	asbest	
-3107	asbestduk	
-3108	asbestpapp	
-3109	asbestplate	
-3110	ascendens	
-3111	ascendent	
-3112	asdic	
-3117	A6-ark	
-3118	A6-format	
-3120	asen	
-3122	aseptikk	
-3124	aserbajdsjanar	
-3126	asfalt	
-3127	asfaltdekke	
-3129	asfaltjungel	
-3130	asfaltpapp	
-3131	asfaltslitar	
-3132	asfalttråvar	
-3133	asfalttravar	
-3134	asiasjuke	
-3135	asiasykje	
-3136	asiat	
-3138	asimut	
-3139	asimutspegel	
-3141	asjett	
-3143	ask	
-3144	ask	
-3145	askeavkok	
-3146	askebork	
-3147	askelauv	
-3148	askese	
-3149	askeskaft	
-3150	askeski	
-3151	asket	
-3153	asketre	
-3154	askeved	
-3155	askorbinsyre	
-3156	asn	
-3160	asparges	
-3161	aspargesbønne	
-3162	aspargesbaune	
-3163	aspargesplante	
-3164	aspargessuppe	
-3165	aspekt	
-3166	aspidistra	
-3167	aspik	
-3168	aspirant	
-3169	aspirasjon	
-3170	aspirasjonsnivå	
-3173	aspirin	
-3174	aspirintablett	
-3175	Ass	
-3176	ass	
-3177	Ass-dur	
-3178	assembler	
-3179	assessor	
-3180	assimilasjon	
-3181	assimilasjonsevne	
-3182	assimilasjonsorgan	
-3185	assimilering	
-3186	assistanse	
-3187	assistent	
-3188	assistentlækjar	
-3189	assistentlege	
-3190	assistentstilling	
-3192	ass-moll	
-3193	assonans	
-3195	assortiment	
-3196	assosiasjon	
-3197	assosiasjonspsykologi	
-3200	assosiering	
-3201	assosieringsavtale	
-3202	assurandør	
-3203	assuranse	
-3204	assuransepremi	
-3205	assuransepremie	
-3206	assuranseselskap	
-3207	assuransesvik	
-3209	assyrar	
-3210	assyriolog	
-3211	assyriologi	
-3213	astat	
-3214	asteni	
-3215	astenikar	
-3217	asterisk	
-3218	asteroide	
-3219	asters	
-3220	astigmatikar	
-3222	astigmatisme	
-3223	astma	
-3224	astmabarn	
-3226	astmatikar	
-3228	astrakan	
-3229	astrakanhue	
-3230	astrakanhuve	
-3231	astrakanlue	
-3232	astrakanluve	
-3233	astrakanskinn	
-3235	astrallekam	
-3237	astrofotometer	
-3238	astrofotometri	
-3240	astrofysikar	
-3241	astrofysikk	
-3243	astrokompas	
-3244	astrokompass	
-3245	astrolog	
-3246	astrologi	
-3248	astrometri	
-3250	astronaut	
-3251	astronautikk	
-3253	astronom	
-3254	astronomi	
-3256	asur	
-3258	asurblått	
-3259	asvêr	
-3260	asyl	
-3261	asylrett	
-3262	asymmetri	
-3264	asymptote	
-3266	asyndese	
-3269	asynkronmotor	
-3275	atavisme	
-3277	ateisme	
-3278	ateist	
-3280	atelier	
-3281	atenar	
-3282	athenar	
-3285	aterosklerose	
-3286	atgeir	
-3287	atlant	
-3288	atlanterhavsbåt	
-3289	atlanthavsbåt	
-3290	atlanterhavsluft	
-3291	atlanthavsluft	
-3297	atlas	
-3298	atlas	
-3299	atlask	
-3300	atlaskbrokade	
-3301	atlaskkjole	
+3098	as	N
+3102	asal	N
+3103	asalbær	N
+3104	asalea	N
+3105	asaltre	N
+3106	asbest	N
+3107	asbestduk	N
+3108	asbestpapp	N
+3109	asbestplate	N
+3110	ascendens	N
+3111	ascendent	N
+3112	asdic	N
+3117	A6-ark	F
+3118	A6-format	F
+3120	asen	N
+3122	aseptikk	N
+3124	aserbajdsjanar	N
+3126	asfalt	N
+3127	asfaltdekke	N
+3129	asfaltjungel	N
+3130	asfaltpapp	N
+3131	asfaltslitar	N
+3132	asfalttråvar	N
+3133	asfalttravar	N
+3134	asiasjuke	N
+3135	asiasykje	N
+3136	asiat	N
+3138	asimut	N
+3139	asimutspegel	N
+3141	asjett	N
+3143	ask	E
+3144	ask	E
+3145	askeavkok	N
+3146	askebork	N
+3147	askelauv	SN
+3148	askese	N
+3149	askeskaft	N
+3150	askeski	N
+3151	asket	N
+3153	asketre	N
+3154	askeved	N
+3155	askorbinsyre	N
+3156	asn	N
+3160	asparges	N
+3161	aspargesbønne	N
+3162	aspargesbaune	N
+3163	aspargesplante	N
+3164	aspargessuppe	N
+3165	aspekt	N
+3166	aspidistra	N
+3167	aspik	N
+3168	aspirant	N
+3169	aspirasjon	N
+3170	aspirasjonsnivå	N
+3173	aspirin	N
+3174	aspirintablett	N
+3175	Ass	F
+3176	ass	F
+3177	Ass-dur	F
+3178	assembler	N
+3179	assessor	N
+3180	assimilasjon	S
+3181	assimilasjonsevne	N
+3182	assimilasjonsorgan	N
+3185	assimilering	S
+3186	assistanse	N
+3187	assistent	N
+3188	assistentlækjar	N
+3189	assistentlege	N
+3190	assistentstilling	N
+3192	ass-moll	F
+3193	assonans	N
+3195	assortiment	S
+3196	assosiasjon	S
+3197	assosiasjonspsykologi	N
+3200	assosiering	S
+3201	assosieringsavtale	N
+3202	assurandør	N
+3203	assuranse	N
+3204	assuransepremi	E
+3205	assuransepremie	N
+3206	assuranseselskap	S
+3207	assuransesvik	N
+3209	assyrar	N
+3210	assyriolog	N
+3211	assyriologi	N
+3213	astat	N
+3214	asteni	N
+3215	astenikar	N
+3217	asterisk	N
+3218	asteroide	N
+3219	asters	N
+3220	astigmatikar	N
+3222	astigmatisme	N
+3223	astma	N
+3224	astmabarn	N
+3226	astmatikar	N
+3228	astrakan	N
+3229	astrakanhue	N
+3230	astrakanhuve	N
+3231	astrakanlue	N
+3232	astrakanluve	N
+3233	astrakanskinn	N
+3235	astrallekam	N
+3237	astrofotometer	N
+3238	astrofotometri	N
+3240	astrofysikar	N
+3241	astrofysikk	N
+3243	astrokompas	N
+3244	astrokompass	N
+3245	astrolog	N
+3246	astrologi	N
+3248	astrometri	N
+3250	astronaut	N
+3251	astronautikk	N
+3253	astronom	N
+3254	astronomi	N
+3256	asur	N
+3258	asurblått	F
+3259	asvêr	N
+3260	asyl	N
+3261	asylrett	S
+3262	asymmetri	N
+3264	asymptote	N
+3266	asyndese	N
+3269	asynkronmotor	N
+3275	atavisme	N
+3277	ateisme	N
+3278	ateist	N
+3280	atelier	N
+3281	atenar	N
+3282	athenar	N
+3285	aterosklerose	N
+3286	atgeir	N
+3287	atlant	N
+3288	atlanterhavsbåt	SN
+3289	atlanthavsbåt	SN
+3290	atlanterhavsluft	SN
+3291	atlanthavsluft	SN
+3297	atlas	N
+3298	atlas	N
+3299	atlask	N
+3300	atlaskbrokade	N
+3301	atlaskkjole	N
 3302	atlet	
 3304	atmosfære	
 3305	atmosfærestøy	
