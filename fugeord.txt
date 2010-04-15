@@ -2733,8 +2733,8 @@
 3710	augnespesialist	
 3711	augespleis	
 3712	augnespleis	
-3713	augestein	
-3714	augnestein	
+3713	augestein	SN
+3714	augnestein	SN
 3715	augestikkar	
 3716	augnestikkar	
 3717	augesting	
@@ -2992,7 +2992,7 @@
 4093	avfallsforretning	
 4094	avfallsplass	
 4095	avfallsprodukt	
-4096	avfallssjakt	
+4096	avfallssjakt	N
 4097	avfallsstoff	
 4098	avfardag	
 4103	avferd	
@@ -3779,7 +3779,7 @@
 5149	ballast	
 5151	ballastjarn	
 5152	ballastjern	
-5153	ballaststein	
+5153	ballaststein	N
 5154	ballasttank	
 5155	ballblom	
 5156	balldrakt	
@@ -4340,7 +4340,7 @@
 5831	bause	
 5833	baut	
 5834	bauta	
-5835	bautastein	
+5835	bautastein	N
 5837	bauting	
 5838	bauksitt	
 5839	bauxitt	
@@ -4541,7 +4541,7 @@
 6124	beksel	
 6125	beiselring	
 6126	bekselring	
-6129	bekstein	
+6129	bekstein	SN
 6131	bekatråd	
 6132	bektråd	
 6133	bel	
@@ -4962,7 +4962,7 @@
 6688	betongmur	
 6689	betongrør	
 6690	betongrøyr	
-6691	betongstein	
+6691	betongstein	N
 6692	betongtak	
 6693	betongvegg	
 6698	betring	
@@ -5713,7 +5713,7 @@
 7566	bjørnegryl	
 7567	bjørneham	
 7568	bjørnehi	
-7569	bjørnejakt	
+7569	bjørnejakt	N
 7570	bjørnejeger	
 7571	bjørnekam	
 7572	bjørnekjeks	
@@ -6274,7 +6274,7 @@
 8338	blotmann	
 8340	blotskap	
 8341	blotstad	
-8342	blotstein	
+8342	blotstein	SN
 8343	blottar	
 8349	blueback	
 8351	blues	
@@ -6338,7 +6338,7 @@
 8421	blymaling	
 8422	blyoksid	
 8423	blyregn	
-8424	blystein	
+8424	blystein	SN
 8425	blysulfid	
 8426	blysøkke	
 8427	blytak	
@@ -6439,7 +6439,7 @@
 8568	blåsott	
 8569	blåst	
 8570	blåster	
-8571	blåstein	
+8571	blåstein	SN
 8575	blåstrupe	
 8576	blåstrømpe	
 8577	blåstål	
@@ -7643,7 +7643,7 @@
 10132	brisling	
 10133	brislingfiskar	
 10134	brislingfiske	
-10135	brislingjakt	
+10135	brislingjakt	N
 10136	brislingnot	
 10137	brislingsteng	
 10139	brite	
@@ -7776,8 +7776,8 @@
 10316	brottsmann	
 10317	brotstad	
 10318	brottstad	
-10319	brotstein	
-10320	brottstein	
+10319	brotstein	SN
+10320	brottstein	SN
 10323	brotstykke	
 10324	brottstykke	
 10325	brotstyrke	
@@ -7818,8 +7818,8 @@
 10372	brottsmann	
 10373	brotstad	
 10374	brottstad	
-10375	brotstein	
-10376	brottstein	
+10375	brotstein	SN
+10376	brottstein	SN
 10379	brotstykke	
 10380	brottstykke	
 10381	brotstyrke	
@@ -7978,8 +7978,8 @@
 10564	bruneiar	
 10566	brunette	
 10567	brunfe	
-10569	brunjarnstein	
-10570	brunjernstein	
+10569	brunjarnstein	SN
+10570	brunjernstein	SN
 10572	brunkol	
 10573	brunkoltjære	
 10574	brunkoltjøre	
@@ -8008,7 +8008,7 @@
 10601	brunrot	
 10602	brunskjorte	
 10603	brunst	
-10606	brunstein	
+10606	brunstein	SN
 10608	brunstintervall	
 10609	brunstperiode	
 10613	brunsttid	
@@ -8680,7 +8680,7 @@
 11441	bustgraut	
 11442	bustehovud	
 11443	busthovud	
-11444	bustein	
+11444	bustein	SN
 11445	busteleiv	
 11446	bustleiv	
 11447	bustelurve	
@@ -8858,7 +8858,7 @@
 11645	byggesett	
 11646	byggeskikk	
 11647	byggesteg	
-11648	byggestein	
+11648	byggestein	SN
 11649	byggestil	
 11650	byggetid	
 11651	byggetilbod	
@@ -8940,8 +8940,8 @@
 11733	byggjeskikk	
 11734	byggesteg	
 11735	byggjesteg	
-11736	byggestein	
-11737	byggjestein	
+11736	byggestein	SN
+11737	byggjestein	SN
 11738	byggestil	
 11739	byggjestil	
 11740	byggetid	
@@ -9169,7 +9169,7 @@
 11997	bytehushald	
 11998	bytemiddel	
 11999	bytemotor	
-12000	bytestein	
+12000	bytestein	SN
 12001	byteverd	
 12002	byteverde	
 12003	byteverdi	
@@ -9696,7 +9696,7 @@
 12672	cha-cha-cha	
 12673	chaconne	
 12674	chamotte	
-12675	chamottestein	
+12675	chamottestein	SN
 12676	champagne	
 12678	champagneflaske	
 12679	champagneglas	
@@ -10269,7 +10269,7 @@
 13501	deigle	
 13506	deild	
 13508	deildegast	
-13509	deildestein	
+13509	deildestein	SN
 13510	deildetjuv	
 13512	deis	
 13513	deise	
@@ -10358,7 +10358,7 @@
 13626	delelager	
 13629	deleline	
 13630	delelinje	
-13631	delestein	
+13631	delestein	SN
 13632	delevegg	
 13633	delfin	
 13636	delikatesse	
@@ -11504,7 +11504,7 @@
 15267	drivhusmiljø	
 15268	drivhusplante	
 15269	drivis	
-15270	drivjakt	
+15270	drivjakt	N
 15271	drivkraft	
 15274	drivline	
 15275	drivmine	
@@ -11546,7 +11546,7 @@
 15329	dropsøskje	
 15330	dropseske	
 15331	dropspose	
-15332	dropstein	
+15332	dropstein	SN
 15333	dropsteinshole	
 15336	dropsøskje	
 15337	dropseske	
@@ -11570,7 +11570,7 @@
 15363	druebrennevin	
 15364	drueklase	
 15365	druesaft	
-15366	druestein	
+15366	druestein	SN
 15367	druesukker	
 15368	druevin	
 15369	druide	
@@ -11626,7 +11626,7 @@
 15452	drynjing	
 15455	drypp	
 15456	dryppert	
-15458	dryppstein	
+15458	dryppstein	SN
 15463	drysje	
 15466	dryss	
 15469	drøftesåld	
@@ -11938,7 +11938,7 @@
 15924	dvergsmie	
 15925	dvergsog	
 15926	dvergspene	
-15927	dvergstein	
+15927	dvergstein	SN
 15928	dvergstjerne	
 15929	dvergulk	
 15930	dvergulke	
@@ -12271,7 +12271,7 @@
 16379	dørspegel	
 16380	dørsprekk	
 16381	dørsprekke	
-16382	dørstein	
+16382	dørstein	SN
 16383	dørstokk	
 16384	dørstokkmil	
 16385	dørstoppar	
@@ -12406,7 +12406,7 @@
 16595	edelmetall	
 16596	edelmod	
 16597	edelmot	
-16599	edelstein	
+16599	edelstein	SN
 16600	edelweiss	
 16601	eden	
 16603	edikt	
@@ -12874,7 +12874,7 @@
 17299	eirsmak	
 17300	eise	
 17302	eiste	
-17303	eistestein	
+17303	eistestein	SN
 17304	eitel	
 17305	eiter	
 17306	eiterblære	
@@ -12887,7 +12887,7 @@
 17313	eitersmog	
 17314	eitertann	
 17315	eitertonn	
-17317	eitlestein	
+17317	eitlestein	SN
 17318	eitlevev	
 17321	eitt-tal	
 17322	eittal	
@@ -12924,8 +12924,8 @@
 17371	ikornape	
 17372	ekornhi	
 17373	ikornhi	
-17374	ekornjakt	
-17375	ikornjakt	
+17374	ekornjakt	N
+17375	ikornjakt	N
 17376	ekornreir	
 17377	ikornreir	
 17378	ekornrove	
@@ -13264,7 +13264,7 @@
 17837	ele	
 17839	elefant	
 17840	elefantiasis	
-17841	elefantjakt	
+17841	elefantjakt	N
 17843	elefantsjuke	
 17844	elefantsykje	
 17845	elefantskilpadde	
@@ -13369,7 +13369,7 @@
 17968	elghud	
 17969	elghund	
 17970	elgitar	
-17971	elgjakt	
+17971	elgjakt	N
 17973	elgjeger	
 17976	elgkalv	
 17977	elgkolle	
@@ -14546,7 +14546,7 @@
 19602	falkeblikk	
 19603	falkefamilie	
 19604	falkefangar	
-19605	falkejakt	
+19605	falkejakt	N
 19606	falkejeger	
 19607	falkeslekt	
 19608	falkoner	
@@ -16555,8 +16555,8 @@
 22352	fjøresand	
 22353	fjæreskit	
 22354	fjøreskit	
-22355	fjærestein	
-22356	fjørestein	
+22355	fjærestein	SN
+22356	fjørestein	SN
 22357	fjøl	
 22358	fjølbete	
 22359	fjølebete	
@@ -16612,8 +16612,8 @@
 22417	fjøresand	
 22418	fjæreskit	
 22419	fjøreskit	
-22420	fjærestein	
-22421	fjørestein	
+22420	fjærestein	SN
+22421	fjørestein	SN
 22422	fjørfe	
 22423	fjørfeal	
 22424	fjørfeavl	
@@ -16916,7 +16916,7 @@
 22913	flintebørse	
 22914	flintelås	
 22915	flintelåsbørse	
-22916	flintestein	
+22916	flintestein	SN
 22918	flintøks	
 22919	flip	
 22920	flipe	
@@ -18704,7 +18704,7 @@
 25650	fotomontasje	
 25651	foton	
 25652	fotoobjekt	
-25653	fotosafari	
+25653	fotosafari	N
 25654	fotosats	
 25655	fotosetjar	
 25656	fotosettar	
@@ -19925,7 +19925,7 @@
 27274	fugleføde	
 27275	fugleham	
 27276	fuglehund	
-27277	fuglejakt	
+27277	fuglejakt	N
 27278	fuglejeger	
 27279	fuglekasse	
 27280	fuglekoloni	
@@ -21091,8 +21091,8 @@
 28899	gallsjuke	
 28900	gallesott	
 28901	gallsott	
-28902	gallestein	
-28903	gallstein	
+28902	gallestein	SN
+28903	gallstein	SN
 28904	gallesykje	
 28905	gallsykje	
 28906	gallekvefs	
@@ -21124,8 +21124,8 @@
 28935	gallsjuke	
 28936	gallesott	
 28937	gallsott	
-28938	gallestein	
-28939	gallstein	
+28938	gallestein	SN
+28939	gallstein	SN
 28940	gallesykje	
 28941	gallsykje	
 28942	gallup	
@@ -21666,7 +21666,7 @@
 29620	gateseljar	
 29621	gatesongar	
 29622	gatespråk	
-29623	gatestein	
+29623	gatestein	SN
 29624	gatetrafikk	
 29625	gatetun	
 29626	gateuorden	
@@ -22750,13 +22750,13 @@
 31165	glim	
 31166	glima	
 31168	glime	
-31170	glimestein	
+31170	glimestein	SN
 31172	glimlampe	
 31173	glimljos	
 31174	glimlys	
 31175	glimmer	
 31176	glimmerskifer	
-31177	glimmerstein	
+31177	glimmerstein	SN
 31180	glimt	
 31187	glip	
 31188	glipe	
@@ -23462,7 +23462,7 @@
 32272	gravbakke	
 32274	gravearbeid	
 32275	gravemaskin	
-32277	gravenstein	
+32277	gravenstein	SN
 32278	gravêr	
 32281	gravering	
 32282	gravfelt	
@@ -23498,7 +23498,7 @@
 32320	gravskrift	
 32321	gravst	
 32322	gravstad	
-32323	gravstein	
+32323	gravstein	SN
 32324	gravstikke	
 32325	gravstøtte	
 32326	gravstytte	
@@ -23579,7 +23579,7 @@
 32451	grensepost	
 32452	grenseskil	
 32453	grensestasjon	
-32454	grensestein	
+32454	grensestein	SN
 32455	grensestrid	
 32456	grensestrøk	
 32457	grensestrok	
@@ -23709,7 +23709,7 @@
 32644	grjonmat	
 32645	grjonvare	
 32646	grjot	
-32647	grjotstein	
+32647	grjotstein	SN
 32648	gro	
 32650	grobian	
 32651	groblad	
@@ -23802,7 +23802,7 @@
 32796	grubleri	
 32798	grudd	
 32799	grue	
-32803	gruestein	
+32803	gruestein	SN
 32804	grufs	
 32808	grugg	
 32809	grugge	
@@ -23903,7 +23903,7 @@
 32949	grunnspråk	
 32950	grunnspørsmål	
 32951	grunnstamme	
-32952	grunnstein	
+32952	grunnstein	SN
 32953	grunnsteinsnedlegging	
 32954	grunnstilling	
 32955	grunnstoff	
@@ -23980,7 +23980,7 @@
 33056	gruvegang	
 33057	gruveheis	
 33058	gruvelampe	
-33059	gruvesjakt	
+33059	gruvesjakt	N
 33060	gruvetømmer	
 33061	gruveulukke	
 33062	gruveulykke	
@@ -24018,7 +24018,7 @@
 33121	gryteskåp	
 33122	gryteskap	
 33123	gryteskrubb	
-33124	grytestein	
+33124	grytestein	SN
 33127	gryvle	
 33128	græl	
 33129	græl	
@@ -24081,7 +24081,7 @@
 33212	grønskolling	
 33213	grønspett	
 33214	grønspette	
-33215	grønstein	
+33215	grønstein	SN
 33216	grønsåpe	
 33218	grønanlegg	
 33219	grøntanlegg	
@@ -24136,7 +24136,7 @@
 33300	gråspett	
 33301	gråspette	
 33302	gråsporv	
-33305	gråstein	
+33305	gråstein	SN
 33306	gråsteinsmur	
 33307	gråt	
 33310	gråtarkone	
@@ -25010,7 +25010,7 @@
 34472	halvdør	
 34473	halvdøs	
 34474	halve	
-34476	halvedelstein	
+34476	halvedelstein	SN
 34477	halvemål	
 34479	halvering	
 34480	halveringsline	
@@ -25617,7 +25617,7 @@
 35326	harehjarte	
 35327	harehjerte	
 35328	harehund	
-35329	harejakt	
+35329	harejakt	N
 35330	harekanin	
 35331	harekløver	
 35332	harelabb	
@@ -25815,7 +25815,7 @@
 35587	hauk	
 35588	hauk	
 35590	haukefamilie	
-35591	haukejakt	
+35591	haukejakt	N
 35592	haukeklo	
 35593	haukenase	
 35594	haukenebb	
@@ -25850,7 +25850,7 @@
 35634	haustgilde	
 35636	hausthavre	
 35637	hausting	
-35638	haustjakt	
+35638	haustjakt	N
 35639	haustjamdøger	
 35640	haustjamdøgn	
 35642	haustkveite	
@@ -26267,15 +26267,15 @@
 36222	heisekrane	
 36223	heisemontør	
 36224	heismontør	
-36226	heisesjakt	
-36227	heissjakt	
+36226	heisesjakt	N
+36227	heissjakt	N
 36228	heiseførar	
 36229	heisførar	
 36230	heisk	
 36235	heisemontør	
 36236	heismontør	
-36237	heisesjakt	
-36238	heissjakt	
+36237	heisesjakt	N
+36238	heissjakt	N
 36241	heite	
 36242	heite	
 36247	heitevegg	
@@ -26378,7 +26378,7 @@
 36384	heller	
 36385	helleristing	
 36386	helleristning	
-36387	hellestein	
+36387	hellestein	SN
 36388	helletak	
 36389	helling	
 36390	helm	
@@ -26452,7 +26452,7 @@
 36484	helvetesangst	
 36485	helveteseld	
 36486	helvetesmaskin	
-36487	helvetesstein	
+36487	helvetesstein	SN
 36488	helvt	
 36490	hematologi	
 36492	heme	
@@ -26819,7 +26819,7 @@
 37018	hieroglyf	
 37020	hi-fi	
 37023	hihund	
-37024	hijakt	
+37024	hijakt	N
 37025	hik	
 37029	hikk	
 37030	hikke	
@@ -27222,7 +27222,7 @@
 37540	hjortedyr	
 37541	hjortehorn	
 37542	hjortehornsalt	
-37543	hjortejakt	
+37543	hjortejakt	N
 37544	hjortekalv	
 37545	hjortekolle	
 37546	hjortetagg	
@@ -27255,7 +27255,7 @@
 37576	hjulvisp	
 37577	hjulås	
 37578	hjupe	
-37579	hjupestein	
+37579	hjupestein	SN
 37580	hjuring	
 37581	hjuringgut	
 37582	hjuringjente	
@@ -27281,8 +27281,8 @@
 37604	hyrnesofa	
 37605	hjørnespark	
 37606	hyrnespark	
-37607	hjørnestein	
-37608	hyrnestein	
+37607	hjørnestein	SN
+37608	hyrnestein	SN
 37609	hjørnesteinsbedrift	
 37610	hyrnesteinsbedrift	
 37611	hjørnesteinsverksemd	
@@ -27569,7 +27569,7 @@
 38006	hornrot	
 38007	hornsignal	
 38008	hornskei	
-38009	hornstein	
+38009	hornstein	SN
 38010	hornstoff	
 38011	hornugle	
 38016	horoskop	
@@ -27746,7 +27746,7 @@
 38228	hovudilske	
 38229	hovudinngang	
 38230	hovudinnhald	
-38231	hovudjakt	
+38231	hovudjakt	N
 38232	hovudjeger	
 38233	hovudkarakter	
 38234	hovudkasserar	
@@ -28416,8 +28416,8 @@
 39174	hyrnesofa	
 39175	hjørnespark	
 39176	hyrnespark	
-39177	hjørnestein	
-39178	hyrnestein	
+39177	hjørnestein	SN
+39178	hyrnestein	SN
 39179	hjørnesteinsbedrift	
 39180	hyrnesteinsbedrift	
 39181	hjørnesteinsverksemd	
@@ -29292,7 +29292,7 @@
 40511	ikorn	
 40512	ikornape	
 40513	ikornhi	
-40514	ikornjakt	
+40514	ikornjakt	N
 40515	ikornreir	
 40516	ikornrove	
 40517	ikornrumpe	
@@ -29315,7 +29315,7 @@
 40543	ilegging	
 40544	ileggar	
 40545	ileggjar	
-40553	ilestein	
+40553	ilestein	SN
 40554	iletau	
 40555	iletog	
 40556	ilgods	
@@ -30536,8 +30536,8 @@
 42566	jakobsstige	
 42567	jakokse	
 42568	jakukse	
-42571	jakt	
-42572	jakt	
+42571	jakt	N
+42572	jakt	N
 42573	jaktar	
 42574	jaktbikkje	
 42575	jaktdistrikt	
@@ -31984,7 +31984,7 @@
 44327	kalksalpeter	
 44328	kalksand	
 44329	kalkskort	
-44331	kalkstein	
+44331	kalkstein	SN
 44332	kalksteinsmjøl	
 44333	kalkulasjon	
 44334	kalkulasjonsmetode	
@@ -32135,7 +32135,7 @@
 44509	kaménål	
 44510	kamera	
 44511	kameraderi	
-44512	kamerajakt	
+44512	kamerajakt	N
 44513	kameraklubb	
 44514	kamerakunst	
 44515	kameramann	
@@ -32201,7 +32201,7 @@
 44582	kampdomar	
 44583	kampdommar	
 44585	kampeining	
-44587	kampestein	
+44587	kampestein	SN
 44588	kampfelle	
 44589	kampfly	
 44590	kampflygar	
@@ -32352,7 +32352,7 @@
 44775	kantor	
 44776	kantorikor	
 44778	kantsaum	
-44780	kantstein	
+44780	kantstein	SN
 44785	kanevassaum	
 44786	kanvassaum	
 44787	kanyle	
@@ -32932,7 +32932,7 @@
 45476	kattesykje	
 45477	katteskinn	
 45478	katteslekt	
-45479	kattestein	
+45479	kattestein	SN
 45480	kattesølv	
 45481	kattesylv	
 45482	katteurt	
@@ -33255,7 +33255,7 @@
 45907	kisel	
 45908	kiselalge	
 45909	kiselgur	
-45910	kiselstein	
+45910	kiselstein	SN
 45912	kiselsyre	
 45917	kiste	
 45918	kistebenk	
@@ -33353,8 +33353,8 @@
 46060	kjelerom	
 46061	kjêlsmed	
 46062	kjelesmed	
-46063	kjêlstein	
-46064	kjelestein	
+46063	kjêlstein	SN
+46064	kjelestein	SN
 46065	kjeletrykk	
 46066	kjêlflikkar	
 46067	kjeleflikkar	
@@ -33405,7 +33405,7 @@
 46118	kjêlrom	
 46119	kjelerom	
 46120	kjêlsmed	
-46121	kjêlstein	
+46121	kjêlstein	SN
 46122	kjelter	
 46124	kjeltring	
 46125	kjeltringpakk	
@@ -34035,7 +34035,7 @@
 46888	klapp	
 46890	klapperorm	
 46891	klapperslange	
-46892	klappjakt	
+46892	klappjakt	N
 46893	klappmyss	
 46894	klappsalve	
 46895	klappsæte	
@@ -34145,7 +34145,7 @@
 47051	klaviatur	
 47052	klavikord	
 47055	kleber	
-47056	kleberstein	
+47056	kleberstein	SN
 47057	klebunad	
 47058	kledebunad	
 47059	klesbunad	
@@ -34482,7 +34482,7 @@
 47487	klinkhammar	
 47489	klinknagle	
 47490	klinksaum	
-47491	klinkstein	
+47491	klinkstein	SN
 47492	klinte	
 47497	klipp	
 47498	klypp	
@@ -34521,7 +34521,7 @@
 47546	kliveplante	
 47547	klivesport	
 47549	kljå	
-47550	kljåstein	
+47550	kljåstein	SN
 47551	klo	
 47552	kloakk	
 47553	kloakkanlegg	
@@ -35075,7 +35075,7 @@
 48435	knusemaskin	
 48436	knusemølle	
 48437	knusemylne	
-48438	knusestein	
+48438	knusestein	SN
 48439	knuseverk	
 48440	knusing	
 48441	knusingsskade	
@@ -35276,7 +35276,7 @@
 48692	kokskjellar	
 48693	kokslager	
 48694	koksomn	
-48695	kokstein	
+48695	kokstein	SN
 48696	koksverk	
 48697	kol	
 48699	kolaks	
@@ -35591,7 +35591,7 @@
 49083	kommunist	
 49085	kommunisthets	
 49086	kommunistinfiltrasjon	
-49088	kommunistjakt	
+49088	kommunistjakt	N
 49090	kommunistskrekk	
 49091	kommunistsympatisør	
 49097	kommutasjon	
@@ -36386,7 +36386,7 @@
 50075	koppnagle	
 50076	koppsaum	
 50077	koppskatt	
-50078	koppstein	
+50078	koppstein	SN
 50079	koppul	
 50080	kuppul	
 50087	kopra	
@@ -38007,7 +38007,7 @@
 52183	kuppel	
 52185	kuppelhovud	
 52186	kuppelkvelv	
-52187	kuppelstein	
+52187	kuppelstein	SN
 52188	kuppforsøk	
 52189	kuppfreistnad	
 52190	koppul	
@@ -38118,7 +38118,7 @@
 52336	kvad	
 52337	kvader	
 52338	kvadermur	
-52339	kvaderstein	
+52339	kvaderstein	SN
 52340	kvadragesima	
 52341	kvadrant	
 52342	kvadrat	
@@ -38446,7 +38446,7 @@
 52794	kvernknarr	
 52795	kvernknurr	
 52796	kvernrenne	
-52797	kvernstein	
+52797	kvernstein	SN
 52798	kvernteine	
 52799	kvernvatn	
 52803	kverksvull	
@@ -39102,7 +39102,7 @@
 53641	lady	
 53643	laft	
 53645	laftehus	
-53646	laftestein	
+53646	laftestein	SN
 53647	lafteverk	
 53648	lafting	
 53649	lag	
@@ -39605,7 +39605,7 @@
 54326	lastverk	
 54327	lasur	
 54328	lasurfarge	
-54329	lasurstein	
+54329	lasurstein	SN
 54337	ladetein	
 54338	latein	
 54339	lateks	
@@ -41588,7 +41588,7 @@
 57099	lunde	
 57100	lundefugl	
 57101	lundehund	
-57102	lundejakt	
+57102	lundejakt	N
 57103	lune	
 57110	lunge	
 57111	lungebetennelse	
@@ -41814,8 +41814,8 @@
 57424	lyftar	
 57427	lyftearm	
 57428	løftearm	
-57429	løftestein	
-57430	lyftestein	
+57429	løftestein	SN
+57430	lyftestein	SN
 57431	løftestong	
 57432	lyftestong	
 57433	løfting	
@@ -42274,7 +42274,7 @@
 58061	løft	
 58062	løftar	
 58064	løftearm	
-58065	løftestein	
+58065	løftestein	SN
 58066	løftestong	
 58069	løgn	
 58070	lygn	
@@ -42754,8 +42754,8 @@
 58652	magnetisering	
 58654	magnetisme	
 58655	magnetitt	
-58656	magnetjarnstein	
-58657	magnetjernstein	
+58656	magnetjarnstein	SN
+58657	magnetjernstein	SN
 58658	magnetkompas	
 58659	magnetkompass	
 58660	magnetkort	
@@ -43271,7 +43271,7 @@
 59381	marknadsøkonomi	
 59382	marksjeidar	
 59383	markskrikar	
-59387	markstein	
+59387	markstein	SN
 59388	markør	
 59389	marlake	
 59390	marm	
@@ -44029,7 +44029,7 @@
 60410	merkepenn	
 60411	merkesak	
 60412	merkesmann	
-60413	merkestein	
+60413	merkestein	SN
 60414	merkestong	
 60415	merkevare	
 60416	merkeverkstad	
@@ -44119,7 +44119,7 @@
 60534	meteoritt	
 60535	meteorolog	
 60536	meteorologi	
-60538	meteorstein	
+60538	meteorstein	N
 60539	meter	
 60540	meter	
 60542	meterband	
@@ -44383,7 +44383,7 @@
 60895	mile	
 60896	milebrenning	
 60898	milepåle	
-60899	milestein	
+60899	milestein	SN
 60900	milestolpe	
 60904	militarisme	
 60905	militarist	
@@ -44544,7 +44544,7 @@
 61104	minnesamvære	
 61105	minnesmerke	
 61106	minnesong	
-61107	minnestein	
+61107	minnestein	SN
 61108	minnestund	
 61109	minnetal	
 61110	minnetale	
@@ -45483,7 +45483,7 @@
 62516	murring	
 62517	mursement	
 62518	murskei	
-62519	murstein	
+62519	murstein	SN
 62520	murtvang	
 62521	murv	
 62522	murvegg	
@@ -45661,8 +45661,8 @@
 62764	mylnehjul	
 62765	møllespel	
 62766	mylnespel	
-62767	møllestein	
-62768	mylnestein	
+62767	møllestein	SN
+62768	mylnestein	SN
 62769	mylse	
 62770	mylske	
 62771	mynd	
@@ -45822,8 +45822,8 @@
 62972	mylnedam	
 62973	møllespel	
 62974	mylnespel	
-62975	møllestein	
-62976	mylnestein	
+62975	møllestein	SN
+62976	mylnestein	SN
 62979	møllkule	
 62980	molkule	
 62981	møllmiddel	
@@ -46111,7 +46111,7 @@
 63390	måneskin	
 63391	måneskinslampe	
 63392	måneskinstur	
-63393	månestein	
+63393	månestein	SN
 63394	månesjuke	
 63395	månesykje	
 63396	måneår	
@@ -46415,7 +46415,7 @@
 63789	natt-og-dag	
 63790	nattpotte	
 63791	nattradio	
-63792	nattsafe	
+63792	nattsafe	F
 63793	nattset	
 63794	nattsett	
 63795	nattsete	
@@ -46499,7 +46499,7 @@
 63897	natursilke	
 63898	naturskade	
 63899	naturskildring	
-63900	naturstein	
+63900	naturstein	N
 63902	natursvin	
 63903	naturtalent	
 63904	naturtone	
@@ -46884,7 +46884,7 @@
 64513	neverskrukke	
 64514	nevertak	
 64515	neveslag	
-64516	nevestein	
+64516	nevestein	SN
 64519	nevetak	
 64525	neuralgi	
 64526	nevralgi	
@@ -47505,7 +47505,7 @@
 65431	nype	
 65433	nypekjerr	
 65434	nyperose	
-65435	nypestein	
+65435	nypestein	SN
 65436	nypesuppe	
 65437	nypete	
 65438	nypetorn	
@@ -47519,7 +47519,7 @@
 65448	nyreising	
 65449	nyreragu	
 65450	nyresjukdom	
-65451	nyrestein	
+65451	nyrestein	SN
 65452	nyretalg	
 65453	nyretransplantasjon	
 65455	nyrydding	
@@ -48161,7 +48161,7 @@
 66336	oliventre	
 66337	olivin	
 66338	olivinsand	
-66339	olivinstein	
+66339	olivinstein	SN
 66340	olje	
 66342	oljeaksje	
 66343	oljebad	
@@ -49253,7 +49253,7 @@
 67853	orremyr	
 67854	orrespel	
 67855	orrfugl	
-67856	orrfugljakt	
+67856	orrfugljakt	N
 67857	orrhane	
 67858	orrhøne	
 67860	orsaking	
@@ -49590,7 +49590,7 @@
 68362	overskrift	
 68367	overslag	
 68370	overspel	
-68377	overstein	
+68377	overstein	SN
 68378	overstell	
 68379	overstemme	
 68381	overstikk	
@@ -49845,7 +49845,7 @@
 68778	pannekakerøre	
 68779	pannelin	
 68780	pannelugg	
-68781	pannestein	
+68781	pannestein	SN
 68782	panoptikon	
 68783	panorama	
 68784	panoramafilm	
@@ -50737,7 +50737,7 @@
 69941	pilt	
 69943	pimiento	
 69945	pimpernell	
-69946	pimpstein	
+69946	pimpstein	SN
 69949	pinakotek	
 69952	pincenez	
 69953	pine	
@@ -51043,8 +51043,8 @@
 70413	plomme	
 70414	plome	
 70415	plomme	
-70416	plomestein	
-70417	plommestein	
+70416	plomestein	SN
+70417	plommestein	SN
 70418	plometre	
 70419	plommetre	
 70420	plopp	
@@ -51477,7 +51477,7 @@
 70981	postekspeditør	
 70982	poster	
 70986	postering	
-70987	posteringsjakt	
+70987	posteringsjakt	N
 70989	postflagg	
 70990	postflagg	
 70991	postfunksjonær	
@@ -52357,7 +52357,7 @@
 72175	prøveskot	
 72176	prøveskott	
 72178	prøvestans	
-72179	prøvestein	
+72179	prøvestein	SN
 72180	prøvestogg	
 72181	prøvetaking	
 72182	prøveteig	
@@ -52435,7 +52435,7 @@
 72299	pukk	
 72301	pukkel	
 72302	pukkelrygg	
-72309	pukkstein	
+72309	pukkstein	SN
 72310	pukkverk	
 72311	pulder	
 72314	pulje	
@@ -53826,7 +53826,7 @@
 74418	renneskeid	
 74419	renneskite	
 74420	rennesnare	
-74421	rennestein	
+74421	rennestein	SN
 74422	rennestol	
 74423	rennesjuke	
 74424	rennesykje	
@@ -54736,7 +54736,7 @@
 75731	rovfisk	
 75732	rovfiske	
 75733	rovfugl	
-75734	rovjakt	
+75734	rovjakt	N
 75735	rovlyst	
 75736	rovmord	
 75737	rovmordar	
@@ -54806,7 +54806,7 @@
 75837	rulleski	
 75838	rulleskøyte	
 75839	rulleskeise	
-75840	rullestein	
+75840	rullestein	SN
 75841	rullestol	
 75842	rulletrapp	
 75843	rulletropp	
@@ -54871,7 +54871,7 @@
 75930	runerekke	
 75931	runerekkje	
 75932	runestav	
-75933	runestein	
+75933	runestein	SN
 75934	runeteikn	
 75936	runn	
 75937	runne	
@@ -55496,27 +55496,27 @@
 76837	sabel	N
 76838	sabelhogg	N
 76839	sabelklirr	NE
-76840	sabelrasling	SN
+76840	sabelrasling	S
 76841	sabelslukar	N
 76844	sabotasje	N
 76845	sabotasjeaksjon	S
-76846	sabotasjehandling	
-76847	sabotasjemål	
-76849	sabotør	
-76850	sadd	
-76852	saddukear	
-76853	sadisme	
-76854	sadist	
-76856	sadomasochisme	
-76858	safari	
-76859	safarijakke	
-76860	safarijakt	
-76861	safe	
-76863	saffian	
-76864	saffianskinn	
-76865	saffiansko	
-76866	safir	
-76868	safirstein	
+76846	sabotasjehandling	S
+76847	sabotasjemål	S
+76849	sabotør	N
+76850	sadd	E
+76852	saddukear	N
+76853	sadisme	N
+76854	sadist	N
+76856	sadomasochisme	N
+76858	safari	N
+76859	safarijakke	N
+76860	safarijakt	N
+76861	safe	F
+76863	saffian	N
+76864	saffianskinn	N
+76865	saffiansko	N
+76866	safir	N
+76868	safirstein	SN
 76869	safran	
 76871	saft	
 76872	saftdrikk	
@@ -55763,7 +55763,7 @@
 77176	saltre	
 77177	saltsild	
 77178	saltsmak	
-77181	saltstein	
+77181	saltstein	SN
 77182	saltsyre	
 77183	salttablett	
 77184	saltvassfisk	
@@ -56193,7 +56193,7 @@
 77739	sandhaug	
 77741	sandhønsfamilie	
 77742	sandinist	
-77744	sandjakt	
+77744	sandjakt	N
 77745	sandjekt	
 77746	sandjord	
 77747	sandkake	
@@ -56213,7 +56213,7 @@
 77763	sandrøyr	
 77764	sandsekk	
 77765	sandskjel	
-77766	sandstein	
+77766	sandstein	SN
 77767	sandstorm	
 77768	sandstrand	
 77770	sandsvale	
@@ -56542,8 +56542,8 @@
 78232	segldukssko	
 78233	segle	
 78234	sigle	
-78237	seglestein	
-78238	siglestein	
+78237	seglestein	SN
+78238	siglestein	SN
 78239	seglfartøy	
 78240	seglfarty	
 78241	seglflate	
@@ -57623,8 +57623,8 @@
 79637	segle	
 79638	sigle	
 79639	sigle	
-79642	seglestein	
-79643	siglestein	
+79642	seglestein	SN
+79643	siglestein	SN
 79644	segling	
 79645	sigling	
 79646	seglingshøgd	
@@ -58122,7 +58122,7 @@
 80289	sjako	
 80290	sjakrar	
 80292	sjakring	
-80294	sjakt	
+80294	sjakt	N
 80295	sjaktel	
 80296	sjal	
 80297	sjalottløk	
@@ -58967,7 +58967,7 @@
 81536	skattegrunnlag	
 81537	skatteinngang	
 81538	skatteinspektør	
-81539	skattejakt	
+81539	skattejakt	N
 81540	skattejungel	
 81541	skatteklasse	
 81542	skattekort	
@@ -59529,7 +59529,7 @@
 82278	skivehorv	
 82279	skivehus	
 82280	skivesopp	
-82281	skivestein	
+82281	skivestein	SN
 82282	skivestong	
 82284	skivoks	
 82285	skivre	
@@ -60313,7 +60313,7 @@
 83277	skorpion	
 83284	skorsoner	
 83285	skorsonerrot	
-83286	skorstein	
+83286	skorstein	SN
 83287	skorsteinsfeiar	
 83288	skorsteinspipe	
 83289	skort	
@@ -61969,8 +61969,8 @@
 85629	sly	
 85631	slide	
 85632	slig	
-85635	slikestein	
-85636	slikjestein	
+85635	slikestein	SN
+85636	slikjestein	SN
 85637	slikk	
 85638	slikk	
 85640	slikkepinn	
@@ -62013,7 +62013,7 @@
 85693	slipereim	
 85694	sliperi	
 85695	slipeskive	
-85696	slipestein	
+85696	slipestein	SN
 85697	slipetømmer	
 85698	sliptømmer	
 85699	sliping	
@@ -62173,7 +62173,7 @@
 85935	sluttsetel	
 85936	sluttspel	
 85937	sluttspurt	
-85938	sluttstein	
+85938	sluttstein	SN
 85939	sluttstrek	
 85940	sluttstrid	
 85941	sluttstykke	
@@ -62442,12 +62442,12 @@
 86365	smusstittel	
 86366	smyg	
 86367	smyg	
-86369	smygjakt	
+86369	smygjakt	N
 86370	smøystol	
 86371	smygstol	
 86372	smykke	
 86374	smykkeskrin	
-86375	smykkestein	
+86375	smykkestein	SN
 86376	smykketjuv	
 86377	smykketjuveri	
 86378	smyle	
@@ -62599,7 +62599,7 @@
 86595	småspove	
 86597	småspue	
 86598	småstad	
-86599	småstein	
+86599	småstein	SN
 86603	småstykke	
 86604	småsum	
 86605	småsyre	
@@ -62615,7 +62615,7 @@
 86619	småved	
 86620	småvêr	
 86621	småvilt	
-86622	småviltjakt	
+86622	småviltjakt	N
 86624	småærend	
 86629	snabb	
 86630	snabel	
@@ -62804,7 +62804,7 @@
 86951	snu	
 86959	snubbord	
 86962	snublesnor	
-86963	snublestein	
+86963	snublestein	SN
 86965	snue	
 86967	snufs	
 86972	snufsing	
@@ -63016,7 +63016,7 @@
 87271	snåling	
 87274	snåptur	
 87275	snår	
-87277	snåvestein	
+87277	snåvestein	SN
 87278	soaré	
 87279	sobel	
 87280	sobelskinn	
@@ -63764,7 +63764,7 @@
 88224	spelestil	
 88225	speletime	
 88226	spelfugl	
-88227	speljakt	
+88227	speljakt	N
 88228	spelkort	
 88229	spellag	
 88230	spelemann	
@@ -64357,7 +64357,7 @@
 89053	srilankar	
 89062	stab	
 89063	stabbe	
-89065	stabbestein	
+89065	stabbestein	SN
 89066	stabbur	
 89067	stabbursdør	
 89068	stabburshelle	
@@ -64714,8 +64714,8 @@
 89541	steiketid	
 89542	steikjetid	
 89545	steilskrift	
-89546	stein	
-89548	stein	
+89546	stein	SN
+89548	stein	SN
 89550	steinalder	
 89553	steinandlet	
 89554	steinansikt	
@@ -65389,7 +65389,7 @@
 90490	storveg	
 90494	storverk	
 90495	storvilt	
-90496	storviltjakt	
+90496	storviltjakt	N
 90499	story	
 90502	storår	
 90503	stotar	
@@ -66300,7 +66300,7 @@
 91816	støytar	
 91817	støytdempar	
 91819	støytekinne	
-91820	støytestein	
+91820	støytestein	SN
 91821	støytfangar	
 91822	støytpute	
 91823	støyttann	
@@ -67011,7 +67011,7 @@
 92920	sviske	
 92921	sviskegraut	
 92922	sviskekompott	
-92923	sviskestein	
+92923	sviskestein	SN
 92924	sviskesuppe	
 92925	svitt	
 92926	svitte	
@@ -67527,8 +67527,8 @@
 93701	søkkjemine	
 93702	søkkemyr	
 93703	søkkjemyr	
-93704	søkkestein	
-93705	søkkjestein	
+93704	søkkestein	SN
+93705	søkkjestein	SN
 93706	søkketømmer	
 93707	søkkjetømmer	
 93711	søkkedike	
@@ -67541,8 +67541,8 @@
 93720	søkkjemine	
 93721	søkkemyr	
 93722	søkkjemyr	
-93723	søkkestein	
-93724	søkkjestein	
+93723	søkkestein	SN
+93724	søkkjestein	SN
 93725	søkketømmer	
 93726	søkkjetømmer	
 93731	søknad	
@@ -67954,7 +67954,7 @@
 94356	taksperre	
 94357	takspon	
 94358	takst	
-94360	takstein	
+94360	takstein	SN
 94361	takstgrense	
 94362	takstmann	
 94363	takstol	
@@ -68012,7 +68012,7 @@
 94425	talemåte	
 94426	talent	
 94427	talent	
-94429	talentjakt	
+94429	talentjakt	N
 94430	talentjeger	
 94432	talentspeiar	
 94433	talentspeidar	
@@ -68284,7 +68284,7 @@
 94756	tannrøkt	
 94757	tannsett	
 94758	tannskifte	
-94759	tannstein	
+94759	tannstein	SN
 94760	tannstikkar	
 94761	tannstilling	
 94762	tannstong	
@@ -68507,7 +68507,7 @@
 95053	teglpanne	
 95055	teglrør	
 95056	teglrøyr	
-95057	teglstein	
+95057	teglstein	SN
 95058	teglsteinste	
 95059	tegltak	
 95060	tegltekkar	
@@ -68612,8 +68612,8 @@
 95178	tekkjelag	
 95183	tekkenever	
 95184	tekkjenever	
-95185	tekkestein	
-95186	tekkjestein	
+95185	tekkestein	SN
+95186	tekkjestein	SN
 95187	teklipper	
 95189	teknikar	
 95190	teknikk	
@@ -68802,7 +68802,7 @@
 95401	telg	
 95403	telgjebile	
 95404	telgjekniv	
-95405	telgjestein	
+95405	telgjestein	SN
 95406	telgjeøks	
 95408	teljar	
 95409	teljarskritt	
@@ -70335,7 +70335,7 @@
 97635	toppluve	
 97636	toppidrett	
 97637	toppidrott	
-97638	toppjakt	
+97638	toppjakt	N
 97639	toppklasse	
 97640	topp-plan	
 97641	topplan	
@@ -70390,7 +70390,7 @@
 97702	toreslag	
 97703	toreslått	
 97704	toresmell	
-97705	torestein	
+97705	torestein	SN
 97706	torevêr	
 97707	torg	
 97708	torgdag	
@@ -74409,7 +74409,7 @@
 104183	understakk	
 104184	understand	
 104185	understatement	
-104186	understein	
+104186	understein	SN
 104187	understell	
 104189	understemme	
 104190	understrøm	
@@ -75930,7 +75930,7 @@
 107025	vadmålstrøye	
 107026	vadmålsystem	
 107031	vadsekk	
-107032	vadstein	
+107032	vadstein	SN
 107033	vaffel	
 107034	vaffelhjarta	
 107035	vaffelhjarte	
@@ -75951,7 +75951,7 @@
 107057	vagg	
 107058	vagg	
 107059	vagge	
-107061	vaggestein	
+107061	vaggestein	SN
 107062	vagina	
 107064	vaginisme	
 107065	vaginitt	
@@ -76437,7 +76437,7 @@
 107711	vargstove	
 107712	vargstue	
 107713	varggaupe	
-107714	vargjakt	
+107714	vargjakt	N
 107715	vargskinn	
 107716	vargspor	
 107718	vargtid	
@@ -76518,7 +76518,7 @@
 107809	varmeskåp	
 107810	varmeskap	
 107811	varmeskiftar	
-107812	varmestein	
+107812	varmestein	SN
 107813	varmestove	
 107814	varmestue	
 107815	varmestråle	
@@ -77298,7 +77298,7 @@
 108746	veikliv	
 108749	veikrygg	
 108750	veikskap	
-108751	veikstein	
+108751	veikstein	SN
 108754	veikår	
 108755	veikåre	
 108757	veile	
@@ -78791,7 +78791,7 @@
 110717	vevskei	
 110718	vevskultur	
 110719	vevslære	
-110720	vevstein	
+110720	vevstein	SN
 110721	vevstol	
 110722	vevstype	
 110723	vevsvæske	
@@ -79108,7 +79108,7 @@
 111123	villmink	
 111124	villnis	
 111126	villrein	
-111127	villreinjakt	
+111127	villreinjakt	N
 111128	villrot	
 111129	villråd	
 111132	villsau	
@@ -79380,7 +79380,7 @@
 111463	vinskjønnar	
 111464	vinsmakar	
 111465	vinst	
-111466	vinstein	
+111466	vinstein	SN
 111467	vinster	
 111468	vinstokk	
 111469	vinstove	
@@ -79689,7 +79689,7 @@
 111868	vitneplikt	
 111869	vitneprov	
 111870	vitnesbyrd	
-111871	vitnestein	
+111871	vitnestein	SN
 111872	vitneutsegn	
 111876	vitring	
 111877	vitriol	
@@ -79953,7 +79953,7 @@
 112209	vortebitar	
 112211	vortemjølk	
 112212	vorteskurv	
-112213	vortestein	
+112213	vortestein	SN
 112214	vortesvin	
 112218	vossakurv	
 112219	vossarull	
@@ -81111,7 +81111,7 @@
 113926	øresnipp	
 113929	ørespyttkjertel	
 113930	ørestav	
-113931	ørestein	
+113931	ørestein	SN
 113932	øresting	
 113933	ørestingar	
 113934	ørestol	
@@ -81308,8 +81308,8 @@
 114216	øyrespyttkjertel	
 114217	ørestav	
 114218	øyrestav	
-114219	ørestein	
-114220	øyrestein	
+114219	ørestein	SN
+114220	øyrestein	SN
 114221	øresting	
 114222	øyresting	
 114223	ørestingar	
@@ -81614,7 +81614,7 @@
 114651	årmålstilsetjing	
 114652	årmålstilsetting	
 114656	årestad	
-114657	årestein	
+114657	årestein	SN
 114658	årestove	
 114659	årestue	
 114663	åretak	
@@ -83061,7 +83061,7 @@
 124705	høringsfråsegn	
 124706	firhjulsdrift	
 124707	firehjulsdrift	
-124708	heksejakt	
+124708	heksejakt	N
 124709	beinskjørheit	
 124710	hypertekst	
 124711	flaggborg	
