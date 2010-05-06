@@ -15,6 +15,9 @@
 # me kan markera «vin» som N og «raudvin» som S (og leva med at nye
 # lange ord som har «vin» inni seg ikkje vert rett attkjende).
 #
+# Merk: e-fuge har ofte det motsette tilhøvet til samansetjing, ordet
+# «ulv» har E medan «bergulv» har N
+#
 1	A	F
 2	a	F
 16	abbed	N
