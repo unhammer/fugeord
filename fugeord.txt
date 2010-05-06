@@ -31700,78 +31700,78 @@
 43976	kaféeigar	N
 43977	kafégjest	N
 43978	kaféliv	S
-43979	kafélokale	
-43980	kafémat	
-43981	kafeteria	
-43982	kafeteriadisk	
-43983	kafeteriasystem	
-43984	kafévert	
-43985	kafévertinne	
-43986	kaffar	
-43988	koffein	
-43989	kaffi	
-43990	kaffibønne	
-43991	kaffibaune	
-43992	kaffiblanding	
-43993	kaffiboks	
-43994	kaffibord	
-43995	kaffibrenneri	
-43996	kaffibrett	
-43998	kaffibrød	
-43999	kaffibusk	
-44000	kaffibønne	
-44001	kaffibaune	
-44002	kaffidisk	
-44003	kaffidokter	
-44004	kaffidrikkar	
-44005	kaffidrikking	
-44006	kaffidråpe	
-44007	kaffidrope	
-44008	kaffidrøs	
-44009	kaffiduk	
-44010	kaffierstatning	
-44011	kaffifløyte	
-44012	kaffiforretning	
-44013	kaffigrugg	
-44014	kaffigrut	
-44015	kaffihus	
-44016	kaffikake	
-44017	kaffikanne	
-44018	kaffikjel	
-44019	kaffikjele	
-44020	kaffikjerring	
-44021	kaffikokar	
-44022	kaffikopp	
-44023	kaffikos	
-44024	kaffikvern	
-44025	kaffikvil	
-44026	kaffikvild	
-44027	kaffilars	
-44028	kaffilukt	
-44029	kaffimat	
-44030	kaffimjølk	
-44031	kaffipause	
-44032	kaffiplantasje	
-44033	kaffipose	
-44034	kaffipulver	
-44035	kaffirast	
-44036	kaffiservise	
-44037	kaffisett	
-44039	kaffiskvett	
-44040	kaffislabberas	
-44041	kaffispleis	
-44042	kaffistell	
-44043	kaffistove	
-44044	kaffistue	
-44045	kaffisurrogat	
-44046	kaffitid	
-44047	kaffitraktar	
-44048	kaffitre	
-44049	kaffitrektar	
-44052	kaffitår	
-44053	kaffivatn	
-44054	kaffiøkt	
-44056	kaftan	
+43979	kafélokale	N
+43980	kafémat	N
+43981	kafeteria	N
+43982	kafeteriadisk	N
+43983	kafeteriasystem	N
+43984	kafévert	N
+43985	kafévertinne	N
+43986	kaffar	N
+43988	koffein	N
+43989	kaffi	N
+43990	kaffibønne	N
+43991	kaffibaune	N
+43992	kaffiblanding	S
+43993	kaffiboks	N
+43994	kaffibord	N
+43995	kaffibrenneri	N
+43996	kaffibrett	N
+43998	kaffibrød	N
+43999	kaffibusk	N
+44000	kaffibønne	N
+44001	kaffibaune	N
+44002	kaffidisk	N
+44003	kaffidokter	N
+44004	kaffidrikkar	N
+44005	kaffidrikking	S
+44006	kaffidråpe	N
+44007	kaffidrope	N
+44008	kaffidrøs	N
+44009	kaffiduk	N
+44010	kaffierstatning	S
+44011	kaffifløyte	N
+44012	kaffiforretning	S
+44013	kaffigrugg	N
+44014	kaffigrut	N
+44015	kaffihus	N
+44016	kaffikake	N
+44017	kaffikanne	N
+44018	kaffikjel	N
+44019	kaffikjele	N
+44020	kaffikjerring	N
+44021	kaffikokar	N
+44022	kaffikopp	N
+44023	kaffikos	N
+44024	kaffikvern	N
+44025	kaffikvil	N
+44026	kaffikvild	N
+44027	kaffilars	N
+44028	kaffilukt	N
+44029	kaffimat	N
+44030	kaffimjølk	N
+44031	kaffipause	N
+44032	kaffiplantasje	N
+44033	kaffipose	N
+44034	kaffipulver	N
+44035	kaffirast	N
+44036	kaffiservise	N
+44037	kaffisett	N
+44039	kaffiskvett	N
+44040	kaffislabberas	N
+44041	kaffispleis	N
+44042	kaffistell	N
+44043	kaffistove	N
+44044	kaffistue	N
+44045	kaffisurrogat	N
+44046	kaffitid	N
+44047	kaffitraktar	N
+44048	kaffitre	N
+44049	kaffitrektar	N
+44052	kaffitår	N
+44053	kaffivatn	N
+44054	kaffiøkt	N
+44056	kaftan	N
 44057	kag	
 44058	kage	
 44060	kagg	
