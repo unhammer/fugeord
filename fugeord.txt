@@ -31639,67 +31639,67 @@
 43902	jåleskap	
 43906	jås	
 43907	jåss	
-43910	K	
-43911	k	
-43914	kabal	
-43915	kabaret	
-43916	kabaretfat	
-43917	kabaretkunstnar	
-43918	kabaretsongar	
-43919	kabaretsongarinne	
-43920	kabaretteater	
-43921	kabaretvise	
-43922	kabb	
-43923	kabbala	
-43924	kabbalisme	
-43925	kabbalist	
-43927	kabbe	
-43929	kabel	
-43930	kabelbane	
-43931	kabelfabrikk	
-43932	kabelfartøy	
-43933	kabelfarty	
-43934	kabelfjernsyn	
-43935	kabelgarn	
-43936	kabelgat	
-43937	kabelgatt	
-43938	kabellengd	
-43939	kabelselskap	
-43940	kabelsending	
-43941	kabelskip	
-43942	kabin	
-43943	kabinett	
-43944	kabinettsspørsmål	
-43945	kabinkryssar	
-43946	kabinpersonale	
-43947	kabriolet	
-43948	kabyl	
-43949	kabyss	
-43950	kabysse	
-43952	kadaver	
-43953	kadaverdisiplin	
-43954	kadaverlydnad	
-43955	kadens	
-43956	kader	
-43957	kaderparti	
-43958	kaderprinsipp	
-43959	kadett	
-43960	kadetthue	
-43961	kadetthuve	
-43962	kadettlue	
-43963	kadettluve	
-43964	kadettøy	
-43965	kadett-tøy	
-43966	kadett-ty	
-43967	kadetty	
-43968	kadettuniform	
-43969	kadi	
-43972	kadreiar	
-43973	kadreiarbåt	
-43975	kafé	
-43976	kaféeigar	
-43977	kafégjest	
-43978	kaféliv	
+43910	K	F
+43911	k	F
+43914	kabal	N
+43915	kabaret	N
+43916	kabaretfat	N
+43917	kabaretkunstnar	N
+43918	kabaretsongar	N
+43919	kabaretsongarinne	N
+43920	kabaretteater	N
+43921	kabaretvise	N
+43922	kabb	N
+43923	kabbala	N
+43924	kabbalisme	N
+43925	kabbalist	N
+43927	kabbe	N
+43929	kabel	N
+43930	kabelbane	N
+43931	kabelfabrikk	N
+43932	kabelfartøy	N
+43933	kabelfarty	N
+43934	kabelfjernsyn	S
+43935	kabelgarn	N
+43936	kabelgat	N
+43937	kabelgatt	N
+43938	kabellengd	N
+43939	kabelselskap	S
+43940	kabelsending	S
+43941	kabelskip	S
+43942	kabin	N
+43943	kabinett	S
+43944	kabinettsspørsmål	S
+43945	kabinkryssar	N
+43946	kabinpersonale	K
+43947	kabriolet	N
+43948	kabyl	N
+43949	kabyss	N
+43950	kabysse	N
+43952	kadaver	N
+43953	kadaverdisiplin	N
+43954	kadaverlydnad	S
+43955	kadens	N
+43956	kader	N
+43957	kaderparti	N
+43958	kaderprinsipp	N
+43959	kadett	N
+43960	kadetthue	N
+43961	kadetthuve	N
+43962	kadettlue	N
+43963	kadettluve	N
+43964	kadettøy	N
+43965	kadett-tøy	N
+43966	kadett-ty	N
+43967	kadetty	N
+43968	kadettuniform	S
+43969	kadi	N
+43972	kadreiar	N
+43973	kadreiarbåt	N
+43975	kafé	N
+43976	kaféeigar	N
+43977	kafégjest	N
+43978	kaféliv	S
 43979	kafélokale	
 43980	kafémat	
 43981	kafeteria	
