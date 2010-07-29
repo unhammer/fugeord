@@ -41884,8 +41884,8 @@
 57508	lykkekjensle	
 57513	lukkerus	
 57514	lykkerus	
-57515	lukkeskilling	
-57516	lykkeskilling	
+57515	lukkeskilling	S
+57516	lykkeskilling	S
 57517	lukkespel	
 57518	lykkespel	
 57519	lukkestjerne	
