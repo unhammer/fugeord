@@ -1558,7 +1558,7 @@
 2074	ankertog	N
 2075	ankertrosse	N
 2076	ankervakt	N
-2077	ankesak	N
+2077	ankesak	NS
 2078	ankesum	N
 2080	ankring	S
 2081	ankringsplass	N
@@ -2138,7 +2138,7 @@
 2854	arkivlykel	N
 2855	arkivnøkkel	N
 2856	arkivnykel	N
-2857	arkivsak	S
+2857	arkivsak	SN
 2858	arkivsjef	N
 2859	arkivskåp	S
 2860	arkivskap	S
@@ -3038,7 +3038,7 @@
 4161	avhaldslosje	
 4162	avhaldsmann	
 4163	avhaldsrørsle	
-4164	avhaldssak	
+4164	avhaldssak	SN
 4166	avhandling	
 4167	avhandlingsstil	
 4175	avhengnad	
@@ -5054,7 +5054,7 @@
 6818	bidragsforskott	
 6819	bidragsfut	
 6820	bidragsplikt	
-6822	bidragssak	
+6822	bidragssak	SN
 6823	bidragsytar	
 6824	bidronning	
 6825	biedronning	
@@ -5533,7 +5533,7 @@
 7351	birøktar	
 7352	bierøktarlag	
 7353	birøktarlag	
-7354	bisak	
+7354	bisak	SN
 7355	bisam	
 7356	biesamfunn	
 7357	bisamfunn	
@@ -5953,7 +5953,7 @@
 7943	blindeførarhund	
 7944	blindekjuke	
 7945	blindemann	
-7946	blindesak	
+7946	blindesak	SN
 7947	blindeskole	
 7948	blindeskule	
 7949	blindeskrift	
@@ -7197,7 +7197,7 @@
 9525	brannvegg	
 9526	brannvern	
 9527	brannøving	
-9528	brannårsak	
+9528	brannårsak	SN
 9529	bransje	
 9530	bransjeavtale	
 9531	bransjeforeining	
@@ -11268,8 +11268,8 @@
 14960	drapsmann	
 14963	dråpsreiskap	
 14964	drapsreiskap	
-14965	dråpssak	
-14966	drapssak	
+14965	dråpssak	SN
+14966	drapssak	SN
 14969	dråpsstad	
 14970	drapsstad	
 14971	dråpsverk	
@@ -11692,7 +11692,7 @@
 15552	dråpsfreistnad	
 15553	dråpsmann	
 15555	dråpsreiskap	
-15556	dråpssak	
+15556	dråpssak	SN
 15558	dråpsstad	
 15559	dråpsverk	
 15560	dråpsvåpen	
@@ -12151,7 +12151,7 @@
 16232	dødsulykke	
 16233	dødsvon	
 16234	dødsår	
-16235	dødsårsak	
+16235	dødsårsak	SN
 16236	dødtid	
 16237	daudtid	
 16238	dødvatn	
@@ -12591,7 +12591,7 @@
 16851	eigedomsmeklar	
 16852	eigedomspronomen	
 16853	eigedomsrett	
-16854	eigedomssak	
+16854	eigedomssak	SN
 16855	eigedomsskatt	
 16856	eigedomsspekulasjon	
 16857	eigedomssøksmål	
@@ -13100,7 +13100,7 @@
 17611	ekspressending	
 17612	ekspresstog	
 17613	ekspropriasjon	
-17614	ekspropriasjonssak	
+17614	ekspropriasjonssak	SN
 17616	ekstase	
 17617	ekstatikar	
 17620	ekstemporallesing	
@@ -13924,7 +13924,7 @@
 18714	erstatningskrav	
 18715	erstatningslærar	
 18716	erstatningsplikt	
-18717	erstatningssak	
+18717	erstatningssak	SN
 18718	erstatningssøksmål	
 18719	erstattar	
 18721	ert	
@@ -14842,7 +14842,7 @@
 19986	farshus	
 19987	farsi	
 19988	farskap	
-19989	farskapssak	
+19989	farskapssak	SN
 19990	farsott	
 19991	farsrolle	
 19992	farsside	
@@ -15766,7 +15766,7 @@
 21229	filleonkel	
 21230	filler	
 21231	fillerye	
-21232	fillesak	
+21232	fillesak	SN
 21233	fillesekk	
 21234	filleskap	
 21238	filletante	
@@ -16689,7 +16689,7 @@
 22521	flaggermuserme	
 22522	flaggkaptein	
 22523	flaggline	
-22524	flaggsak	
+22524	flaggsak	SN
 22525	flaggskip	
 22526	flaggspett	
 22527	flaggspette	
@@ -18078,7 +18078,7 @@
 24695	formon	
 24696	formonn	
 24697	formor	
-24698	formsak	
+24698	formsak	SN
 24699	formsans	
 24700	formskrift	
 24701	formspråk	
@@ -19157,7 +19157,7 @@
 26244	fredspris	
 26245	fredsprisvinnar	
 26246	fredsrørsle	
-26247	fredssak	
+26247	fredssak	SN
 26248	fredssemjar	
 26249	fredssemje	
 26250	fredsslutning	
@@ -19864,7 +19864,7 @@
 27186	fråhaldsmann	
 27187	fråhaldsrestaurant	
 27188	fråhaldsrørsle	
-27189	fråhaldssak	
+27189	fråhaldssak	SN
 27193	frålandsvind	
 27195	fråråding	
 27198	fråsegn	
@@ -20407,7 +20407,7 @@
 27946	fyrverkeri	
 27947	fyrverkerirakett	
 27948	fyrverkrakett	
-27950	fysak	
+27950	fysak	N
 27951	fyse	
 27953	fysebete	
 27954	fysebit	
@@ -22996,7 +22996,7 @@
 31647	godprat	
 31649	godrøde	
 31651	gods	
-31652	godsak	
+31652	godsak	S
 31653	godsau	
 31654	godsbåt	
 31655	godseigar	
@@ -24069,7 +24069,7 @@
 33197	grønområde	
 33198	grøntområde	
 33199	grønruss	
-33200	grønsak	
+33200	grønsak	N
 33201	grønsakdyrkar	
 33202	grønsakdyrking	
 33203	grønsakhage	
@@ -25764,7 +25764,7 @@
 35509	hasselrunne	
 35510	hast	
 35516	hasteparagraf	
-35517	hastesak	
+35517	hastesak	N
 35519	hastverk	
 35520	hastverksarbeid	
 35521	hat	
@@ -47964,7 +47964,7 @@
 66065	odde	
 66066	odde	
 66068	oddemann	
-66069	oddetal	
+66069	oddetal	S
 66070	odds	
 66071	oddsbombe	
 66072	ode	
@@ -50110,7 +50110,7 @@
 69112	parsell	
 69115	parsisme	
 69117	part	
-69118	partal	
+69118	partal	S
 69119	parteigar	
 69120	partseigar	
 69121	partenogenese	
