@@ -2467,177 +2467,177 @@
 3299	atlask	N
 3300	atlaskbrokade	N
 3301	atlaskkjole	N
-3302	atlet	
-3304	atmosfære	
-3305	atmosfærestøy	
-3306	atmosfæreståk	
-3309	atoll	
-3310	atom	
-3311	atomalder	
-3313	atombombe	
-3314	atombygnad	
+3302	atlet	N
+3304	atmosfære	N
+3305	atmosfærestøy	N
+3306	atmosfæreståk	N
+3309	atoll	N
+3310	atom	N
+3311	atomalder	N
+3313	atombombe	N
+3314	atombygnad	S
 3315	atomdeling	S
-3317	atomenergi	
-3318	atomforskar	
+3317	atomenergi	N
+3318	atomforskar	N
 3319	atomforsking	S
-3321	atomfysikar	
-3322	atomfysikk	
-3324	atomisme	
-3326	atomkjerne	
+3321	atomfysikar	N
+3322	atomfysikk	N
+3324	atomisme	N
+3326	atomkjerne	N
 3327	atomkløyving	S
-3328	atomkraft	
+3328	atomkraft	N
 3329	atomkraftverk	
 3330	atomkrig	S
-3331	atommasse	
-3332	atommile	
-3333	atomnummer	
-3334	atomprøve	
-3335	atomreaktor	
+3331	atommasse	N
+3332	atommile	N
+3333	atomnummer	N
+3334	atomprøve	N
+3335	atomreaktor	N
 3336	atomspalting	S
-3337	atomstyrke	
-3338	atomteori	
-3339	atomubåt	
-3340	atomur	
-3341	atomvekt	
-3342	atomvåpen	
-3345	atonalitet	
-3348	A3-ark	
-3349	A3-format	
-3350	atrium	
-3351	atriumhage	
-3352	atriumhus	
-3353	atrofi	
+3337	atomstyrke	N
+3338	atomteori	N
+3339	atomubåt	N
+3340	atomur	N
+3341	atomvekt	N
+3342	atomvåpen	N
+3345	atonalitet	S
+3348	A3-ark	N
+3349	A3-format	N
+3350	atrium	N
+3351	atriumhage	N
+3352	atriumhus	N
+3353	atrofi	N
 3356	at-setning	S
-3360	attaché	
-3362	attakk	
-3370	attdiktar	
+3360	attaché	N
+3362	attakk	N
+3370	attdiktar	N
 3371	attdikting	S
 3374	attendebetaling	S
-3375	attendel	
-3376	attendetur	
-3377	attendeveg	
-3378	attenhundretal	
+3375	attendel	S
+3376	attendetur	N
+3377	attendeveg	N
+3378	attenhundretal	S
 3379	attenhundretalsdikting	N
-3380	attentat	
-3381	attentatforsøk	
-3382	attentatfreistnad	
-3383	attentatmann	
+3380	attentat	N
+3381	attentatforsøk	S
+3382	attentatfreistnad	S
+3383	attentatmann	N
 3385	attenåring	S
-3387	attenårsalder	
-3389	atterbod	
-3390	atterbære	
-3391	akterdekk	
-3392	atterdekk	
-3393	atterdøypar	
-3394	atterdåp	
-3395	atterende	
-3396	akterende	
-3397	atterende	
-3398	atterfall	
+3387	attenårsalder	S
+3389	atterbod	S
+3390	atterbære	N
+3391	akterdekk	S
+3392	atterdekk	S
+3393	atterdøypar	N
+3394	atterdåp	S
+3395	atterende	N
+3396	akterende	N
+3397	atterende	N
+3398	atterfall	S
 3401	atterføding	S
 3402	atterføing	S
-3403	atterfødsel	
-3404	atterfødsle	
-3405	attergang	
-3406	attergangar	
-3407	attergjeld	
-3409	atterglømme	
-3410	attergløyme	
+3403	atterfødsel	S
+3404	atterfødsle	N
+3405	attergang	S
+3406	attergangar	N
+3407	attergjeld	S
+3409	atterglømme	N
+3410	attergløyme	N
 3411	atterglømming	S
 3412	attergløyming	S
-3413	atterhald	
-3416	atterhand	
-3417	atteride	
-3418	akterkant	
-3419	atterkant	
-3420	atterkjøp	
-3421	atterkjøpsrett	
-3422	atterklang	
-3423	atterkome	
-3424	atterkomme	
-3425	akterlanterne	
-3426	atterlanterne	
-3427	atterlet	
-3428	atterljod	
-3429	atterlyd	
-3430	atterljom	
-3431	atterløysar	
+3413	atterhald	S
+3416	atterhand	S
+3417	atteride	N
+3418	akterkant	S
+3419	atterkant	S
+3420	atterkjøp	S
+3421	atterkjøpsrett	S
+3422	atterklang	N
+3423	atterkome	N
+3424	atterkomme	N
+3425	akterlanterne	N
+3426	atterlanterne	N
+3427	atterlet	S
+3428	atterljod	N
+3429	atterlyd	N
+3430	atterljom	N
+3431	atterløysar	N
 3434	atterreising	S
-3435	atterreisingsarbeid	
-3436	atterreisingsprogram	
-3437	atterrom	
-3438	akterrom	
-3439	atterrom	
-3453	atterskin	
-3454	akterskip	
-3455	atterskip	
-3457	akterskott	
-3458	akterskut	
-3459	atterskott	
-3460	atterskut	
-3461	akterskott	
-3462	atterskott	
-3463	atterslag	
-3464	akterspegel	
-3465	atterspegel	
-3466	akterstamn	
-3467	atterstamn	
-3468	attersteg	
-3469	attersting	
-3471	attersyn	
-3472	attertog	
+3435	atterreisingsarbeid	S
+3436	atterreisingsprogram	N
+3437	atterrom	S
+3438	akterrom	S
+3439	atterrom	S
+3453	atterskin	S
+3454	akterskip	S
+3455	atterskip	S
+3457	akterskott	N
+3458	akterskut	N
+3459	atterskott	N
+3460	atterskut	N
+3461	akterskott	N
+3462	atterskott	N
+3463	atterslag	S
+3464	akterspegel	N
+3465	atterspegel	N
+3466	akterstamn	N
+3467	atterstamn	N
+3468	attersteg	S
+3469	attersting	S
+3471	attersyn	N
+3472	attertog	N
 3486	attervending	S
-3487	atterverknad	
-3488	attest	
-3489	attestant	
-3490	attestasjon	
-3491	attestavskrift	
+3487	atterverknad	S
+3488	attest	N
+3489	attestant	N
+3490	attestasjon	S
+3491	attestavskrift	S
 3493	attestering	S
-3494	attestkopi	
-3495	attestutferdar	
+3494	attestkopi	N
+3495	attestutferdar	N
 3496	attfinning	S
 3497	attforteljing	S
 3499	attføring	S
-3500	attføringshjelp	
-3501	attføringsinstitutt	
-3504	attgifte	
+3500	attføringshjelp	N
+3501	attføringsinstitutt	N
+3504	attgifte	N
 3505	attgiving	S
 3506	attgjeving	S
-3514	attityde	
+3514	attityde	N
 3517	attkjenning	S
-3521	attlege	
-3522	attlegg	
-3524	attlevandepensjon	
-3525	attoversveis	
+3521	attlege	N
+3522	attlegg	S
+3524	attlevandepensjon	S
+3525	attoversveis	N
 3526	attpåbetaling	S
-3527	attpåklatt	
-3528	attpåsleng	
-3529	attpåsmell	
-3530	attpåtår	
-3532	attraksjon	
-3534	attraktivitet	
-3535	attrapp	
-3542	attrenne	
-3544	attributt	
-3545	attrå	
-3554	attval	
-3555	attvekst	
-3556	attvokster	
+3527	attpåklatt	N
+3528	attpåsleng	N
+3529	attpåsmell	N
+3530	attpåtår	N
+3532	attraksjon	S
+3534	attraktivitet	S
+3535	attrapp	N
+3542	attrenne	N
+3544	attributt	N
+3545	attrå	N
+3554	attval	NS
+3555	attvekst	S
+3556	attvokster	N
 3557	attvinning	S
-3560	attåtarbeid	
-3563	attåtfortenest	
-3564	attåtforteneste	
-3565	attåtinnkome	
-3566	attåtinnkomme	
-3567	attåtinntekt	
-3568	attåtkostnad	
+3560	attåtarbeid	S
+3563	attåtfortenest	E
+3564	attåtforteneste	N
+3565	attåtinnkome	N
+3566	attåtinnkomme	N
+3567	attåtinntekt	S
+3568	attåtkostnad	S
 3569	attåtnæring	S
-3570	attåtsmak	
+3570	attåtsmak	N
 3571	attåtstilling	S
 3572	attåttyding	S
-3573	attåtverknad	
-3574	attåtyrke	
-3575	atypi	
+3573	attåtverknad	S
+3574	attåtyrke	N
+3575	atypi	N
 3579	aubergine	
 3588	audiens	
 3589	audiensrom	
