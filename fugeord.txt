@@ -2638,291 +2638,291 @@
 3573	attåtverknad	S
 3574	attåtyrke	N
 3575	atypi	N
-3579	aubergine	
-3588	audiens	
-3589	audiensrom	
-3590	audienssal	
-3593	audiolog	
-3594	audiologi	
-3596	audiometer	
-3599	auditorium	
+3579	aubergine	N
+3588	audiens	N
+3589	audiensrom	SN
+3590	audienssal	N
+3593	audiolog	N
+3594	audiologi	N
+3596	audiometer	N
+3599	auditorium	S
 3604	audmjuking	S
-3605	audmjukskap	
+3605	audmjukskap	S
 3606	audmyking	S
-3609	audmykt	
-3610	audn	
-3611	audn	
-3614	audskap	
-3625	auga	
-3626	auge	
+3609	audmykt	N
+3610	audn	N
+3611	audn	N
+3614	audskap	S
+3625	auga	N
+3626	auge	N
 3628	augeavstand	S
 3629	augneavstand	S
-3630	augeblikk	
-3631	augneblikk	
-3632	augeblink	
-3633	augneblink	
-3634	augeblinksbilde	
+3630	augeblikk	S
+3631	augneblikk	S
+3632	augeblink	S
+3633	augneblink	S
+3634	augeblinksbilde	N
 3635	augeblinksbilete	K
-3636	augneblinksbilde	
+3636	augneblinksbilde	N
 3637	augneblinksbilete	K
-3638	augeblunk	
-3639	augneblunk	
-3640	augebragd	
-3641	augnebragd	
-3642	augebrun	
-3643	augnebrun	
-3644	augebryn	
-3645	augnebryn	
-3646	augedråpe	
-3647	augedrope	
-3648	augnedråpe	
-3649	augnedrope	
-3650	augeeple	
-3651	augneeple	
-3656	augegrann	
-3657	augnegrann	
-3658	augehole	
-3659	augnehole	
-3660	augehøgd	
-3661	augnehøgd	
-3662	augehår	
-3663	augnehår	
-3664	augekast	
-3665	augnekast	
-3666	augekontakt	
-3667	augnekontakt	
-3668	augekrik	
-3669	augnekrik	
-3670	augekrok	
-3671	augnekrok	
-3672	augekrå	
-3673	augnekrå	
-3674	augekvarm	
-3675	augnekvarm	
-3676	augekvite	
-3677	augnekvite	
-3678	augelag	
-3679	augnelag	
-3680	augelækjar	
-3681	augelege	
-3682	augnelækjar	
-3683	augnelege	
-3684	augeleite	
-3685	augleite	
-3686	augneleite	
-3687	augelinse	
-3688	augnelinse	
-3689	augelok	
-3690	augelokk	
-3691	augnelok	
-3692	augnelokk	
-3693	augemål	
-3694	augnemål	
-3695	augepål	
-3696	augepale	
-3697	augnepål	
-3698	augnepale	
-3699	augerim	
-3700	augnerim	
-3701	augesjukdom	
-3702	augnesjukdom	
-3703	augeskrue	
-3704	augeskruve	
-3705	augneskrue	
-3706	augneskruve	
-3707	augesminke	
-3708	augnesminke	
-3709	augespesialist	
-3710	augnespesialist	
-3711	augespleis	
-3712	augnespleis	
+3638	augeblunk	S
+3639	augneblunk	S
+3640	augebragd	S
+3641	augnebragd	S
+3642	augebrun	S
+3643	augnebrun	S
+3644	augebryn	S
+3645	augnebryn	S
+3646	augedråpe	N
+3647	augedrope	N
+3648	augnedråpe	N
+3649	augnedrope	N
+3650	augeeple	N
+3651	augneeple	N
+3656	augegrann	S
+3657	augnegrann	S
+3658	augehole	N
+3659	augnehole	N
+3660	augehøgd	S
+3661	augnehøgd	S
+3662	augehår	S
+3663	augnehår	S
+3664	augekast	N
+3665	augnekast	N
+3666	augekontakt	N
+3667	augnekontakt	N
+3668	augekrik	S
+3669	augnekrik	S
+3670	augekrok	S
+3671	augnekrok	S
+3672	augekrå	S
+3673	augnekrå	S
+3674	augekvarm	N
+3675	augnekvarm	N
+3676	augekvite	N
+3677	augnekvite	N
+3678	augelag	S
+3679	augnelag	S
+3680	augelækjar	N
+3681	augelege	N
+3682	augnelækjar	N
+3683	augnelege	N
+3684	augeleite	N
+3685	augleite	N
+3686	augneleite	N
+3687	augelinse	N
+3688	augnelinse	N
+3689	augelok	S
+3690	augelokk	S
+3691	augnelok	S
+3692	augnelokk	S
+3693	augemål	S
+3694	augnemål	S
+3695	augepål	S
+3696	augepale	N
+3697	augnepål	S
+3698	augnepale	N
+3699	augerim	N
+3700	augnerim	N
+3701	augesjukdom	S
+3702	augnesjukdom	S
+3703	augeskrue	N
+3704	augeskruve	N
+3705	augneskrue	N
+3706	augneskruve	N
+3707	augesminke	N
+3708	augnesminke	N
+3709	augespesialist	N
+3710	augnespesialist	N
+3711	augespleis	N
+3712	augnespleis	N
 3713	augestein	SN
 3714	augnestein	SN
-3715	augestikkar	
-3716	augnestikkar	
-3717	augesting	
-3718	augestingar	
-3719	augnesting	
-3720	augnestingar	
-3721	augesyn	
-3722	augnesyn	
-3723	augetann	
-3724	augetonn	
-3725	augnetann	
-3726	augnetonn	
-3727	augetenar	
-3728	augnetenar	
-3729	augevippe	
-3730	augnevippe	
-3731	augevitne	
-3732	augnevitne	
-3733	augiasstall	
-3734	augeleite	
-3735	augleite	
-3736	augneleite	
-3741	augur	
-3742	augursmil	
-3743	august	
-3744	augustdag	
-3745	augusthimmel	
-3746	augustin	
-3747	augustinar	
-3748	augustinarkloster	
-3749	augustinkloster	
-3750	augustinarmunk	
-3751	augustinmunk	
-3752	augustinarnonne	
-3753	augustinnonne	
-3755	auk	
-3756	auke	
-3758	aukeglas	
-3759	aukenamn	
+3715	augestikkar	N
+3716	augnestikkar	N
+3717	augesting	S
+3718	augestingar	N
+3719	augnesting	S
+3720	augnestingar	N
+3721	augesyn	SN
+3722	augnesyn	SN
+3723	augetann	N
+3724	augetonn	N
+3725	augnetann	N
+3726	augnetonn	N
+3727	augetenar	N
+3728	augnetenar	N
+3729	augevippe	N
+3730	augnevippe	N
+3731	augevitne	N
+3732	augnevitne	N
+3733	augiasstall	N
+3734	augeleite	N
+3735	augleite	N
+3736	augneleite	N
+3741	augur	N
+3742	augursmil	N
+3743	august	N
+3744	augustdag	N
+3745	augusthimmel	N
+3746	augustin	N
+3747	augustinar	N
+3748	augustinarkloster	N
+3749	augustinkloster	N
+3750	augustinarmunk	E
+3751	augustinmunk	E
+3752	augustinarnonne	N
+3753	augustinnonne	N
+3755	auk	E
+3756	auke	N
+3758	aukeglas	N
+3759	aukenamn	N
 3760	auking	S
-3761	aukingsmon	
-3762	aukingsmonn	
-3763	auksjon	
-3764	auksjonarius	
-3766	auksjonsbord	
+3761	aukingsmon	N
+3762	aukingsmonn	N
+3763	auksjon	S
+3764	auksjonarius	N
+3766	auksjonsbord	N
 3767	auksjonsforretning	S
-3768	auksjonsgebyr	
-3769	auksjonsgrunnlag	
-3770	auksjonshamar	
-3771	auksjonshammar	
-3772	auksjonskatalog	
-3773	auksjonslokale	
-3774	auksjonssalær	
-3775	aula	
-3779	au pair	
-3784	aur	
-3785	aura	
-3786	aurbakke	
-3787	aurbotn	
-3788	aurbu	
-3789	aure	
-3792	aurefiske	
-3793	auregarn	
-3794	aurekjøe	
-3795	aureomycin	
-3799	aurfòr	
-3800	aurgolv	
-3801	aurgrunn	
-3802	aurhelle	
-3803	aurikkel	
-3804	aurjord	
-3805	aurlandssko	
-3806	aurora	
-3807	aurskie	
-3812	ause	
-3814	ausfat	
-3815	auskar	
-3816	auskjer	
-3817	auskjerald	
-3818	auskultasjon	
-3821	ausregn	
-3823	ausrom	
-3826	austadrag	
-3827	austadrått	
-3829	austafrikan	
-3830	austafrikanar	
-3832	austagul	
-3833	austagule	
-3835	austasiat	
-3837	austastorm	
-3838	austavêr	
-3839	austavind	
-3840	austblokk	
-3841	austblokkland	
-3842	austbygd	
+3768	auksjonsgebyr	N
+3769	auksjonsgrunnlag	S
+3770	auksjonshamar	N
+3771	auksjonshammar	N
+3772	auksjonskatalog	N
+3773	auksjonslokale	N
+3774	auksjonssalær	N
+3775	aula	N
+3779	au pair	F
+3784	aur	N
+3785	aura	N
+3786	aurbakke	N
+3787	aurbotn	N
+3788	aurbu	N
+3789	aure	N
+3792	aurefiske	N
+3793	auregarn	N
+3794	aurekjøe	N
+3795	aureomycin	N
+3799	aurfòr	N
+3800	aurgolv	N
+3801	aurgrunn	S
+3802	aurhelle	N
+3803	aurikkel	N
+3804	aurjord	S
+3805	aurlandssko	N
+3806	aurora	N
+3807	aurskie	N
+3812	ause	N
+3814	ausfat	S
+3815	auskar	N
+3816	auskjer	SN
+3817	auskjerald	SN
+3818	auskultasjon	S
+3821	ausregn	N
+3823	ausrom	S
+3826	austadrag	S
+3827	austadrått	S
+3829	austafrikan	N
+3830	austafrikanar	N
+3832	austagul	SN
+3833	austagule	N
+3835	austasiat	N
+3837	austastorm	N
+3838	austavêr	SN
+3839	austavind	N
+3840	austblokk	N
+3841	austblokkland	N
+3842	austbygd	S
 3843	austbygding	S
-3844	austegd	
-3845	austegde	
-3846	austegdemål	
-3847	austegdsk	
-3850	auster	
-3851	austerland	
+3844	austegd	E
+3845	austegde	N
+3846	austegdemål	S
+3847	austegdsk	F
+3850	auster	N
+3851	austerland	S
 3854	austerlending	S
-3855	austerrikar	
-3858	austerveg	
+3855	austerrikar	N
+3858	austerveg	S
 3859	austerviking	S
-3860	austeuropear	
+3860	austeuropear	N
 3862	austfjording	S
-3863	austfront	
-3866	austgotar	
-3867	austgote	
-3869	austgrense	
-3871	austhall	
-3873	austhandel	
-3874	austhimmel	
-3875	austkant	
-3876	austkantmiljø	
-3877	austkyst	
-3878	austland	
-3879	austlandsbonde	
-3880	austlandsby	
-3881	austlandsbygd	
-3882	austlandsdialekt	
-3883	austlandsfylke	
-3884	austlandsk	
-3886	austlandsmål	
+3863	austfront	SN
+3866	austgotar	N
+3867	austgote	N
+3869	austgrense	N
+3871	austhall	N
+3873	austhandel	S
+3874	austhimmel	S
+3875	austkant	N
+3876	austkantmiljø	N
+3877	austkyst	N
+3878	austland	S
+3879	austlandsbonde	N
+3880	austlandsby	N
+3881	austlandsbygd	N
+3882	austlandsdialekt	N
+3883	austlandsfylke	N
+3884	austlandsk	F
+3886	austlandsmål	S
 3889	austlending	S
-3890	austmakt	
-3891	austmann	
-3892	austnordaust	
-3893	austnordisk	
-3895	austnorsk	
-3898	australiar	
-3899	australneger	
-3904	austside	
-3905	austsøraust	
-3907	austtyskar	
-3910	austyrje	
-3911	ausvatn	
-3912	autark	
-3913	autarki	
-3914	autarki	
-3915	autensitet	
-3917	autisme	
-3921	autobiografi	
-3923	autodafé	
-3924	autodidakt	
-3926	autodiesel	
-3928	autogenapparat	
+3890	austmakt	S
+3891	austmann	S
+3892	austnordaust	N
+3893	austnordisk	N
+3895	austnorsk	N
+3898	australiar	N
+3899	australneger	N
+3904	austside	N
+3905	austsøraust	N
+3907	austtyskar	N
+3910	austyrje	N
+3911	ausvatn	N
+3912	autark	N
+3913	autarki	N
+3914	autarki	N
+3915	autensitet	S
+3917	autisme	N
+3921	autobiografi	N
+3923	autodafé	N
+3924	autodidakt	N
+3926	autodiesel	N
+3928	autogenapparat	SN
 3929	autogensveising	S
 3930	autogentrening	S
-3931	autograf	
-3932	autografblokk	
-3933	autografbok	
-3934	autografjeger	
-3935	autografsamlar	
-3936	autoklav	
-3938	autokrat	
-3939	autokrati	
-3941	autolyse	
-3942	automasjon	
-3943	automat	
-3944	automatgir	
-3945	automatikk	
+3931	autograf	N
+3932	autografblokk	N
+3933	autografbok	N
+3934	autografjeger	N
+3935	autografsamlar	N
+3936	autoklav	N
+3938	autokrat	N
+3939	autokrati	N
+3941	autolyse	N
+3942	automasjon	S
+3943	automat	N
+3944	automatgir	N
+3945	automatikk	N
 3947	automatisering	S
-3949	automattelefon	
-3950	automatvåpen	
-3951	automobil	
-3952	automobilklubb	
-3954	autonomi	
-3955	autopilot	
-3956	autopsi	
-3957	autor	
-3959	autoreksemplar	
-3960	autorhonorar	
-3961	autorisasjon	
-3962	autorisasjonsprøve	
-3965	autoritet	
+3949	automattelefon	N
+3950	automatvåpen	N
+3951	automobil	N
+3952	automobilklubb	N
+3954	autonomi	N
+3955	autopilot	N
+3956	autopsi	N
+3957	autor	N
+3959	autoreksemplar	N
+3960	autorhonorar	N
+3961	autorisasjon	S
+3962	autorisasjonsprøve	N
+3965	autoritet	S
 3966	autoritetsdyrking	S
-3967	autoritetsfrykt	
-3968	autoritetsredsel	
-3969	autoritetsredsle	
-3970	autoritetstru	
-3972	autostrada	
-3973	autovern	
+3967	autoritetsfrykt	N
+3968	autoritetsredsel	S
+3969	autoritetsredsle	N
+3970	autoritetstru	N
+3972	autostrada	N
+3973	autovern	N
 3975	aval	
 3978	avanse	
 3979	avansement	
