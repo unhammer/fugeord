@@ -6417,7 +6417,7 @@
 8528	blålyng	
 8529	blåmann	
 8530	blåmeis	
-8531	blåmjølk	
+8531	blåmjølk	N
 8532	blåmyr	
 8537	blåmåke	
 8538	blåmåse	
@@ -6620,7 +6620,7 @@
 8784	boksehanske	
 8785	boksekamp	
 8786	boksemat	
-8787	boksemjølk	
+8787	boksemjølk	N
 8788	bokserie	
 8789	boksering	
 8790	boksesprit	
@@ -8218,7 +8218,7 @@
 10837	brystkasse	
 10838	brystkreft	
 10839	brystlomme	
-10840	brystmjølk	
+10840	brystmjølk	N
 10841	brystmål	
 10842	brystning	S
 10843	brystnål	
@@ -13176,13 +13176,13 @@
 17716	elastisitet	
 17718	elbil	
 17719	elbuss	
-17720	eld	
-17724	eldbjørgdag	
-17725	eldbjørgsdag	
-17726	eldbjørgkveld	
-17727	eldbjørgskveld	
-17728	eldbjørgminne	
-17729	eldbjørgsminne	
+17720	eld	NS
+17724	eldbjørgdag	S
+17725	eldbjørgsdag	S
+17726	eldbjørgkveld	S
+17727	eldbjørgskveld	S
+17728	eldbjørgminne	N
+17729	eldbjørgsminne	N
 17730	eldblenk	
 17731	eldbrand	
 17732	eldebrand	
@@ -16746,7 +16746,7 @@
 22611	flaskekork	
 22612	flaskekost	
 22613	flaskelam	
-22614	flaskemjølk	
+22614	flaskemjølk	N
 22615	flaskeopnar	
 22616	flaskepost	
 22617	flaskeskip	
@@ -17310,7 +17310,7 @@
 23467	fløyteljod	
 23468	fløytelyd	
 23469	fløytelåt	
-23470	fløytemjølk	
+23470	fløytemjølk	N
 23471	fløytemugge	
 23472	fløytemysost	
 23473	fløyteost	
@@ -21790,7 +21790,7 @@
 29788	geitekjøt	
 29789	geitekjøtt	
 29790	geiteklauv	
-29791	geitemjølk	
+29791	geitemjølk	N
 29793	geiteprim	
 29794	geitprim	
 29795	geiteragg	
@@ -26102,7 +26102,7 @@
 35960	heilkorn	
 35961	heilkornbrød	
 35962	heillodd	
-35963	heilmjølk	
+35963	heilmjølk	N
 35965	heilning	
 35967	heilnote	
 35968	heilo	
@@ -27304,7 +27304,7 @@
 37645	hjåsætemann	
 37646	hjåsetemann	
 37647	hjåsvæve	
-37653	H-mjølk	
+37653	H-mjølk	N
 37654	h-moll	
 37656	ho	
 37657	hoe	
@@ -31549,7 +31549,7 @@
 43781	junidag	
 43782	junior	
 43784	juniorklasse	
-43785	juniorlag	
+43785	juniorlag	SN
 43786	juniorløpar	
 43787	juniorlaupar	
 43788	juniormeister	
@@ -31902,1008 +31902,1008 @@
 44210	kaldprat	N
 44212	kaldredsel	S
 44213	kaldredsle	N
-44214	kaldrøyk	
-44219	kaldskratt	
-44225	kaldsmed	
-44228	kaldstart	
-44230	kaldsturt	
-44231	kaldstyrt	
-44233	kaldsveitte	
-44235	kaldtbord	
-44236	kaldtkjøken	
-44237	kaldtkjøkken	
-44238	kaldtokke	
-44239	kaldvassbøtte	
-44240	kaldvassbytte	
-44241	kaldvasskran	
-44242	kaldvasskrane	
+44214	kaldrøyk	S
+44219	kaldskratt	N
+44225	kaldsmed	S
+44228	kaldstart	S
+44230	kaldsturt	S
+44231	kaldstyrt	S
+44233	kaldsveitte	N
+44235	kaldtbord	N
+44236	kaldtkjøken	N
+44237	kaldtkjøkken	N
+44238	kaldtokke	N
+44239	kaldvassbøtte	N
+44240	kaldvassbytte	N
+44241	kaldvasskran	N
+44242	kaldvasskrane	K
 44243	kaldvatn	
-44244	kaldvêr	
-44246	kale	
-44247	kale	
+44244	kaldvêr	S
+44246	kale	F
+44247	kale	N
 44248	kalebass	N
 44249	kaledoniar	N
 44252	kaleidoskop	N
-44254	kalemank	
-44257	kalendarium	
-44258	kalender	
-44259	kalenderdag	
-44260	kalendermånad	
-44261	kalenderstav	
-44262	kalenderteikn	
-44263	kalenderår	
-44264	kalesje	
-44265	kalesjevogn	
-44267	kali	
-44268	kaliber	
-44271	kalif	
-44272	kalifat	
-44273	californiar	
-44274	kaliforniar	
-44277	kaligjødsel	
-44278	kaliko	
-44279	kalikotrykking	
-44280	kalilut	
-44281	kalimangel	
-44282	kaliper	
-44283	kalisalpeter	
-44284	kaliskort	
-44285	kalium	
-44286	kaliumbromid	
-44287	kaliumcyanid	
-44288	kaliumgjødsel	
-44289	kaliumhydroksid	
-44290	kaliumjodid	
-44291	kaliumkarbonat	
-44292	kaliumklorid	
-44293	kaliummangel	
-44294	kaliumnitrat	
-44295	kaliumoksid	
-44296	kaliumsalt	
+44254	kalemank	N
+44257	kalendarium	S
+44258	kalender	N
+44259	kalenderdag	S
+44260	kalendermånad	S
+44261	kalenderstav	N
+44262	kalenderteikn	N
+44263	kalenderår	S
+44264	kalesje	N
+44265	kalesjevogn	N
+44267	kali	N
+44268	kaliber	N
+44271	kalif	N
+44272	kalifat	N
+44273	californiar	N
+44274	kaliforniar	N
+44277	kaligjødsel	N
+44278	kaliko	N
+44279	kalikotrykking	S
+44280	kalilut	N
+44281	kalimangel	N
+44282	kaliper	N
+44283	kalisalpeter	N
+44284	kaliskort	N
+44285	kalium	N
+44286	kaliumbromid	N
+44287	kaliumcyanid	N
+44288	kaliumgjødsel	N
+44289	kaliumhydroksid	N
+44290	kaliumjodid	N
+44291	kaliumkarbonat	N
+44292	kaliumklorid	N
+44293	kaliummangel	N
+44294	kaliumnitrat	N
+44295	kaliumoksid	N
+44296	kaliumsalt	N
 44297	kaliumskort	
-44298	kalk	
-44299	kalk	
-44300	kalkalge	
-44301	kalkammonsalpeter	
-44302	kalkbrenning	
-44303	kalkbrot	
-44304	kalkbrott	
-44305	kalkdaning	
-44306	kalkdanning	
-44309	kalkerlereft	
-44310	kalkerlerret	
-44311	kalkerpapir	
-44312	kalkerstift	
-44314	kalkfjell	
-44316	kalkhydrat	
-44317	kalkinnhald	
-44319	kalkløyse	
-44320	kalkmangel	
-44321	kalkmjøl	
-44322	kalkmjølk	
-44323	kalkmørtel	
-44324	kalkomn	
-44325	kalkpuss	
-44327	kalksalpeter	
-44328	kalksand	
-44329	kalkskort	
+44298	kalk	N
+44299	kalk	N
+44300	kalkalge	N
+44301	kalkammonsalpeter	N
+44302	kalkbrenning	N
+44303	kalkbrot	N
+44304	kalkbrott	N
+44305	kalkdaning	S
+44306	kalkdanning	S
+44309	kalkerlereft	S
+44310	kalkerlerret	S
+44311	kalkerpapir	N
+44312	kalkerstift	N
+44314	kalkfjell	N
+44316	kalkhydrat	N
+44317	kalkinnhald	S
+44319	kalkløyse	N
+44320	kalkmangel	N
+44321	kalkmjøl	N
+44322	kalkmjølk	N
+44323	kalkmørtel	N
+44324	kalkomn	S
+44325	kalkpuss	N
+44327	kalksalpeter	N
+44328	kalksand	N
+44329	kalkskort	N
 44331	kalkstein	SN
-44332	kalksteinsmjøl	
-44333	kalkulasjon	
-44334	kalkulasjonsmetode	
-44335	kalkulasjonsmåte	
-44336	kalkulasjonspris	
-44337	kalkulasjonssum	
-44338	kalkulator	
-44340	kalkulatør	
-44342	kalkulering	
-44343	kalkun	
-44344	kalkunhald	
-44345	kalkunhane	
-44346	kalkunhøne	
-44347	kalkunkjukling	
-44348	kalkunkylling	
-44349	kalkunmiddag	
-44350	kalkunoppdrett	
-44351	kalkunsteik	
+44332	kalksteinsmjøl	N
+44333	kalkulasjon	S
+44334	kalkulasjonsmetode	N
+44335	kalkulasjonsmåte	N
+44336	kalkulasjonspris	N
+44337	kalkulasjonssum	N
+44338	kalkulator	N
+44340	kalkulatør	N
+44342	kalkulering	S
+44343	kalkun	N
+44344	kalkunhald	S
+44345	kalkunhane	N
+44346	kalkunhøne	N
+44347	kalkunkjukling	S
+44348	kalkunkylling	N
+44349	kalkunmiddag	S
+44350	kalkunoppdrett	S
+44351	kalkunsteik	N
 44352	kalkvatn	
-44353	kalkverk	
-44354	kalkyle	
-44355	kall	
-44356	kall	
+44353	kalkverk	S
+44354	kalkyle	N
+44355	kall	N
+44356	kall	N
 44357	kalldotter	
-44359	kallenamn	
-44360	kallesignal	
-44361	kallfjør	
-44362	kalligraf	
-44364	kalligrafi	
-44366	kallipasta	
-44367	kallkrok	
-44368	kallsbok	
-44369	kallsbror	
-44370	kallsfelle	
-44371	kallskapellan	
-44372	kallslok	
-44373	kallsplikt	
-44374	kallsrett	
-44375	kallsyrke	
-44376	kallus	
-44377	kallussjuke	
-44378	kallussykje	
-44379	kalmerot	
-44380	kalmuk	
-44382	kalmus	
-44383	kalmuslog	
-44384	kalmusrot	
-44386	kalori	
-44387	kaloribehov	
+44359	kallenamn	N
+44360	kallesignal	N
+44361	kallfjør	N
+44362	kalligraf	N
+44364	kalligrafi	N
+44366	kallipasta	N
+44367	kallkrok	N
+44368	kallsbok	N
+44369	kallsbror	N
+44370	kallsfelle	N
+44371	kallskapellan	N
+44372	kallslok	N
+44373	kallsplikt	N
+44374	kallsrett	S
+44375	kallsyrke	N
+44376	kallus	N
+44377	kallussjuke	N
+44378	kallussykje	N
+44379	kalmerot	N
+44380	kalmuk	N
+44382	kalmus	N
+44383	kalmuslog	N
+44384	kalmusrot	N
+44386	kalori	N
+44387	kaloribehov	S
 44390	kalorifer	
-44391	kaloriforbruk	
-44393	kaloriinnhald	
-44394	kaloriinntak	
-44395	kalorimengd	
-44396	kalorimeter	
-44397	kalorimetri	
-44400	kalorisator	
-44402	kaloritabell	
-44403	kaloriteljing	
-44404	kalosje	
-44405	kalott	
-44406	kalsedon	
-44408	kalsium	
-44409	kalsiumfosfat	
-44410	kalsiumhydroksid	
-44411	kalsiumkarbid	
-44412	kalsiumklorid	
-44413	kalsiumnitrat	
-44414	kalsiumoksid	
-44415	kaltau	
-44416	kaltog	
-44417	kalter	
-44418	kalterarbeid	
-44419	kaltopp	
-44421	kalun	
-44422	kalv	
-44424	kalvbot	
-44426	kalve	
-44428	kalvebing	
-44429	kalvebinge	
-44430	kalvebris	
-44431	kalvebås	
-44432	kalvedans	
-44433	kalvedirr	
-44434	kalvedrikke	
-44436	kalvefrikassé	
-44437	kalvegarde	
-44438	kalvegummi	
-44439	kalvehage	
-44440	kalvekasting	
-44441	kalvekjese	
-44442	kalvekjøt	
-44443	kalvekjøtt	
-44444	kalvekryss	
-44445	kalveku	
-44447	kalverove	
-44448	kalverull	
-44449	kalverumpe	
-44450	kalveskinn	
-44451	kalvesprett	
-44452	kalvesteik	
-44453	kalvesuss	
-44454	kalvetrø	
-44455	kalvingsfeber	
-44456	kalvingstid	
-44457	kalvinisme	
-44458	kalvinist	
-44461	kalvis	
-44463	kalvsask	
-44465	kalvskinn	
-44466	kalvskinnbrev	
-44467	kalvskit	
-44468	kalvskitt	
-44469	kalvskot	
-44470	kalvskott	
-44471	kalvslægje	
-44472	kalvsleie	
-44474	kam	
-44475	kamaksel	
-44476	kamaksling	
-44477	kamar	
-44478	kamarilja	
-44480	kambium	
-44481	kambodsjan	
-44482	kambodsjanar	
-44484	kambrik	
-44486	kambrium	
-44487	kambriumsystem	
-44488	kambriumtid	
-44489	kambrosilurbergart	
-44491	kambrosilurlag	
-44492	kamé	
-44493	kamel	
-44494	kameldrift	
-44495	kameldyr	
-44496	kameleon	
-44498	kamelfamilie	
-44499	kamelføl	
-44500	kamelhoppe	
-44501	kamelhår	
-44502	kamelhårsdrakt	
-44503	kamelhårsfrakk	
-44504	kamelia	
-44505	kameliadame	
-44506	kamelmjølk	
-44507	kamelott	
-44508	kamelull	
-44509	kaménål	
-44510	kamera	
-44511	kameraderi	
+44391	kaloriforbruk	N
+44393	kaloriinnhald	S
+44394	kaloriinntak	S
+44395	kalorimengd	N
+44396	kalorimeter	N
+44397	kalorimetri	N
+44400	kalorisator	N
+44402	kaloritabell	N
+44403	kaloriteljing	S
+44404	kalosje	N
+44405	kalott	N
+44406	kalsedon	N
+44408	kalsium	N
+44409	kalsiumfosfat	N
+44410	kalsiumhydroksid	N
+44411	kalsiumkarbid	N
+44412	kalsiumklorid	N
+44413	kalsiumnitrat	N
+44414	kalsiumoksid	N
+44415	kaltau	N
+44416	kaltog	N
+44417	kalter	N
+44418	kalterarbeid	N
+44419	kaltopp	N
+44421	kalun	N
+44422	kalv	E
+44424	kalvbot	S
+44426	kalve	N
+44428	kalvebing	E
+44429	kalvebinge	N
+44430	kalvebris	N
+44431	kalvebås	N
+44432	kalvedans	N
+44433	kalvedirr	N
+44434	kalvedrikke	N
+44436	kalvefrikassé	N
+44437	kalvegarde	N
+44438	kalvegummi	N
+44439	kalvehage	N
+44440	kalvekasting	S
+44441	kalvekjese	N
+44442	kalvekjøt	N
+44443	kalvekjøtt	N
+44444	kalvekryss	N
+44445	kalveku	N
+44447	kalverove	K
+44448	kalverull	N
+44449	kalverumpe	N
+44450	kalveskinn	S
+44451	kalvesprett	N
+44452	kalvesteik	N
+44453	kalvesuss	N
+44454	kalvetrø	N
+44455	kalvingsfeber	N
+44456	kalvingstid	S
+44457	kalvinisme	N
+44458	kalvinist	N
+44461	kalvis	N
+44463	kalvsask	N
+44465	kalvskinn	N
+44466	kalvskinnbrev	N
+44467	kalvskit	N
+44468	kalvskitt	N
+44469	kalvskot	N
+44470	kalvskott	N
+44471	kalvslægje	N
+44472	kalvsleie	N
+44474	kam	N
+44475	kamaksel	N
+44476	kamaksling	S
+44477	kamar	N
+44478	kamarilja	N
+44480	kambium	N
+44481	kambodsjan	N
+44482	kambodsjanar	N
+44484	kambrik	N
+44486	kambrium	N
+44487	kambriumsystem	N
+44488	kambriumtid	S
+44489	kambrosilurbergart	S
+44491	kambrosilurlag	N
+44492	kamé	N
+44493	kamel	N
+44494	kameldrift	S
+44495	kameldyr	N
+44496	kameleon	N
+44498	kamelfamilie	N
+44499	kamelføl	N
+44500	kamelhoppe	N
+44501	kamelhår	S
+44502	kamelhårsdrakt	N
+44503	kamelhårsfrakk	N
+44504	kamelia	N
+44505	kameliadame	N
+44506	kamelmjølk	N
+44507	kamelott	N
+44508	kamelull	N
+44509	kaménål	N
+44510	kamera	N
+44511	kameraderi	N
 44512	kamerajakt	N
-44513	kameraklubb	
-44514	kamerakunst	
-44515	kameramann	
-44516	kamerastativ	
-44517	kamerat	
-44518	kameratbåt	
-44519	kameratekteskap	
-44520	kameratfølgje	
-44521	kameratfylgje	
-44522	kameratkøyrar	
-44523	kameratkjørar	
-44524	kameratkøyring	
-44525	kameratkjøring	
-44527	kameratskap	
-44530	kamerattone	
-44531	kameratånd	
-44532	kameravinkel	
-44533	kamerunar	
-44535	kamfer	
-44536	kamferbrennevin	
-44537	kamferdråpe	
-44538	kamferdrope	
-44539	kamferdrops	
-44540	kamferkiste	
-44541	kamferolje	
-44542	kamferspiritus	
-44543	kamfersprit	
-44544	kamfertre	
-44545	kamfertrekiste	
-44546	kamgarn	
-44547	kamgarnsdress	
-44548	kamgarnsstoff	
-44549	kamgras	
-44550	kamhjul	
-44551	kamille	
-44552	kamilleblom	
-44553	kamilleblome	
-44554	kamilleblomster	
-44555	kamilleolje	
-44556	kamillete	
-44557	kamin	
-44558	kaminhylle	
-44559	kammer	
-44560	kammerduk	
-44561	kammerduo	
-44562	kammerherre	
-44563	kammerladar	
-44564	kammerladingsgevær	
-44565	kammerladningsgevær	
-44566	kammermusikar	
-44567	kammermusikk	
-44568	kammers	
-44569	kammertenar	
-44570	kammertone	
-44571	kammertrio	
-44572	kammusling	
-44573	kamp	
-44574	kamp	
-44575	kampanile	
-44576	kampanje	
-44579	kampdag	
-44580	kampdikting	
-44582	kampdomar	
-44583	kampdommar	
-44585	kampeining	
+44513	kameraklubb	N
+44514	kamerakunst	N
+44515	kameramann	N
+44516	kamerastativ	N
+44517	kamerat	N
+44518	kameratbåt	N
+44519	kameratekteskap	S
+44520	kameratfølgje	N
+44521	kameratfylgje	N
+44522	kameratkøyrar	N
+44523	kameratkjørar	N
+44524	kameratkøyring	S
+44525	kameratkjøring	S
+44527	kameratskap	S
+44530	kamerattone	N
+44531	kameratånd	S
+44532	kameravinkel	N
+44533	kamerunar	N
+44535	kamfer	N
+44536	kamferbrennevin	S
+44537	kamferdråpe	N
+44538	kamferdrope	N
+44539	kamferdrops	N
+44540	kamferkiste	N
+44541	kamferolje	N
+44542	kamferspiritus	N
+44543	kamfersprit	N
+44544	kamfertre	N
+44545	kamfertrekiste	N
+44546	kamgarn	S
+44547	kamgarnsdress	N
+44548	kamgarnsstoff	N
+44549	kamgras	N
+44550	kamhjul	SN
+44551	kamille	N
+44552	kamilleblom	N
+44553	kamilleblome	K
+44554	kamilleblomster	N
+44555	kamilleolje	N
+44556	kamillete	N
+44557	kamin	N
+44558	kaminhylle	N
+44559	kammer	N
+44560	kammerduk	N
+44561	kammerduo	N
+44562	kammerherre	N
+44563	kammerladar	N
+44564	kammerladingsgevær	N
+44565	kammerladningsgevær	N
+44566	kammermusikar	N
+44567	kammermusikk	N
+44568	kammers	N
+44569	kammertenar	N
+44570	kammertone	N
+44571	kammertrio	N
+44572	kammusling	N
+44573	kamp	N
+44574	kamp	N
+44575	kampanile	N
+44576	kampanje	N
+44579	kampdag	S
+44580	kampdikting	S
+44582	kampdomar	N
+44583	kampdommar	N
+44585	kampeining	S
 44587	kampestein	SN
-44588	kampfelle	
-44589	kampfly	
-44590	kampflygar	
-44591	kampformasjon	
-44594	kampglede	
-44595	kampgny	
-44596	kamphane	
-44598	kampmod	
-44599	kampmot	
-44600	kampmoral	
-44601	kamporganisasjon	
-44602	kampplass	
-44603	kamprop	
-44604	kamptid	
-44605	kamptrening	
-44610	kampvilje	
-44613	kampånd	
-44614	kams	
-44616	kamshovud	
-44617	kamskjel	
-44618	kamstykke	
-44619	kamstål	
-44620	kamuflasje	
-44621	kamuflasjedrakt	
-44622	kamuflasjemåling	
-44623	kamuflasjemaling	
-44625	kamull	
-44627	khan	
-44629	kanaanear	
-44631	kanaanitt	
-44633	kanadagullris	
-44634	kanadagås	
-44635	canadiar	
-44636	kanadiar	
-44639	kanak	
-44640	kanal	
-44641	kanalanlegg	
-44642	kanalavgift	
-44644	kanalje	
-44645	kanalnet	
-44646	kanalnett	
-44647	kanalsamband	
-44648	kanalsymjing	
-44649	kanalsystem	
-44650	kanalveljar	
-44651	kanapé	
-44653	kanariar	
-44654	kanarifugl	
-44657	kanaster	
-44659	khanat	
-44661	kandaharbinding	
-44662	kandaharrenn	
-44663	kandelaber	
-44664	kandidat	
-44665	kandidateksamen	
-44666	kandidatskap	
-44667	kandidattenest	
-44668	kandidatteneste	
-44669	kandidatur	
-44670	kandidatår	
-44671	kandis	
-44673	kandisklump	
-44674	kandissukker	
-44675	kane	
-44676	kanefart	
-44677	kanel	
-44678	kanelbork	
-44680	kanelolje	
-44681	kanelrose	
-44682	kaneltre	
-44683	kanevas	
-44684	kanevasnål	
-44685	kanvasnål	
-44686	kanevassaum	
-44687	kanvassaum	
-44688	kangel	
-44690	kanin	
-44691	kaninal	
-44692	kaninavl	
-44693	kaninfôr	
-44694	kaninhår	
-44695	kaninkjøt	
-44696	kaninkjøtt	
-44697	kaninskinn	
-44698	kaninsteik	
-44699	kank	
-44700	kanne	
-44702	kanneberar	
-44704	kannelyre	
-44705	kannemål	
-44706	kannestøypar	
-44707	kannestøyping	
-44708	kannibal	
-44709	kannibalfolk	
-44710	kannibalisme	
-44712	kannik	
-44713	kanning	
-44714	kano	
-44715	kanon	
-44716	kanon	
-44717	kanon	
-44718	kanonade	
-44719	kanonbåt	
-44720	kanoneld	
-44721	kanoner	
-44722	kanonform	
-44723	kanonfotograf	
-44724	kanonføde	
-44727	kanonkule	
-44728	kanonlag	
-44729	kanonløp	
-44730	kanonlaup	
-44731	kanonmannskap	
-44732	kanonmat	
-44733	kanonmunning	
-44734	kanonsalutt	
-44735	kanonsalve	
-44736	kanonskot	
-44737	kanonskott	
-44738	kanopadling	
+44588	kampfelle	N
+44589	kampfly	N
+44590	kampflygar	N
+44591	kampformasjon	S
+44594	kampglede	N
+44595	kampgny	N
+44596	kamphane	N
+44598	kampmod	N
+44599	kampmot	N
+44600	kampmoral	N
+44601	kamporganisasjon	S
+44602	kampplass	N
+44603	kamprop	S
+44604	kamptid	S
+44605	kamptrening	S
+44610	kampvilje	N
+44613	kampånd	S
+44614	kams	N
+44616	kamshovud	N
+44617	kamskjel	N
+44618	kamstykke	N
+44619	kamstål	N
+44620	kamuflasje	N
+44621	kamuflasjedrakt	N
+44622	kamuflasjemåling	S
+44623	kamuflasjemaling	S
+44625	kamull	N
+44627	khan	N
+44629	kanaanear	N
+44631	kanaanitt	N
+44633	kanadagullris	N
+44634	kanadagås	N
+44635	canadiar	N
+44636	kanadiar	N
+44639	kanak	N
+44640	kanal	N
+44641	kanalanlegg	S
+44642	kanalavgift	S
+44644	kanalje	N
+44645	kanalnet	N
+44646	kanalnett	N
+44647	kanalsamband	S
+44648	kanalsymjing	S
+44649	kanalsystem	N
+44650	kanalveljar	N
+44651	kanapé	N
+44653	kanariar	N
+44654	kanarifugl	N
+44657	kanaster	N
+44659	khanat	N
+44661	kandaharbinding	S
+44662	kandaharrenn	N
+44663	kandelaber	N
+44664	kandidat	N
+44665	kandidateksamen	S
+44666	kandidatskap	S
+44667	kandidattenest	N
+44668	kandidatteneste	N
+44669	kandidatur	N
+44670	kandidatår	S
+44671	kandis	N
+44673	kandisklump	N
+44674	kandissukker	N
+44675	kane	N
+44676	kanefart	N
+44677	kanel	N
+44678	kanelbork	N
+44680	kanelolje	N
+44681	kanelrose	N
+44682	kaneltre	N
+44683	kanevas	N
+44684	kanevasnål	N
+44685	kanvasnål	N
+44686	kanevassaum	N
+44687	kanvassaum	N
+44688	kangel	N
+44690	kanin	N
+44691	kaninal	S
+44692	kaninavl	S
+44693	kaninfôr	N
+44694	kaninhår	S
+44695	kaninkjøt	N
+44696	kaninkjøtt	N
+44697	kaninskinn	S
+44698	kaninsteik	N
+44699	kank	N
+44700	kanne	N
+44702	kanneberar	N
+44704	kannelyre	N
+44705	kannemål	N
+44706	kannestøypar	N
+44707	kannestøyping	S
+44708	kannibal	N
+44709	kannibalfolk	N
+44710	kannibalisme	N
+44712	kannik	N
+44713	kanning	S
+44714	kano	N
+44715	kanon	N
+44716	kanon	N
+44717	kanon	N
+44718	kanonade	N
+44719	kanonbåt	N
+44720	kanoneld	S
+44721	kanoner	N
+44722	kanonform	S
+44723	kanonfotograf	S
+44724	kanonføde	S
+44727	kanonkule	S
+44728	kanonlag	SN
+44729	kanonløp	S
+44730	kanonlaup	S
+44731	kanonmannskap	S
+44732	kanonmat	N
+44733	kanonmunning	S
+44734	kanonsalutt	N
+44735	kanonsalve	N
+44736	kanonskot	N
+44737	kanonskott	N
+44738	kanopadling	S
 44739	kanope	
 44740	kanosport	
-44741	kanossagang	
-44742	kanotur	
-44743	kanoår	
-44744	kanoåre	
-44745	kans	
-44748	kanselli	
-44749	kanselliråd	
-44750	kansellispråk	
-44751	kansellistil	
-44752	kanslar	
-44753	kant	
-44754	kant	
-44757	kantarell	
-44758	kantate	
-44760	kanteband	
-44761	kantele	
-44765	kantfil	
-44766	kantflis	
-44768	kantilene	
-44769	kantine	
-44770	kantinemat	
-44771	kantinesystem	
-44772	kantkonvall	
-44773	kantlyng	
-44774	kanton	
-44775	kantor	
-44776	kantorikor	
-44778	kantsaum	
+44741	kanossagang	N
+44742	kanotur	N
+44743	kanoår	N
+44744	kanoåre	N
+44745	kans	N
+44748	kanselli	N
+44749	kanselliråd	S
+44750	kansellispråk	NS
+44751	kansellistil	N
+44752	kanslar	N
+44753	kant	N
+44754	kant	N
+44757	kantarell	N
+44758	kantate	N
+44760	kanteband	S
+44761	kantele	N
+44765	kantfil	N
+44766	kantflis	N
+44768	kantilene	N
+44769	kantine	N
+44770	kantinemat	N
+44771	kantinesystem	N
+44772	kantkonvall	N
+44773	kantlyng	N
+44774	kanton	N
+44775	kantor	N
+44776	kantorikor	N
+44778	kantsaum	N
 44780	kantstein	SN
-44785	kanevassaum	
-44786	kanvassaum	
-44787	kanyle	
-44788	kaolin	
-44789	kaolinitt	
-44790	kaolinjord	
-44791	kaos	
-44794	kapasitans	
+44785	kanevassaum	N
+44786	kanvassaum	N
+44787	kanyle	N
+44788	kaolin	N
+44789	kaolinitt	N
+44790	kaolinjord	N
+44791	kaos	N
+44794	kapasitans	N
 44795	kapasitet	S
-44796	kapasitetsgrense	
-44797	kapasitetsproblem	
-44798	kapasitetsutnytting	
-44799	kapell	
-44800	kapellan	
-44801	kapellani	
-44802	kapellmeister	
-44803	kaper	
-44804	kaperbrev	
-44805	kaperfart	
-44806	kaperfartøy	
-44807	kaperfarty	
-44808	kapergast	
-44809	kaperkaptein	
-44810	kaperkrig	
-44811	kapers	
-44812	kapersbusk	
-44813	kaperskip	
-44814	kapertid	
-44815	kapillar	
+44796	kapasitetsgrense	N
+44797	kapasitetsproblem	N
+44798	kapasitetsutnytting	S
+44799	kapell	N
+44800	kapellan	N
+44801	kapellani	N
+44802	kapellmeister	N
+44803	kaper	N
+44804	kaperbrev	N
+44805	kaperfart	S
+44806	kaperfartøy	N
+44807	kaperfarty	N
+44808	kapergast	N
+44809	kaperkaptein	S
+44810	kaperkrig	S
+44811	kapers	N
+44812	kapersbusk	N
+44813	kaperskip	S
+44814	kapertid	S
+44815	kapillar	N
 44816	kapillaritet	S
-44817	kapillarrør	
-44818	kapillarrøyr	
-44821	kapillærblod	
+44817	kapillarrør	N
+44818	kapillarrøyr	N
+44821	kapillærblod	N
 44822	kapillærvatn	
-44823	kapillærår	
-44824	kapillæråre	
-44825	kapital	
-44827	kapitaldaning	
-44828	kapitaldanning	
-44829	kapitaleigar	
-44830	kapitaleksport	
-44831	kapitalflukt	
-44832	kapitalimport	
-44835	kapitalisme	
-44836	kapitalist	
-44839	kapitalmakt	
-44840	kapitalmarknad	
-44841	kapitaloverføring	
-44842	kapitalrørsle	
-44843	kapitalslit	
-44845	kapitalstraff	
-44846	kapitalsynd	
-44847	kapitel	
-44848	kapitelskrift	
-44849	kapittel	
-44850	kapittelbok	
-44851	kapittelgods	
-44852	kapittelsgods	
-44853	kapitteldeling	
-44854	kapittelinndeling	
-44855	kapittelstav	
-44856	kapittelstakst	
-44857	kapitteltakst	
-44858	kapitulasjon	
-44860	kaplak	
-44861	kapok	
-44862	kapoktre	
-44863	kapokull	
-44864	kapp	
-44865	kapp	
-44866	kapp	
-44870	kappe	
-44871	kappe	
-44874	kappeband	
-44875	kappeslag	
-44876	kappestrid	
-44878	kappgang	
-44879	kapphug	
-44882	kappløp	
-44883	kapplaup	
-44884	kappleik	
-44886	kappsag	
-44891	kappverdar	
-44893	kaprar	
-44895	kaprifol	
-44896	kaprofolium	
-44897	kaprifolfamilie	
-44898	kapring	
-44899	kapringsforsøk	
-44900	kapringsfreistnad	
-44901	kapriol	
-44902	kaprise	
-44905	kapsel	
-44906	kapselfrukt	
-44908	kaptein	
+44823	kapillærår	N
+44824	kapillæråre	N
+44825	kapital	N
+44827	kapitaldaning	S
+44828	kapitaldanning	S
+44829	kapitaleigar	N
+44830	kapitaleksport	N
+44831	kapitalflukt	N
+44832	kapitalimport	N
+44835	kapitalisme	N
+44836	kapitalist	N
+44839	kapitalmakt	N
+44840	kapitalmarknad	S
+44841	kapitaloverføring	S
+44842	kapitalrørsle	N
+44843	kapitalslit	N
+44845	kapitalstraff	N
+44846	kapitalsynd	N
+44847	kapitel	N
+44848	kapitelskrift	N
+44849	kapittel	N
+44850	kapittelbok	N
+44851	kapittelgods	N
+44852	kapittelsgods	N
+44853	kapitteldeling	S
+44854	kapittelinndeling	S
+44855	kapittelstav	N
+44856	kapittelstakst	N
+44857	kapitteltakst	N
+44858	kapitulasjon	S
+44860	kaplak	N
+44861	kapok	N
+44862	kapoktre	N
+44863	kapokull	N
+44864	kapp	N
+44865	kapp	N
+44866	kapp	E
+44870	kappe	N
+44871	kappe	N
+44874	kappeband	S
+44875	kappeslag	S
+44876	kappestrid	N
+44878	kappgang	N
+44879	kapphug	N
+44882	kappløp	S
+44883	kapplaup	S
+44884	kappleik	N
+44886	kappsag	N
+44891	kappverdar	N
+44893	kaprar	N
+44895	kaprifol	N
+44896	kaprofolium	S
+44897	kaprifolfamilie	N
+44898	kapring	S
+44899	kapringsforsøk	N
+44900	kapringsfreistnad	S
+44901	kapriol	N
+44902	kaprise	N
+44905	kapsel	N
+44906	kapselfrukt	N
+44908	kaptein	NS
 44909	kapteinløytnant	
-44910	kapteinsgard	
-44911	kapun	
-44913	kapusin	
-44914	kapusinar	
-44915	kapusinape	
-44916	kapusinarape	
-44917	kapusinarkloster	
-44918	kapusinkloster	
-44919	kapusinarmunk	
-44920	kapusinmunk	
-44921	kapusinarorden	
-44922	kapusinorden	
-44924	kar	
-44925	kar	
-44926	karaarbeid	
-44927	karabin	
-44928	karabinar	
-44929	karabinier	
-44930	karabinkrok	
-44931	karabord	
-44932	karabrok	
-44933	karaffel	
-44934	karakal	
-44935	karakter	
-44936	karakterbok	
-44939	karakterdrag	
-44940	karaktereigenskap	
-44944	karakteristikk	
-44945	karakteristikon	
-44946	karakteristikum	
-44948	karakterjag	
-44950	karakterskala	
-44951	karakterskildring	
-44952	karakterskodespel	
-44953	karakterskodespelar	
-44954	karakterstyrke	
-44956	karaktersystem	
-44957	karaktertrekk	
-44958	karakterutvikling	
-44959	karakulsau	
-44960	karamell	
-44961	karamellis	
-44963	karamellpudding	
-44964	karamellsaus	
-44965	karantene	
-44966	karantenenemnd	
-44967	karantenetid	
-44968	karantenevedtekt	
-44969	karat	
-44970	karate	
-44971	karatekamp	
-44972	karateslag	
-44973	karatesport	
-44974	karavane	
-44975	karavaneførar	
-44976	karavaneveg	
-44977	karavell	
-44978	karbad	
-44979	karbamid	
-44980	karbamidsyre	
-44981	karbid	
-44982	karbidlampe	
-44983	karbidlykt	
-44984	karbohydrat	
-44985	karboksyl	
-44986	karboksylsyre	
-44987	karbol	
-44988	karbolsyre	
+44910	kapteinsgard	N
+44911	kapun	N
+44913	kapusin	N
+44914	kapusinar	N
+44915	kapusinape	N
+44916	kapusinarape	N
+44917	kapusinarkloster	N
+44918	kapusinkloster	N
+44919	kapusinarmunk	EN
+44920	kapusinmunk	EN
+44921	kapusinarorden	S
+44922	kapusinorden	S
+44924	kar	N
+44925	kar	N
+44926	karaarbeid	S
+44927	karabin	N
+44928	karabinar	N
+44929	karabinier	N
+44930	karabinkrok	N
+44931	karabord	N
+44932	karabrok	N
+44933	karaffel	N
+44934	karakal	N
+44935	karakter	N
+44936	karakterbok	N
+44939	karakterdrag	S
+44940	karaktereigenskap	S
+44944	karakteristikk	N
+44945	karakteristikon	N
+44946	karakteristikum	S
+44948	karakterjag	N
+44950	karakterskala	N
+44951	karakterskildring	S
+44952	karakterskodespel	N
+44953	karakterskodespelar	N
+44954	karakterstyrke	N
+44956	karaktersystem	N
+44957	karaktertrekk	N
+44958	karakterutvikling	S
+44959	karakulsau	NE
+44960	karamell	N
+44961	karamellis	N
+44963	karamellpudding	S
+44964	karamellsaus	N
+44965	karantene	N
+44966	karantenenemnd	N
+44967	karantenetid	S
+44968	karantenevedtekt	S
+44969	karat	N
+44970	karate	N
+44971	karatekamp	N
+44972	karateslag	N
+44973	karatesport	S
+44974	karavane	N
+44975	karavaneførar	N
+44976	karavaneveg	N
+44977	karavell	N
+44978	karbad	N
+44979	karbamid	N
+44980	karbamidsyre	N
+44981	karbid	N
+44982	karbidlampe	N
+44983	karbidlykt	N
+44984	karbohydrat	N
+44985	karboksyl	N
+44986	karboksylsyre	N
+44987	karbol	N
+44988	karbolsyre	N
 44989	karbolvatn	
-44990	karbon	
-44991	karbon	
-44992	karbonade	
-44993	karbonadedeig	
-44994	karbonadekake	
+44990	karbon	N
+44991	karbon	N
+44992	karbonade	N
+44993	karbonadedeig	NS
+44994	karbonadekake	N
 44995	karbonadesmørbrød	
-44996	karbonat	
-44997	karbonatom	
-44998	karbondioksid	
-44999	karbondioksidassimilasjon	
-45000	karbonmonoksid	
-45001	karbonoksid	
-45002	karbonpapir	
-45003	karbonsyre	
-45004	karbonsystem	
-45005	karbontid	
-45006	karbonyl	
-45007	karborundum	
-45008	karburator	
-45009	kardang	
-45010	kardangaksel	
-45011	kardangaksling	
-45012	kardangled	
-45013	kardangledd	
-45015	kardask	
-45016	karde	
-45018	kardeborre	
-45019	kardeborrefamilie	
-45020	kardemaskin	
-45021	kardemomme	
-45022	kardemommeplante	
-45023	kardesk	
-45024	kardialgi	
-45025	kardigan	
-45026	kardiganjakke	
-45027	kardigansett	
-45028	kardinal	
-45030	kardinaldyd	
-45031	kardinaldygd	
-45032	kardinalfarge	
-45033	kardinalfeil	
-45034	kardinalkollegium	
-45035	kardinalpunkt	
-45036	kardinalspørsmål	
-45037	kardinaltal	
-45038	kardinalvokal	
-45039	kardiograf	
-45040	kardiografi	
-45041	kardiogram	
-45042	kardiologi	
-45043	kardus	
-45044	karduspapir	
-45045	kardustobakk	
-45046	kare	
-45047	kare	
-45049	karelar	
-45051	karens	
-45052	karensdag	
-45053	karenstid	
-45054	karensår	
-45055	karét	
-45056	karfolk	
-45057	karfunkel	
-45059	kargadør	
-45060	kargo	
-45061	karib	
-45063	karibu	
-45064	karies	
-45065	karikatur	
-45066	karikaturteiknar	
-45067	karikaturteikning	
-45071	karisma	
-45072	karismatikar	
-45075	karjol	
-45076	karjolskyss	
-45077	karm	
-45078	karma	
-45079	karmann	
-45080	karmannsløyse	
-45081	karmelitt	
-45082	karmelittmunk	
-45083	karmin	
-45085	karminsyre	
-45086	karmosin	
-45088	karmslede	
-45089	karmstol	
-45090	karnapp	
-45091	karnappvindauga	
-45092	karnappvindauge	
-45095	karneval	
-45096	karnevalsdrakt	
-45097	karnevalskostyme	
-45098	karnevalsopptog	
-45099	karnevalsstemning	
-45100	karnevalstid	
-45101	karniss	
-45104	karolin	
-45105	karoling	
-45106	karolingar	
-45108	karosse	
-45109	karosseri	
-45110	karosserimakar	
-45111	karosseriskade	
-45112	karosseriverkstad	
-45113	karoten	
-45115	karotin	
-45116	karpe	
-45117	karpefisk	
-45118	karperygg	
-45119	karplante	
-45120	karré	
-45122	karri	
-45123	karriere	
-45124	karrierediplomat	
-45125	karrierejag	
-45126	karrierejeger	
+44996	karbonat	N
+44997	karbonatom	N
+44998	karbondioksid	N
+44999	karbondioksidassimilasjon	S
+45000	karbonmonoksid	N
+45001	karbonoksid	N
+45002	karbonpapir	N
+45003	karbonsyre	N
+45004	karbonsystem	N
+45005	karbontid	S
+45006	karbonyl	N
+45007	karborundum	S
+45008	karburator	N
+45009	kardang	N
+45010	kardangaksel	N
+45011	kardangaksling	S
+45012	kardangled	N
+45013	kardangledd	N
+45015	kardask	N
+45016	karde	N
+45018	kardeborre	N
+45019	kardeborrefamilie	N
+45020	kardemaskin	NS
+45021	kardemomme	N
+45022	kardemommeplante	N
+45023	kardesk	N
+45024	kardialgi	N
+45025	kardigan	N
+45026	kardiganjakke	N
+45027	kardigansett	N
+45028	kardinal	N
+45030	kardinaldyd	S
+45031	kardinaldygd	S
+45032	kardinalfarge	N
+45033	kardinalfeil	N
+45034	kardinalkollegium	S
+45035	kardinalpunkt	NS
+45036	kardinalspørsmål	S
+45037	kardinaltal	S
+45038	kardinalvokal	N
+45039	kardiograf	N
+45040	kardiografi	N
+45041	kardiogram	N
+45042	kardiologi	N
+45043	kardus	N
+45044	karduspapir	N
+45045	kardustobakk	N
+45046	kare	N
+45047	kare	N
+45049	karelar	N
+45051	karens	N
+45052	karensdag	S
+45053	karenstid	S
+45054	karensår	S
+45055	karét	N
+45056	karfolk	N
+45057	karfunkel	N
+45059	kargadør	N
+45060	kargo	N
+45061	karib	N
+45063	karibu	N
+45064	karies	N
+45065	karikatur	N
+45066	karikaturteiknar	N
+45067	karikaturteikning	S
+45071	karisma	N
+45072	karismatikar	N
+45075	karjol	N
+45076	karjolskyss	N
+45077	karm	N
+45078	karma	N
+45079	karmann	S
+45080	karmannsløyse	N
+45081	karmelitt	N
+45082	karmelittmunk	NE
+45083	karmin	N
+45085	karminsyre	N
+45086	karmosin	N
+45088	karmslede	N
+45089	karmstol	S
+45090	karnapp	N
+45091	karnappvindauga	N
+45092	karnappvindauge	N
+45095	karneval	S
+45096	karnevalsdrakt	N
+45097	karnevalskostyme	N
+45098	karnevalsopptog	N
+45099	karnevalsstemning	S
+45100	karnevalstid	S
+45101	karniss	N
+45104	karolin	N
+45105	karoling	N
+45106	karolingar	N
+45108	karosse	N
+45109	karosseri	N
+45110	karosserimakar	N
+45111	karosseriskade	N
+45112	karosseriverkstad	S
+45113	karoten	N
+45115	karotin	N
+45116	karpe	N
+45117	karpefisk	N
+45118	karperygg	N
+45119	karplante	N
+45120	karré	N
+45122	karri	N
+45123	karriere	N
+45124	karrierediplomat	N
+45125	karrierejag	N
+45126	karrierejeger	N
 45127	karrierementalitet	S
-45128	karrieresamfunn	
-45129	karrieresystem	
-45131	karrisaus	
-45132	karse	
-45133	karsjukdom	
-45134	karsk	
-45138	karsporeplante	
-45139	karsstykke	
-45140	karstlandskap	
-45141	kart	
-45142	kart	
-45143	kart	
-45144	kartagar	
-45146	kartblad	
-45147	kartbok	
-45149	kartell	
-45150	kartellavtale	
-45151	kartelldaning	
-45152	kartelldanning	
-45154	kartesianar	
-45159	kartlesar	
-45160	kartmappe	
-45161	kartnagl	
-45162	kartograf	
-45163	kartografi	
-45164	kartogram	
-45165	kartonasje	
-45167	kartong	
-45168	kartotek	
-45169	kartotekkort	
-45170	kartotekskåp	
-45171	kartotekskap	
-45172	kartotekskuff	
-45173	kartotekskuffe	
-45174	kartprojeksjon	
-45175	kartteikn	
-45176	kartteiknar	
-45177	kartteikning	
-45178	kartverk	
-45179	karusell	
-45180	karuss	
-45181	karve	
-45182	karve	
-45184	karveakevitt	
-45185	karvekål	
-45186	karvekålsuppe	
-45187	karveskurd	
-45188	karyatide	
-45189	kasakh	
-45191	kasakk	
-45192	kase	
-45194	kasein	
-45195	kaseinplast	
-45196	kasematt	
-45198	kaserne	
-45199	kasino	
-45200	kasjmir	
-45201	kasjmirar	
-45202	kasjmirgarn	
-45203	kasjmirgeit	
-45204	kasjmirsjal	
-45206	kasjmirteppe	
-45207	kasjmirull	
-45208	kasjott	
-45209	kasjunøtt	
-45210	kasjutre	
-45211	kaskade	
-45212	kaskelott	
-45213	kaskjett	
-45214	kasko	
-45215	kaskoassuranse	
-45217	kaskoforsikring	
-45218	kaskopolise	
-45219	kaskopremi	
-45220	kaskopremie	
-45222	kaskotrygding	
-45223	kass	
-45224	kassaapparat	
-45225	kasseapparat	
-45227	kassabok	
-45228	kassebok	
-45229	kassadagbok	
-45230	kassedagbok	
-45231	kassadame	
-45232	kassedame	
-45233	kassaettersyn	
-45234	kasseettersyn	
-45235	kassakontroll	
-45236	kassekontroll	
-45237	kassakreditt	
-45238	kassekreditt	
-45239	kassalapp	
-45240	kasselapp	
-45241	kassamangel	
-45242	kassemangel	
-45243	kassamanko	
-45244	kassemanko	
-45245	kassarabatt	
-45246	kasserabatt	
-45247	kassaregister	
-45248	kasseregister	
-45249	kassasjon	
-45250	kassasjonsdomstol	
-45251	kassasjonsrett	
-45252	kassastykke	
-45253	kassestykke	
-45254	kassastyrar	
-45255	kassestyrar	
-45256	kassasuksess	
-45257	kassesuksess	
-45258	kassasvik	
-45259	kassesvik	
+45128	karrieresamfunn	S
+45129	karrieresystem	N
+45131	karrisaus	N
+45132	karse	N
+45133	karsjukdom	S
+45134	karsk	N
+45138	karsporeplante	N
+45139	karsstykke	N
+45140	karstlandskap	S
+45141	kart	N
+45142	kart	N
+45143	kart	N
+45144	kartagar	N
+45146	kartblad	S
+45147	kartbok	N
+45149	kartell	N
+45150	kartellavtale	N
+45151	kartelldaning	S
+45152	kartelldanning	S
+45154	kartesianar	N
+45159	kartlesar	N
+45160	kartmappe	N
+45161	kartnagl	N
+45162	kartograf	N
+45163	kartografi	N
+45164	kartogram	N
+45165	kartonasje	N
+45167	kartong	N
+45168	kartotek	N
+45169	kartotekkort	N
+45170	kartotekskåp	N
+45171	kartotekskap	N
+45172	kartotekskuff	N
+45173	kartotekskuffe	N
+45174	kartprojeksjon	S
+45175	kartteikn	N
+45176	kartteiknar	N
+45177	kartteikning	S
+45178	kartverk	S
+45179	karusell	N
+45180	karuss	N
+45181	karve	N
+45182	karve	N
+45184	karveakevitt	N
+45185	karvekål	N
+45186	karvekålsuppe	N
+45187	karveskurd	N
+45188	karyatide	N
+45189	kasakh	N
+45191	kasakk	N
+45192	kase	N
+45194	kasein	N
+45195	kaseinplast	N
+45196	kasematt	N
+45198	kaserne	N
+45199	kasino	N
+45200	kasjmir	N
+45201	kasjmirar	N
+45202	kasjmirgarn	N
+45203	kasjmirgeit	NE
+45204	kasjmirsjal	N
+45206	kasjmirteppe	N
+45207	kasjmirull	N
+45208	kasjott	N
+45209	kasjunøtt	N
+45210	kasjutre	N
+45211	kaskade	N
+45212	kaskelott	N
+45213	kaskjett	N
+45214	kasko	N
+45215	kaskoassuranse	N
+45217	kaskoforsikring	S
+45218	kaskopolise	N
+45219	kaskopremi	N
+45220	kaskopremie	N
+45222	kaskotrygding	S
+45223	kass	N
+45224	kassaapparat	N
+45225	kasseapparat	N
+45227	kassabok	N
+45228	kassebok	N
+45229	kassadagbok	N
+45230	kassedagbok	N
+45231	kassadame	N
+45232	kassedame	N
+45233	kassaettersyn	S
+45234	kasseettersyn	S
+45235	kassakontroll	N
+45236	kassekontroll	N
+45237	kassakreditt	N
+45238	kassekreditt	N
+45239	kassalapp	N
+45240	kasselapp	N
+45241	kassamangel	N
+45242	kassemangel	N
+45243	kassamanko	N
+45244	kassemanko	N
+45245	kassarabatt	N
+45246	kasserabatt	N
+45247	kassaregister	N
+45248	kasseregister	N
+45249	kassasjon	S
+45250	kassasjonsdomstol	N
+45251	kassasjonsrett	N
+45252	kassastykke	N
+45253	kassestykke	N
+45254	kassastyrar	N
+45255	kassestyrar	N
+45256	kassasuksess	N
+45257	kassesuksess	N
+45258	kassasvik	N
+45259	kassesvik	N
 45260	kasse	
-45261	kassaapparat	
-45262	kasseapparat	
-45263	kassebil	
-45264	kassabok	
-45265	kassebok	
-45266	kassebord	
-45267	kassebotn	
-45268	kassadagbok	
-45269	kassedagbok	
-45270	kassadame	
-45271	kassedame	
-45272	kassaettersyn	
-45273	kasseettersyn	
-45274	kassefabrikk	
-45275	kassefjøl	
-45276	kassakontroll	
-45277	kassekontroll	
-45278	kassakreditt	
-45279	kassekreditt	
-45280	kassalapp	
-45281	kasselapp	
-45282	kassamangel	
-45283	kassemangel	
-45284	kassamanko	
-45285	kassemanko	
-45286	kassarabatt	
-45287	kasserabatt	
-45288	kasserar	
-45289	kasserarpost	
-45290	kasserarstilling	
-45293	kassaregister	
-45294	kasseregister	
-45296	kasserolle	
-45297	kassastykke	
-45298	kassestykke	
-45299	kassastyrar	
-45300	kassestyrar	
-45301	kassasucces	
-45302	kassasuksess	
-45303	kassesucces	
-45304	kassesuksess	
-45305	kassasvik	
-45306	kassesvik	
-45307	kassett	
-45308	kassett-tak	
-45309	kassettak	
-45310	kassettband	
-45311	kassettbandopptakar	
-45312	kassettbandspelar	
-45313	kassettdekk	
-45314	kassettmusikk	
-45315	kassettopptak	
-45316	kassettopptakar	
-45317	kassettradio	
-45318	kassettspelar	
-45319	kassettsystem	
-45320	kassett-tak	
-45321	kassettak	
-45322	kast	
-45323	kastanje	
-45325	kastanjetre	
-45326	kastanjett	
-45327	kastar	
-45328	kaste	
-45329	kaste	
-45331	kasteball	
-45334	kastekalv	
-45335	kastekjepp	
-45336	kasteku	
-45337	kastelag	
-45339	kasteline	
-45340	kastell	
-45341	kastenot	
-45342	kastepil	
-45343	kasteplagg	
-45344	kastesaum	
-45345	kasteskipnad	
-45346	kasteskovl	
-45347	kasteskyts	
-45348	kastesluk	
-45349	kastespjeld	
-45350	kastespjut	
-45351	kastespyd	
-45352	kastesting	
-45353	kastestong	
-45354	kastesystem	
-45358	kastevind	
-45359	kastevåpen	
-45360	kastiljanar	
-45361	kastrat	
+45261	kassaapparat	N
+45262	kasseapparat	N
+45263	kassebil	N
+45264	kassabok	N
+45265	kassebok	N
+45266	kassebord	N
+45267	kassebotn	N
+45268	kassadagbok	N
+45269	kassedagbok	N
+45270	kassadame	N
+45271	kassedame	N
+45272	kassaettersyn	S
+45273	kasseettersyn	S
+45274	kassefabrikk	N
+45275	kassefjøl	N
+45276	kassakontroll	N
+45277	kassekontroll	N
+45278	kassakreditt	N
+45279	kassekreditt	N
+45280	kassalapp	N
+45281	kasselapp	N
+45282	kassamangel	N
+45283	kassemangel	N
+45284	kassamanko	N
+45285	kassemanko	N
+45286	kassarabatt	N
+45287	kasserabatt	N
+45288	kasserar	N
+45289	kasserarpost	N
+45290	kasserarstilling	S
+45293	kassaregister	N
+45294	kasseregister	N
+45296	kasserolle	N
+45297	kassastykke	N
+45298	kassestykke	N
+45299	kassastyrar	N
+45300	kassestyrar	N
+45301	kassasucces	N
+45302	kassasuksess	N
+45303	kassesucces	N
+45304	kassesuksess	N
+45305	kassasvik	N
+45306	kassesvik	N
+45307	kassett	N
+45308	kassett-tak	N
+45309	kassettak	N
+45310	kassettband	N
+45311	kassettbandopptakar	N
+45312	kassettbandspelar	N
+45313	kassettdekk	N
+45314	kassettmusikk	N
+45315	kassettopptak	N
+45316	kassettopptakar	N
+45317	kassettradio	N
+45318	kassettspelar	N
+45319	kassettsystem	N
+45320	kassett-tak	N
+45321	kassettak	N
+45322	kast	N
+45323	kastanje	N
+45325	kastanjetre	N
+45326	kastanjett	N
+45327	kastar	N
+45328	kaste	N
+45329	kaste	N
+45331	kasteball	N
+45334	kastekalv	N
+45335	kastekjepp	N
+45336	kasteku	N
+45337	kastelag	SN
+45339	kasteline	N
+45340	kastell	N
+45341	kastenot	N
+45342	kastepil	N
+45343	kasteplagg	N
+45344	kastesaum	N
+45345	kasteskipnad	S
+45346	kasteskovl	N
+45347	kasteskyts	N
+45348	kastesluk	N
+45349	kastespjeld	N
+45350	kastespjut	N
+45351	kastespyd	N
+45352	kastesting	N
+45353	kastestong	N
+45354	kastesystem	N
+45358	kastevind	N
+45359	kastevåpen	N
+45360	kastiljanar	N
+45361	kastrat	N
 45362	kastratrøst	
-45363	kastratrøyst	
-45364	kastratsong	
-45365	kastratsongar	
-45370	kasuist	
-45371	kasuistikk	
-45373	kasus	
-45374	kasus	
-45375	kasusbøying	
-45376	kasusending	
-45377	kasusform	
-45378	kasuslære	
-45379	kasusspråk	
-45380	kasussuffiks	
-45381	kat	
-45382	katabolisme	
-45383	katafalk	
-45384	katafasi	
-45385	katakombe	
-45386	katakrese	
-45387	katalanar	
-45388	katalansk	
-45390	katalepsi	
-45391	katalog	
-45393	katalysator	
-45394	katalyse	
-45397	katamaran	
-45398	katapult	
-45399	katapultsæte	
-45400	katapultsete	
-45401	katarakt	
-45402	katarr	
-45404	katarsis	
-45406	katastrofe	
-45407	katastrofehjelp	
-45408	katastrofemelding	
-45409	katastrofeområde	
-45410	katastrofeteori	
-45411	katatagme	
-45412	katatakse	
-45414	katedral	
-45415	katedralkyrkje	
-45416	katedralskole	
-45417	katedralskule	
-45418	kategori	
-45421	katekese	
-45422	kateket	
-45423	kateketikk	
-45425	katekisasjon	
-45427	katekisme	
-45428	katekismeundervising	
-45429	katekismeundervisning	
-45430	katekumen	
-45431	katet	
+45363	kastratrøyst	N
+45364	kastratsong	N
+45365	kastratsongar	N
+45370	kasuist	N
+45371	kasuistikk	N
+45373	kasus	N
+45374	kasus	N
+45375	kasusbøying	S
+45376	kasusending	S
+45377	kasusform	N
+45378	kasuslære	N
+45379	kasusspråk	NS
+45380	kasussuffiks	N
+45381	kat	N
+45382	katabolisme	N
+45383	katafalk	N
+45384	katafasi	N
+45385	katakombe	N
+45386	katakrese	N
+45387	katalanar	N
+45388	katalansk	N
+45390	katalepsi	N
+45391	katalog	N
+45393	katalysator	N
+45394	katalyse	N
+45397	katamaran	N
+45398	katapult	N
+45399	katapultsæte	N
+45400	katapultsete	N
+45401	katarakt	N
+45402	katarr	N
+45404	katarsis	N
+45406	katastrofe	N
+45407	katastrofehjelp	SE
+45408	katastrofemelding	S
+45409	katastrofeområde	N
+45410	katastrofeteori	N
+45411	katatagme	N
+45412	katatakse	N
+45414	katedral	N
+45415	katedralkyrkje	N
+45416	katedralskole	N
+45417	katedralskule	N
+45418	kategori	N
+45421	katekese	N
+45422	kateket	N
+45423	kateketikk	N
+45425	katekisasjon	S
+45427	katekisme	N
+45428	katekismeundervising	S
+45429	katekismeundervisning	S
+45430	katekumen	N
+45431	katet	N
 45432	kateter	N
 45433	kateter	N
 45434	kateterføredrag	S
 45435	kateterforedrag	S
 45436	kateterførelesing	S
 45437	kateterforelesing	S
-45438	catgut	
-45439	katgut	
-45440	kation	
+45438	catgut	N
+45439	katgut	N
+45440	kation	NE
 45441	katode	N
 45442	katodeljos	N
 45443	katodelys	N
@@ -32911,284 +32911,284 @@
 45445	katolikk	N
 45446	katolisisme	N
 45448	katt	E
-45451	kattauga	
-45452	kattauge	
-45453	katteauga	
-45454	katteauge	
-45455	katte	
-45459	kattebjørn	
-45460	kattedyr	
-45461	kattefamilie	
-45462	kattefot	
-45463	kattehale	
-45464	katteklo	
-45465	kattekonsert	
-45466	kattelabb	
-45467	kattemat	
-45469	kattemusikk	
-45470	kattemynte	
-45471	kattenesle	
-45472	kattepest	
-45473	kattepine	
-45474	kattepus	
-45475	kattesjuke	
-45476	kattesykje	
-45477	katteskinn	
-45478	katteslekt	
+45451	kattauga	N
+45452	kattauge	N
+45453	katteauga	N
+45454	katteauge	N
+45455	katte	N
+45459	kattebjørn	N
+45460	kattedyr	N
+45461	kattefamilie	N
+45462	kattefot	N
+45463	kattehale	N
+45464	katteklo	N
+45465	kattekonsert	N
+45466	kattelabb	N
+45467	kattemat	N
+45469	kattemusikk	N
+45470	kattemynte	N
+45471	kattenesle	N
+45472	kattepest	N
+45473	kattepine	N
+45474	kattepus	N
+45475	kattesjuke	N
+45476	kattesykje	N
+45477	katteskinn	S
+45478	katteslekt	S
 45479	kattestein	SN
-45480	kattesølv	
-45481	kattesylv	
-45482	katteurt	
-45483	kattevask	
-45485	kattfisk	
-45486	kattgaupe	
-45487	kattost	
-45488	kattugle	
-45489	kattun	
-45490	kattunge	
-45491	katzenjammer	
-45493	kaudervelsk	
-45496	kaukas	
-45500	kaun	
-45501	kaup	
-45502	kaup	
-45503	kaupang	
-45504	kaure	
-45507	kause	
-45509	kausalitet	
-45510	kausallov	
-45511	kausativ	
-45513	kause	
-45514	kause	
-45515	kause	
-45517	kausjon	
-45519	kausjonist	
-45520	kausjonsansvar	
-45521	kausjonsbeløp	
-45522	kausjonsforsikring	
-45523	kausjonslån	
-45524	kausjonssum	
-45525	kausjonstrygding	
-45528	kautel	
-45529	kautsjuk	
-45530	kautsjukplante	
-45531	kautsjuktre	
-45532	kav	
-45533	kav	
-45534	kavai	
-45535	kavaler	
-45536	kavaleri	
-45537	kavaleriavdeling	
-45538	kavalerihest	
-45539	kavalerioffiser	
-45540	kavaleriregiment	
-45541	kavalerislag	
-45542	kavalerist	
-45543	kavaleristøtte	
-45544	kavaleriåtak	
-45545	kavalkade	
-45546	kavalkadekino	
-45547	kavbåt	
-45548	kave	
-45554	kaveringsmann	
-45555	kaverne	
-45558	kaviar	
-45559	kaviartube	
-45560	kavl	
-45561	kavle	
-45563	kavlebru	
-45565	kavring	
-45566	kavringgraut	
-45568	kebab	
-45569	kediv	
-45570	keeper	
-45571	keeperreserve	
-45572	keeperspel	
-45573	keepertabbe	
-45574	kefir	
-45575	kefirkorn	
-45576	kefirmjølk	
-45577	kei	
-45578	kjei	
-45581	keik	
-45582	keik	
-45589	keile	
-45590	keim	
-45591	keip	
-45592	keipe	
-45594	keisar	
-45595	keisardyrking	
-45596	keisardøme	
-45597	keisardømme	
-45598	keisarinne	
-45599	keisarkrone	
-45600	keisarkultus	
-45603	keisarpingvin	
-45604	keisarrike	
-45605	keisarsnitt	
-45606	keisartid	
-45607	keisarvørdnad	
-45608	keisarvyrdnad	
-45610	keisemd	
-45611	keising	
-45616	keive	
-45623	kelner	
-45624	kelt	
-45625	keltar	
-45626	keltisk	
-45628	kelvin	
-45629	kelvingrad	
-45630	kelvinskala	
-45631	kelvintermometer	
-45632	kemner	
-45633	kemnerkontor	
-45634	kenguru	
-45635	kengurufamilie	
-45636	kengururotte	
-45637	kennel	
-45638	kennelklubb	
-45639	kenning	
-45640	kjenning	
-45641	kentaur	
-45642	kentumspråk	
-45643	kenyan	
-45644	kenyanar	
-45646	kepaløk	
-45647	kepalauk	
-45648	keramikar	
-45649	keramikk	
-45651	keratin	
-45652	kermes	
-45653	kermesbær	
-45654	kermesbærplante	
-45655	kermeseik	
-45657	kermesskjoldlus	
-45658	ketchup	
-45659	ketchupflaske	
-45660	keton	
-45664	khaki	
-45666	khan	
-45667	khanat	
-45668	khmer	
-45669	khmerfolk	
-45671	kiasme	
-45672	kibb	
-45674	kibbutz	
-45675	kibbutzsamfunn	
-45676	kibbutzsystem	
-45677	kidnappar	
-45679	kidnapping	
-45680	kik	
-45681	kik	
-45682	kik	
-45683	kikk	
-45684	kikador	
-45685	kikidor	
-45688	kikar	
-45689	kikkar	
-45690	kikar	
-45695	kikert	
-45696	kikkert	
-45697	kikertauga	
-45698	kikertauge	
-45699	kikkertauga	
-45700	kikkertauge	
-45701	kikertlinse	
-45702	kikkertlinse	
-45703	kikertsikte	
-45704	kikkertsikte	
-45705	kikhol	
-45706	kikhoste	
-45707	kikador	
-45708	kikidor	
-45713	kik	
-45714	kikk	
-45715	kikador	
-45716	kikidor	
-45719	kikar	
-45720	kikkar	
-45724	kikert	
-45725	kikkert	
-45726	kikertauga	
-45727	kikertauge	
-45728	kikkertauga	
-45729	kikkertauge	
-45730	kikertlinse	
-45731	kikkertlinse	
-45732	kikertsikte	
-45733	kikkertsikte	
-45734	kikador	
-45735	kikidor	
-45742	kiks	
-45744	kiksekule	
-45745	kikuyu	
-45746	kil	
-45747	kile	
-45750	kilebein	
-45753	kilenot	
-45754	kilereim	
-45755	kileskrift	
-45756	kilevink	
-45757	kiliasme	
-45758	kille	
-45760	killing	
-45761	kilo	
-45762	kilocykel	
-45763	kilogram	
-45764	kilohertz	
-45765	kilojoule	
-45766	kilokalori	
-45767	kilometer	
-45768	kilometeravgift	
-45769	kilometerstand	
-45770	kilometerteljar	
-45771	kilopond	
-45772	kilopondmeter	
-45773	kilopris	
-45774	kiloreins	
-45775	kilotonn	
-45776	kilovolt	
-45777	kilowatt	
-45778	kilowatt-time	
-45779	kilowattime	
-45780	kilt	
-45781	kim	
-45782	kime	
-45783	kimblad	
-45784	kimeblad	
-45785	kimbrar	
-45787	kimcelle	
-45788	kim	
-45789	kime	
-45792	kiming	
-45793	kimming	
-45794	kimknopp	
-45795	kimknupp	
-45796	kiming	
-45797	kimming	
-45798	kimono	
-45799	kimplante	
-45800	kimrot	
-45802	kimsekk	
-45803	kimstengel	
-45804	kimære	
-45805	kinabork	
-45806	kinaborktre	
-45807	kinakål	
-45808	kinamann	
-45809	kinamisjon	
-45810	kinaputt	
-45811	kinasjakk	
-45812	kinatre	
-45813	kind	
-45814	kinematek	
-45815	kinematikk	
-45816	kinematograf	
-45817	kinematografi	
-45818	kinesar	
-45819	kineseri	
-45820	kinesiologi	
-45821	kinesisk	
+45480	kattesølv	N
+45481	kattesylv	N
+45482	katteurt	N
+45483	kattevask	N
+45485	kattfisk	N
+45486	kattgaupe	N
+45487	kattost	N
+45488	kattugle	N
+45489	kattun	N
+45490	kattunge	N
+45491	katzenjammer	N
+45493	kaudervelsk	N
+45496	kaukas	N
+45500	kaun	N
+45501	kaup	N
+45502	kaup	N
+45503	kaupang	N
+45504	kaure	N
+45507	kause	N
+45509	kausalitet	S
+45510	kausallov	N
+45511	kausativ	N
+45513	kause	N
+45514	kause	N
+45515	kause	N
+45517	kausjon	S
+45519	kausjonist	N
+45520	kausjonsansvar	S
+45521	kausjonsbeløp	S
+45522	kausjonsforsikring	S
+45523	kausjonslån	N
+45524	kausjonssum	N
+45525	kausjonstrygding	S
+45528	kautel	N
+45529	kautsjuk	N
+45530	kautsjukplante	N
+45531	kautsjuktre	N
+45532	kav	N
+45533	kav	N
+45534	kavai	N
+45535	kavaler	N
+45536	kavaleri	N
+45537	kavaleriavdeling	S
+45538	kavalerihest	N
+45539	kavalerioffiser	S
+45540	kavaleriregiment	S
+45541	kavalerislag	N
+45542	kavalerist	N
+45543	kavaleristøtte	N
+45544	kavaleriåtak	S
+45545	kavalkade	N
+45546	kavalkadekino	N
+45547	kavbåt	N
+45548	kave	N
+45554	kaveringsmann	S
+45555	kaverne	N
+45558	kaviar	N
+45559	kaviartube	N
+45560	kavl	N
+45561	kavle	N
+45563	kavlebru	N
+45565	kavring	N
+45566	kavringgraut	N
+45568	kebab	N
+45569	kediv	N
+45570	keeper	N
+45571	keeperreserve	N
+45572	keeperspel	NE
+45573	keepertabbe	N
+45574	kefir	N
+45575	kefirkorn	N
+45576	kefirmjølk	N
+45577	kei	N
+45578	kjei	N
+45581	keik	N
+45582	keik	N
+45589	keile	N
+45590	keim	N
+45591	keip	N
+45592	keipe	N
+45594	keisar	N
+45595	keisardyrking	S
+45596	keisardøme	N
+45597	keisardømme	N
+45598	keisarinne	N
+45599	keisarkrone	N
+45600	keisarkultus	N
+45603	keisarpingvin	N
+45604	keisarrike	N
+45605	keisarsnitt	N
+45606	keisartid	S
+45607	keisarvørdnad	S
+45608	keisarvyrdnad	S
+45610	keisemd	S
+45611	keising	S
+45616	keive	N
+45623	kelner	N
+45624	kelt	N
+45625	keltar	N
+45626	keltisk	N
+45628	kelvin	N
+45629	kelvingrad	NS
+45630	kelvinskala	N
+45631	kelvintermometer	N
+45632	kemner	N
+45633	kemnerkontor	N
+45634	kenguru	N
+45635	kengurufamilie	N
+45636	kengururotte	N
+45637	kennel	N
+45638	kennelklubb	N
+45639	kenning	S
+45640	kjenning	S
+45641	kentaur	N
+45642	kentumspråk	NS
+45643	kenyan	N
+45644	kenyanar	N
+45646	kepaløk	N
+45647	kepalauk	N
+45648	keramikar	N
+45649	keramikk	N
+45651	keratin	N
+45652	kermes	N
+45653	kermesbær	N
+45654	kermesbærplante	N
+45655	kermeseik	N
+45657	kermesskjoldlus	N
+45658	ketchup	N
+45659	ketchupflaske	N
+45660	keton	N
+45664	khaki	N
+45666	khan	N
+45667	khanat	N
+45668	khmer	N
+45669	khmerfolk	N
+45671	kiasme	N
+45672	kibb	N
+45674	kibbutz	N
+45675	kibbutzsamfunn	S
+45676	kibbutzsystem	N
+45677	kidnappar	N
+45679	kidnapping	S
+45680	kik	N
+45681	kik	N
+45682	kik	N
+45683	kikk	N
+45684	kikador	N
+45685	kikidor	N
+45688	kikar	N
+45689	kikkar	N
+45690	kikar	N
+45695	kikert	N
+45696	kikkert	N
+45697	kikertauga	N
+45698	kikertauge	N
+45699	kikkertauga	N
+45700	kikkertauge	N
+45701	kikertlinse	N
+45702	kikkertlinse	N
+45703	kikertsikte	N
+45704	kikkertsikte	N
+45705	kikhol	SN
+45706	kikhoste	N
+45707	kikador	N
+45708	kikidor	N
+45713	kik	N
+45714	kikk	N
+45715	kikador	N
+45716	kikidor	N
+45719	kikar	N
+45720	kikkar	N
+45724	kikert	N
+45725	kikkert	N
+45726	kikertauga	N
+45727	kikertauge	N
+45728	kikkertauga	N
+45729	kikkertauge	N
+45730	kikertlinse	N
+45731	kikkertlinse	N
+45732	kikertsikte	N
+45733	kikkertsikte	N
+45734	kikador	N
+45735	kikidor	N
+45742	kiks	N
+45744	kiksekule	N
+45745	kikuyu	N
+45746	kil	N
+45747	kile	N
+45750	kilebein	NS
+45753	kilenot	N
+45754	kilereim	N
+45755	kileskrift	NS
+45756	kilevink	N
+45757	kiliasme	N
+45758	kille	N
+45760	killing	S
+45761	kilo	N
+45762	kilocykel	N
+45763	kilogram	NS
+45764	kilohertz	N
+45765	kilojoule	N
+45766	kilokalori	N
+45767	kilometer	N
+45768	kilometeravgift	S
+45769	kilometerstand	S
+45770	kilometerteljar	N
+45771	kilopond	N
+45772	kilopondmeter	N
+45773	kilopris	N
+45774	kiloreins	N
+45775	kilotonn	N
+45776	kilovolt	N
+45777	kilowatt	N
+45778	kilowatt-time	N
+45779	kilowattime	N
+45780	kilt	N
+45781	kim	N
+45782	kime	N
+45783	kimblad	N
+45784	kimeblad	N
+45785	kimbrar	N
+45787	kimcelle	N
+45788	kim	N
+45789	kime	N
+45792	kiming	S
+45793	kimming	S
+45794	kimknopp	N
+45795	kimknupp	N
+45796	kiming	S
+45797	kimming	S
+45798	kimono	N
+45799	kimplante	N
+45800	kimrot	N
+45802	kimsekk	N
+45803	kimstengel	N
+45804	kimære	N
+45805	kinabork	N
+45806	kinaborktre	N
+45807	kinakål	N
+45808	kinamann	S
+45809	kinamisjon	S
+45810	kinaputt	N
+45811	kinasjakk	N
+45812	kinatre	N
+45813	kind	N
+45814	kinematek	NS
+45815	kinematikk	N
+45816	kinematograf	N
+45817	kinematografi	N
+45818	kinesar	N
+45819	kineseri	N
+45820	kinesiologi	N
+45821	kinesisk	N
 45823	kinetikk	
 45826	king	
 45827	kingbolt	
@@ -33203,16 +33203,16 @@
 45840	kinne	
 45842	kinnebete	
 45843	kinnekling	
-45844	kinnemjølk	
+45844	kinnemjølk	N
 45845	kinnflått	
-45846	kinnhest	
-45847	kinnskjegg	
+45846	kinnhest	N
+45847	kinnskjegg	NS
 45848	kinntann	
 45849	kinntonn	
 45850	kinntaske	
 45851	kino	
 45852	kinobillett	
-45853	kinoframsyning	
+45853	kinoframsyning	S
 45854	kinogangar	
 45855	kinogjengar	
 45856	kinolokale	
@@ -33256,40 +33256,40 @@
 45904	kis	
 45905	kis	
 45907	kisel	
-45908	kiselalge	
-45909	kiselgur	
+45908	kiselalge	N
+45909	kiselgur	N
 45910	kiselstein	SN
-45912	kiselsyre	
-45917	kiste	
-45918	kistebenk	
-45919	kistebotn	
-45921	kistel	
-45922	kistelok	
-45923	kistelokk	
-45929	kitin	
-45930	kitlar	
-45935	kitt	
-45937	kittekniv	
-45938	kittkniv	
-45939	kittel	
-45942	kiv	
-45947	kivi	
-45949	kivsmål	
-45950	kiwi	
-45954	kjake	
-45956	kjakebein	
-45957	kjakemuskel	
-45958	kjakeparti	
-45959	kjakeskjegg	
-45960	kjaks	
-45965	kjangs	
-45968	kjas	
-45970	kjav	
-45972	kje	
-45973	kjede	
-45975	kjedebrev	
-45976	kjedebutikk	
-45977	kjedeforretning	
+45912	kiselsyre	N
+45917	kiste	N
+45918	kistebenk	NS
+45919	kistebotn	N
+45921	kistel	N
+45922	kistelok	NS
+45923	kistelokk	NS
+45929	kitin	N
+45930	kitlar	N
+45935	kitt	N
+45937	kittekniv	NS
+45938	kittkniv	NS
+45939	kittel	N
+45942	kiv	N
+45947	kivi	N
+45949	kivsmål	S
+45950	kiwi	N
+45954	kjake	N
+45956	kjakebein	SN
+45957	kjakemuskel	N
+45958	kjakeparti	N
+45959	kjakeskjegg	NS
+45960	kjaks	N
+45965	kjangs	N
+45968	kjas	N
+45970	kjav	N
+45972	kje	N
+45973	kjede	N
+45975	kjedebrev	N
+45976	kjedebutikk	N
+45977	kjedeforretning	S
 45978	kjedehjul	
 45979	kjedekasse	
 45980	kjedekollisjon	
@@ -33393,7 +33393,7 @@
 46103	kjellarlem	
 46104	kjellarluke	
 46105	kjellarmann	
-46106	kjellarmjølk	
+46106	kjellarmjølk	N
 46107	kjellarmur	
 46108	kjellarrestaurant	
 46109	kjellarrom	
@@ -34060,8 +34060,8 @@
 46930	klarleik	
 46931	klarleik	
 46934	klarsignal	
-46935	klårspråk	
-46936	klarspråk	
+46935	klårspråk	NS
+46936	klarspråk	NS
 46937	klårsyn	
 46938	klarsyn	
 46941	klårtekst	
@@ -34325,7 +34325,7 @@
 47293	klippfisk	
 47294	kleppfiskeksport	
 47295	klippfiskeksport	
-47296	kleppmjølk	
+47296	kleppmjølk	N
 47297	kleppsuppe	
 47300	kleptoman	
 47302	kleptomani	
@@ -34509,7 +34509,7 @@
 47521	kliss	
 47525	klisseri	
 47526	klissesnakk	
-47527	klissespråk	
+47527	klissespråk	NS
 47531	klissklass	
 47533	klissprat	
 47534	klissvêr	
@@ -34664,8 +34664,8 @@
 47710	klovn	
 47713	klovning	
 47714	klovsopp	
-47715	klubb	
-47716	klubb	
+47715	klubb	N
+47716	klubb	N
 47717	klubbdrakt	
 47718	klubbe	
 47724	klubbformann	
@@ -35144,7 +35144,7 @@
 48532	kodebryting	
 48533	kodeks	
 48534	kodelås	
-48535	kodemjølk	
+48535	kodemjølk	N
 48536	kodeord	
 48537	kodeskjema	
 48538	kodeskrift	
@@ -35261,7 +35261,7 @@
 48672	kokosmasse	
 48673	kokosmatte	
 48674	kokosmjøl	
-48675	kokosmjølk	
+48675	kokosmjølk	N
 48676	kokosnøtt	
 48677	kokosolje	
 48678	kokospalme	
@@ -36062,7 +36062,7 @@
 49680	konsumartikkel	
 49681	konsument	
 49682	konsumentsamfunn	
-49684	konsummjølk	
+49684	konsummjølk	N
 49685	konsumprisindeks	
 49686	konsumpsjon	
 49687	konsumsamfunn	
@@ -37832,7 +37832,7 @@
 51982	kulturlån	
 51983	kulturmiljø	
 51984	kulturminne	
-51985	kulturmjølk	
+51985	kulturmjølk	N
 51986	kulturnamn	
 51987	kulturnasjon	
 51989	kulturoppgåve	
@@ -37876,7 +37876,7 @@
 52028	kultusdyr	
 52029	kulør	
 52031	kum	
-52032	kumjølk	
+52032	kumjølk	N
 52033	kumle	
 52035	kumlok	
 52036	kumlokk	
@@ -38378,7 +38378,7 @@
 52695	kveldskurs	
 52697	kveldsleite	
 52698	kveldsmat	
-52699	kveldsmjølk	
+52699	kveldsmjølk	N
 52700	kveldsmål	
 52701	kveldsol	
 52702	kveldssol	
@@ -40282,7 +40282,7 @@
 55261	lettlending	
 55269	lettmatros	
 55273	lettmetall	
-55276	lettmjølk	
+55276	lettmjølk	N
 55277	lettolje	
 55278	lettprogram	
 55286	lettsinn	
@@ -44739,7 +44739,7 @@
 61414	mjøldogg	
 61420	mjølhit	
 61421	mjøling	
-61422	mjølk	
+61422	mjølk	E
 61423	mjølkar	
 61424	mjølke	
 61425	mjølke	
@@ -45146,7 +45146,7 @@
 62016	morskap	
 62017	morskap	
 62018	morskapslesnad	
-62020	morsmjølk	
+62020	morsmjølk	N
 62021	morsmjølksentral	
 62022	morsmjølktillegg	
 62023	morsmål	
@@ -46403,7 +46403,7 @@
 63772	nattkikkert	
 63773	nattkino	
 63774	nattkjole	
-63775	nattklubb	
+63775	nattklubb	N
 63778	nattlege	
 63779	nattlægje	
 63780	nattleie	
@@ -52030,7 +52030,7 @@
 71715	produksjonsleiar	
 71716	produksjonsmengd	
 71717	produksjonsmiddel	
-71718	produksjonsmjølk	
+71718	produksjonsmjølk	N
 71719	produksjonspremi	
 71720	produksjonspremie	
 71721	produksjonspris	
@@ -53823,7 +53823,7 @@
 74412	rennegarn	
 74413	rennel	
 74414	rennelykkje	
-74415	rennemjølk	
+74415	rennemjølk	N
 74416	rennesjuke	
 74417	rennesykje	
 74418	renneskeid	
@@ -54123,7 +54123,7 @@
 74877	returball	
 74878	returbillett	
 74879	returkamp	
-74880	returmjølk	
+74880	returmjølk	N
 74882	returporto	
 74883	retusj	
 74885	reumatikar	
@@ -54267,7 +54267,7 @@
 75081	rikl	
 75086	rikling	
 75087	rikmann	
-75088	rikmannsklubb	
+75088	rikmannsklubb	N
 75089	rikmannsstyre	
 75090	rikmannsvelde	
 75091	rikosjett	
@@ -54677,7 +54677,7 @@
 75653	rotang	
 75654	rotangpalme	
 75655	rotarianar	
-75656	rotaryklubb	
+75656	rotaryklubb	N
 75657	rotasjon	
 75658	rotasjonspresse	
 75659	rotavleiing	
@@ -55449,7 +55449,7 @@
 76767	råmetimetal	
 76768	råmetraktor	
 76769	råmeutkast	
-76770	råmjølk	
+76770	råmjølk	S
 76771	råmjølkspudding	
 76772	råmskot	
 76773	råmskott	
@@ -57133,7 +57133,7 @@
 79003	separatisme	
 79004	separatist	
 79006	separator	
-79007	separatormjølk	
+79007	separatormjølk	N
 79008	separatorsveiv	
 79009	separatutstilling	
 79011	sepia	
@@ -57440,7 +57440,7 @@
 79382	sexbombe	
 79383	sexdebut	
 79385	sexfilm	
-79386	sexklubb	
+79386	sexklubb	N
 79387	sexolog	
 79388	sexologi	
 79391	seychellar	
@@ -57763,7 +57763,7 @@
 79817	sildegryn	
 79818	sildekake	
 79819	sildekast	
-79820	sildeklubb	
+79820	sildeklubb	N
 79821	sildeknut	
 79822	sildeknute	
 79823	sildekonge	
@@ -57897,7 +57897,7 @@
 79978	sinekyre	
 79979	sinekyrestilling	
 79980	sinekyrist	
-79982	sinemjølk	
+79982	sinemjølk	N
 79984	sinfonia	
 79986	singalesar	
 79988	singaporar	
@@ -58283,7 +58283,7 @@
 80515	sjokkskade	
 80516	sjokkverknad	
 80517	sjokolade	
-80518	sjokolademjølk	
+80518	sjokolademjølk	N
 80519	sjokoladeplate	
 80520	sjokoladepudding	
 80521	sjon	
@@ -59050,7 +59050,7 @@
 81644	skeiseis	
 81645	skeisejarn	
 81646	skeisejern	
-81647	skeiseklubb	
+81647	skeiseklubb	N
 81648	skeisekonge	
 81649	skeiselandskamp	
 81650	skeiseløp	
@@ -59132,7 +59132,7 @@
 81747	skiinstruktør	
 81748	skikjelke	
 81749	skikk	
-81754	skiklubb	
+81754	skiklubb	N
 81755	skikonge	
 81756	skikrins	
 81757	skil	
@@ -59821,7 +59821,7 @@
 82701	skjørbuk	
 82702	skjørbuksurt	
 82705	skjøretak	
-82706	skjørmjølk	
+82706	skjørmjølk	N
 82708	skjørost	
 82710	skjørsoll	
 82711	skjørstamp	
@@ -61217,7 +61217,7 @@
 84516	skulptør	
 84521	skult	
 84522	skum	
-84524	skumamjølk	
+84524	skumamjølk	N
 84527	skumbad	
 84528	skumblære	
 84529	skumdott	
@@ -61233,8 +61233,8 @@
 84542	skumkok	
 84545	skumleri	
 84547	skumling	
-84548	skumamjølk	
-84549	skummamjølk	
+84548	skumamjølk	N
+84549	skummamjølk	N
 84553	skump	
 84555	skumpelskot	
 84556	skumpelskott	
@@ -61572,7 +61572,7 @@
 85061	skøyteis	
 85062	skøytejarn	
 85063	skøytejern	
-85064	skøyteklubb	
+85064	skøyteklubb	N
 85065	skøytekonge	
 85066	skøytelandskamp	
 85067	skøyteløp	
@@ -63597,7 +63597,7 @@
 88004	spannhanke	
 88005	spannlok	
 88006	spannlokk	
-88007	spannmjølk	
+88007	spannmjølk	N
 88008	spannost	
 88009	spansk	
 88012	spanskesjuke	
@@ -66638,7 +66638,7 @@
 92303	surl	
 92305	surleik	
 92306	surleiksgrad	
-92308	surmjølk	
+92308	surmjølk	S
 92311	surost	
 92312	surprim	
 92313	surr	
@@ -67111,7 +67111,7 @@
 93085	syklist	
 93086	syklon	
 93087	syklotron	
-93088	syklubb	
+93088	syklubb	N
 93089	syklus	
 93090	sykn	
 93091	sykne	
@@ -67741,7 +67741,7 @@
 94004	søtkake	
 94005	søtkirsebær	
 94008	søtleik	
-94010	søtmjølk	
+94010	søtmjølk	S
 94011	søtmons	
 94014	søtost	
 94015	søtpotet	
@@ -69207,7 +69207,7 @@
 95929	tettegras	
 95930	tettekniv	
 95931	tettelist	
-95932	tettemjølk	
+95932	tettemjølk	N
 95936	tettgrend	
 95940	tetting	
 95941	tettingslist	
@@ -69947,7 +69947,7 @@
 97065	tjukking	
 97066	tjukklegg	
 97067	tjukkleik	
-97068	tjukkmjølk	
+97068	tjukkmjølk	N
 97071	tjukktarm	
 97072	tjukn	
 97073	tjukne	
@@ -72510,7 +72510,7 @@
 100815	turrleik	
 100816	turrlende	
 100818	turrmat	
-100820	turrmjølk	
+100820	turrmjølk	N
 100822	turròt	
 100823	turr-ròt	
 100824	turròte	
@@ -73404,8 +73404,8 @@
 102151	turrlende	
 102154	tørrmat	
 102155	turrmat	
-102158	tørrmjølk	
-102159	turrmjølk	
+102158	tørrmjølk	N
+102159	turrmjølk	N
 102162	tørròt	
 102163	tørròte	
 102164	tørr-ròt	
@@ -74069,7 +74069,7 @@
 103613	ulvehund	
 103614	ulvekjeft	
 103615	ulvelune	
-103616	ulvemjølk	
+103616	ulvemjølk	N
 103617	ulvesaks	
 103618	ulvestove	
 103619	ulvestue	
@@ -74546,7 +74546,7 @@
 104368	ungdomsideal	
 104369	ungdomskamerat	
 104370	ungdomskjærast	
-104371	ungdomsklubb	
+104371	ungdomsklubb	N
 104372	ungdomskongress	
 104373	ungdomskraft	
 104374	ungdomskriminalitet	
@@ -77689,8 +77689,8 @@
 109325	vengje	
 109326	veninne	
 109327	venninne	
-109328	veninneklubb	
-109329	venninneklubb	
+109328	veninneklubb	N
+109329	venninneklubb	N
 109330	veninneselskap	
 109331	venninneselskap	
 109334	venjing	
@@ -77738,8 +77738,8 @@
 109392	venning	
 109393	veninne	
 109394	venninne	
-109395	veninneklubb	
-109396	venninneklubb	
+109395	veninneklubb	N
+109396	venninneklubb	N
 109397	veninneselskap	
 109398	venninneselskap	
 109409	vennsemd	
@@ -78372,7 +78372,7 @@
 110177	verkstaddrift	
 110178	verkstadhall	
 110179	verkstadindustri	
-110180	verkstadklubb	
+110180	verkstadklubb	N
 110182	verkstadlokale	
 110183	verkstadpraksis	
 110184	verktøy	
@@ -78721,7 +78721,7 @@
 110621	veteran	
 110622	veteranbil	
 110623	veteranbilforeining	
-110624	veteranbilklubb	
+110624	veteranbilklubb	N
 110625	veteranbilorganisasjon	
 110626	veteranhær	
 110627	veteranher	
@@ -79559,7 +79559,7 @@
 111677	visedikting	
 111678	viseformann	
 111679	visegruppe	
-111680	viseklubb	
+111680	viseklubb	N
 111681	visekonge	
 111682	visekonsul	
 111683	visekorporal	
@@ -79954,7 +79954,7 @@
 112207	vorsteher	
 112208	vorte	
 112209	vortebitar	
-112211	vortemjølk	
+112211	vortemjølk	N
 112212	vorteskurv	
 112213	vortestein	SN
 112214	vortesvin	
@@ -83455,9 +83455,9 @@
 125099	litosfære	
 125100	ljosterapi	
 125101	geriatrikar	
-125102	MC-klubb	
+125102	MC-klubb	N
 125103	housemusikk	
-125104	farmarklubb	
+125104	farmarklubb	N
 125105	meiningsterror	
 125106	skattedirektør	
 125107	skatteflyktning	
@@ -84338,52 +84338,52 @@
 126256	tørrsott	
 126257	vatersott	
 126258	vattersott	
-126259	betydning	
-126260	fortsetting	
-126261	healing	
-126262	it-næring	
-126263	kolonnekøyring	
-126264	kryssbefrukting	
-126265	meiningsdanning	
-126266	pirsing	
-126267	prøverøryrsbefrukting	
-126268	senetilvisning	
-126269	slåssing	
-126270	steinsetting	
-126271	sørvisnæring	
-126272	telemarkskøyring	
-126273	turbolading	
-126274	unnlating	
-126275	valdagsmæling	
-126276	vermelding	
-126277	æresoppreisning	
-126278	villsvinskjoting	
-126279	eldspåsetting	
-126280	klyssfôring	
-126281	kolosforgiftning	
-126282	komposittkapitél	
-126283	kringsetting	
-126284	kødan(n)ing	
-126285	sjarterflyging	
-126286	vareomsetting	
-126287	veronalforgifting	
-126288	svigersøster	
-126289	marihand	
-126290	karbrok	
-126291	kasjunot	
-126292	kokosnot	
-126294	kulturfellesskap	
-126295	jettmaskin	
-126296	livskunst	
-126297	primadonnanykke	
-126298	heidersmedlem	
-126299	premierepublikum	
-126300	jettski	
-126301	mørkn	
-126302	naudsyn	
-126303	psykofarmakum	
-126304	farmakum	
-126305	hyposentrum	
-126320	muskatnot	
-126322	sumsjon	
-126336	eikenot	
+126259	betydning	S
+126260	fortsetting	S
+126261	healing	S
+126262	it-næring	S
+126263	kolonnekøyring	S
+126264	kryssbefrukting	S
+126265	meiningsdanning	S
+126266	pirsing	S
+126267	prøverøryrsbefrukting	S
+126268	senetilvisning	S
+126269	slåssing	S
+126270	steinsetting	S
+126271	sørvisnæring	S
+126272	telemarkskøyring	S
+126273	turbolading	S
+126274	unnlating	S
+126275	valdagsmæling	S
+126276	vermelding	S
+126277	æresoppreisning	S
+126278	villsvinskjoting	S
+126279	eldspåsetting	S
+126280	klyssfôring	S
+126281	kolosforgiftning	S
+126282	komposittkapitél	N
+126283	kringsetting	S
+126284	kødan(n)ing	S
+126285	sjarterflyging	S
+126286	vareomsetting	S
+126287	veronalforgifting	S
+126288	svigersøster	N
+126289	marihand	N
+126290	karbrok	S
+126291	kasjunot	N
+126292	kokosnot	N
+126294	kulturfellesskap	S
+126295	jettmaskin	N
+126296	livskunst	N
+126297	primadonnanykke	N
+126298	heidersmedlem	S
+126299	premierepublikum	S
+126300	jettski	N
+126301	mørkn	N
+126302	naudsyn	S
+126303	psykofarmakum	S
+126304	farmakum	S
+126305	hyposentrum	S
+126320	muskatnot	N
+126322	sumsjon	S
+126336	eikenot	N
