@@ -3543,7 +3543,7 @@
 4855	bagasjenet	
 4856	bagasjenett	
 4857	bagasjerom	
-4858	bagatell	
+4858	bagatell	N
 4862	bagett	
 4863	bagge	
 4864	baglar	
@@ -3958,7 +3958,7 @@
 5357	bankstyre	
 5358	bankverksemd	
 5359	bankør	
-5360	bann	
+5360	bann	N
 5363	bannbrev	
 5364	bannbulle	
 5366	banner	
@@ -4389,7 +4389,7 @@
 5897	bedrift	
 5898	bedriftsdemokrati	
 5899	bedriftsforsamling	S
-5900	bedriftsidrett	
+5900	bedriftsidrett	S
 5901	bedriftsidrott	
 5902	bedriftsklubb	
 5903	bedriftslækjar	
@@ -4865,7 +4865,7 @@
 6559	bessemering	S
 6560	bessemerprosess	
 6561	bessemerstål	
-6563	best	
+6563	best	N
 6565	bestand	
 6566	bestand	
 6567	beste	
@@ -6374,10 +6374,10 @@
 8469	bløyte	
 8471	bløyting	S
 8472	bløyting	S
-8473	blå	
+8473	blå	N
 8477	blåberg	
 8481	blåbok	
-8482	blåbær	
+8482	blåbær	N
 8483	blåbærlyng	
 8484	blåbærris	
 8485	blåbærsyltetøy	
@@ -6696,7 +6696,7 @@
 8887	bombardement	
 8889	bombasin	
 8890	bombast	
-8892	bombe	
+8892	bombe	N
 8894	bombeangrep	
 8895	bombeattentat	
 8896	bombefly	
@@ -6734,7 +6734,7 @@
 8936	bomvaktar	
 8937	bomveg	
 8939	bonbon	
-8940	bonde	
+8940	bonde	N
 8941	bondeålmuge	
 8942	bondeallmuge	
 8943	bondeanger	
@@ -7924,8 +7924,8 @@
 10486	brugde	
 10487	brugde	
 10488	bruhovud	
-10489	bruk	
-10490	bruk	
+10489	bruk	S
+10490	bruk	S
 10491	brukanal	
 10493	brukar	N
 10494	brukar	N
@@ -8491,7 +8491,7 @@
 11189	bulgarsk	
 11191	bulimi	
 11192	bulimikar	
-11193	buljong	
+11193	buljong	N
 11194	buljongekstrakt	
 11195	buljongpar	
 11196	buljongterning	S
@@ -9592,7 +9592,7 @@
 12520	camorra	
 12521	camp	
 12522	campar	
-12524	camping	
+12524	camping	N
 12525	campinghytte	
 12526	campingplass	
 12527	campingtilhengar	
@@ -9700,7 +9700,7 @@
 12673	chaconne	
 12674	chamotte	
 12675	chamottestein	SN
-12676	champagne	
+12676	champagne	N
 12678	champagneflaske	
 12679	champagneglas	
 12680	champagnekork	
@@ -9924,7 +9924,7 @@
 12978	daddelpalme	
 12981	daff	
 12982	daff	
-12985	dag	
+12985	dag	N
 12987	dagarbeid	
 12990	dagbarn	
 12991	dagbergart	
@@ -10044,7 +10044,7 @@
 13145	damaskduk	
 13146	dame	
 13147	damebind	
-13148	dameblad	
+13148	dameblad	S
 13149	damefotball	
 13150	damefrisør	
 13151	damejeanne	
@@ -10288,8 +10288,8 @@
 13529	dekan	
 13531	dekanus	
 13532	dekar	
-13535	dekk	
-13536	dekk	
+13535	dekk	N
+13536	dekk	N
 13538	dekkblad	
 13539	dekke	
 13541	dekken	
@@ -10388,7 +10388,7 @@
 13662	deltamuskel	
 13663	deltastråling	
 13664	deltaveng	
-13665	deltid	
+13665	deltid	S
 13666	deltidsarbeid	
 13667	deltidsjobb	
 13668	deltidsstilling	
@@ -13075,7 +13075,7 @@
 17579	eksponentiallikning	
 17581	eksponeringsfart	
 17582	eksponeringstid	
-17583	eksport	
+17583	eksport	N
 17584	eksportartikkel	
 17585	eksportavgift	
 17586	eksportbedrift	
@@ -14000,7 +14000,7 @@
 18800	erts	
 18801	ertsmineral	
 18802	erupsjon	
-18803	eruptiv	
+18803	eruptiv	N
 18805	erve	
 18808	ervefølgd	
 18809	ervefylgd	
@@ -14181,7 +14181,7 @@
 19067	etterklang	
 19071	etterkomar	
 19072	etterkommar	
-19073	etterkontroll	
+19073	etterkontroll	S
 19074	etterkrav	
 19076	etterkrigstid	
 19077	etterkrigsår	
@@ -14206,7 +14206,7 @@
 19106	etterløyving	
 19109	ettermann	
 19110	ettermat	
-19111	ettermiddag	
+19111	ettermiddag	S
 19112	ettermiddagskaffi	
 19113	ettermiddagsøkt	
 19114	ettermodning	
@@ -14437,7 +14437,7 @@
 19440	fan	
 19444	faenskap	
 19445	faensmakt	
-19446	fag	
+19446	fag	N
 19448	fagarbeidar	
 19449	fagbibliotek	
 19450	fagblad	
@@ -15108,7 +15108,7 @@
 20348	feigdevarsel	
 20349	feiging	
 20350	feigskap	
-20352	feil	
+20352	feil	N
 20356	feilernæring	
 20358	feilgrense	
 20359	feilgrep	
@@ -15216,7 +15216,7 @@
 20501	fellah	
 20502	felle	
 20503	felle	
-20508	felles	
+20508	felles	N
 20511	fellesanlegg	
 20512	fellesantenne	
 20513	fellesarrangement	
@@ -15388,7 +15388,7 @@
 20736	fengkrut	
 20737	fengrør	
 20738	fengrøyr	
-20739	fengsel	
+20739	fengsel	S
 20740	fengselsbetjent	
 20741	fengselsbygning	
 20742	fengselscelle	
@@ -15930,16 +15930,16 @@
 21449	finn	
 21450	finn	
 21451	finn	
-21452	finne	
+21452	finne	N
 21454	finnar	
 21455	finnarløn	
 21456	finnarlønn	
 21459	finnball	
-21460	finne	
-21461	finne	
+21460	finne	N
+21461	finne	N
 21462	finn	
-21463	finne	
-21464	finne	
+21463	finne	N
+21464	finne	N
 21466	finneferd	
 21467	finnferd	
 21468	finneløn	
@@ -16684,7 +16684,7 @@
 22512	flageolettone	
 22513	flagevêr	
 22514	flagevind	
-22515	flagg	
+22515	flagg	N
 22516	flaggdag	
 22517	flaggduk	
 22519	flaggermus	
@@ -17126,12 +17126,12 @@
 23228	flutnad	
 23229	flutning	
 23230	flutningslass	
-23231	fly	
-23232	fly	
-23233	fly	
-23234	fly	
-23235	fly	
-23236	fly	
+23231	fly	N
+23232	fly	N
+23233	fly	N
+23234	fly	N
+23235	fly	N
+23236	fly	N
 23243	flyalarm	
 23244	flyavgang	
 23245	flybensin	
@@ -17622,8 +17622,8 @@
 23877	fummel	
 23884	fon	
 23885	fon	
-23889	fond	
-23890	fond	
+23889	fond	S
+23890	fond	S
 23892	fondsavdeling	
 23893	fondsbørs	
 23894	fondsmeklar	
@@ -18022,7 +18022,7 @@
 24610	formalprosedyre	
 24611	formalvitskap	
 24613	formaning	
-24614	formann	
+24614	formann	S
 24615	formannskap	
 24616	formannskap	
 24617	formannskapsmedlem	
@@ -18632,8 +18632,8 @@
 25565	fotarbeid	
 25566	fotavtrykk	
 25567	fotbad	
-25568	fotball	
-25569	fotball	
+25568	fotball	N
+25569	fotball	N
 25570	fotball-lag	
 25571	fotballag	
 25572	fotballbane	
@@ -19013,7 +19013,7 @@
 26048	framstrev	
 26049	framstykke	
 26050	framstøyt	
-26052	framsyn	
+26052	framsyn	S
 26053	framsynar	
 26054	framsyning	
 26056	framsæte	
@@ -19476,7 +19476,7 @@
 26678	frille	
 26679	frillebarn	
 26680	frilleliv	
-26681	friluft	
+26681	friluft	S
 26683	friluftsandakt	
 26684	friluftsareal	
 26685	friluftsbad	
@@ -19555,7 +19555,7 @@
 26778	fritenkjar	
 26779	fritenkarskap	
 26780	fritenkjarskap	
-26782	fritid	
+26782	fritid	S
 26783	fritidsaktivitet	
 26784	fritidsantrekk	
 26785	fritidsbruk	
@@ -19954,7 +19954,7 @@
 27300	fuke	
 27302	fuks	
 27303	fuksia	
-27304	fukt	
+27304	fukt	N
 27306	fuktgrad	
 27308	fuktinnhald	
 27309	fuktmålar	
@@ -20016,7 +20016,7 @@
 27458	funkishus	
 27459	funkismøbel	
 27460	funkisstil	
-27462	funksjon	
+27462	funksjon	S
 27463	funksjonalisme	
 27468	funksjonsevne	
 27472	funksjonshemjing	
@@ -22259,7 +22259,7 @@
 30449	gjennomlufting	
 30452	gjennomreis	
 30453	gjennomreise	
-30458	gjennomslag	
+30458	gjennomslag	S
 30459	gjennomslagskraft	
 30460	gjennomslagspapir	
 30461	gjennomsnitt	
@@ -22327,7 +22327,7 @@
 30569	gjerning	
 30570	gjerningsaugeblink	
 30571	gjerningsaugneblink	
-30572	gjerningsmann	
+30572	gjerningsmann	S
 30573	gjerningsord	
 30574	gjerningsstad	
 30577	gjerrigknark	
@@ -22606,7 +22606,7 @@
 30960	glaning	
 30961	glankar	
 30963	glans	
-30964	glansbilde	
+30964	glansbilde	N
 30965	glansbilete	K
 30966	glansdag	
 30971	glansnummer	
@@ -23409,7 +23409,7 @@
 32194	grasnaut	
 32195	grasplante	
 32196	grasplen	
-32197	grasrot	
+32197	grasrot	N
 32198	grasrotplan	
 32199	grasrotrørsle	
 32203	grasslette	
@@ -25407,7 +25407,7 @@
 35023	handlekraft	
 35025	handlemåte	
 35026	handleveske	
-35027	handling	
+35027	handling	S
 35029	handlingsgang	
 35032	handlingsmønster	
 35033	handlingsplan	
@@ -25924,7 +25924,7 @@
 35721	havert	
 35723	havesjuke	
 35724	havesykje	
-35725	havfiske	
+35725	havfiske	N
 35726	havfiskeflåte	
 35727	havfiskeflote	
 35728	havflate	
@@ -26406,7 +26406,7 @@
 36417	helseinstitusjon	
 36418	helseknekk	
 36419	helsekort	
-36420	helsekost	
+36420	helsekost	N
 36421	helsekostforretning	
 36422	helselag	
 36424	helselære	
@@ -28889,7 +28889,7 @@
 39882	høvre	
 39883	høvreball	
 39884	høvring	
-39885	høy	
+39885	høy	N
 39886	høyavling	
 39887	høyballe	
 39888	høyberging	
@@ -28924,7 +28924,7 @@
 39920	hørar	
 39921	høyrar	
 39932	høreapparat	
-39933	høyre	
+39933	høyre	N
 39934	høyreapparat	
 39935	hørebrille	
 39936	høyrebrille	
@@ -29768,7 +29768,7 @@
 41352	innesittar	
 41353	innesitjing	
 41354	innesitting	
-41363	innfall	
+41363	innfall	S
 41365	innfallslodd	
 41366	innfallsplan	
 41367	innfallsport	
@@ -29803,7 +29803,7 @@
 41405	innførsletoll	
 41406	innførselsvare	
 41407	innførslevare	
-41408	inngang	
+41408	inngang	S
 41409	inngangsbillett	
 41410	inngangsbøn	
 41411	inngangsbønn	
@@ -30356,7 +30356,7 @@
 42288	isgraving	
 42290	isgufs	
 42292	ishall	
-42293	ishav	
+42293	ishav	S
 42294	ishavsfangst	
 42295	ishavsskute	
 42296	ishelle	
@@ -30553,7 +30553,7 @@
 42583	jaktgud	
 42584	jaktgudinne	
 42585	jakthorn	
-42586	jakthund	
+42586	jakthund	N
 42587	jakthytte	
 42588	jakting	
 42589	jaktkniv	
@@ -30792,7 +30792,7 @@
 42888	jarnstøyperi	
 42889	jernstøyperi	
 42890	jarnteppe	
-42891	jernteppe	
+42891	jernteppe	N
 42892	jarnteppeland	
 42893	jernteppeland	
 42894	jarnurt	
@@ -31015,7 +31015,7 @@
 43173	jarnstøyperi	
 43174	jernstøyperi	
 43175	jarnteppe	
-43176	jernteppe	
+43176	jernteppe	N
 43177	jarnteppeland	
 43178	jernteppeland	
 43179	jarnurt	
@@ -33786,7 +33786,7 @@
 46568	kjølsvin	
 46569	kjølvatn	
 46571	kjømd	
-46575	kjønn	
+46575	kjønn	S
 46577	kjønnsakt	
 46580	kjønnsbestemming	
 46582	kjønnsbøying	
@@ -33815,7 +33815,7 @@
 46612	kjønnsrollemønster	
 46613	kjønnsrolletenking	
 46614	kjønnssjukdom	
-46615	kjønnsskifte	
+46615	kjønnsskifte	N
 46616	kjønnsskilnad	
 46618	kjønnstest	
 46619	kjønnsvesen	
@@ -34028,7 +34028,7 @@
 46875	klanganalyse	
 46876	klangbotn	
 46877	klangdåm	
-46878	klangfarge	
+46878	klangfarge	N
 46879	klangfigur	
 46881	klangfylde	
 46884	klangrikdom	
@@ -35905,7 +35905,7 @@
 49479	konkavitet	
 49480	konkavlinse	
 49482	konklave	
-49484	konklusjon	
+49484	konklusjon	S
 49485	konkordans	
 49486	konkordat	
 49487	konkordie	
@@ -36108,7 +36108,7 @@
 49738	kontinentalforskyving	
 49739	kontinentalklima	
 49740	kontinentalskråning	
-49741	kontinentalsokkel	
+49741	kontinentalsokkel	N
 49742	kontingent	
 49744	kontingentauke	
 49746	kontinuant	
@@ -36575,7 +36575,7 @@
 50318	korsveg	
 50319	kort	
 50321	kortavleiing	
-50322	kortbane	
+50322	kortbane	N
 50323	kortbaneflyplass	
 50325	kortblad	
 50326	kortblandar	
@@ -36715,7 +36715,7 @@
 50520	krabask	
 50521	krabat	
 50522	krabbe	
-50524	krabbefelt	
+50524	krabbefelt	N
 50527	krabbeklo	
 50528	krabbeskal	
 50529	krabbeteine	
@@ -36723,7 +36723,7 @@
 50531	krafse	
 50533	krafsebrett	
 50534	krafskjerring	
-50535	kraft	
+50535	kraft	N
 50536	kraftblokk	
 50537	kraftfelt	
 50538	kraftfôr	
@@ -37796,7 +37796,7 @@
 51943	kultivator	
 51945	kultminne	
 51946	kultstad	
-51947	kultur	
+51947	kultur	N
 51948	kulturantropologi	
 51949	kulturarbeid	
 51950	kulturarbeidar	
@@ -37909,7 +37909,7 @@
 52068	kunngjerar	
 52071	kunngjøring	
 52072	kunngjering	
-52074	kunnskap	
+52074	kunnskap	S
 52076	kunnskapskrav	
 52078	kunnskapstevling	
 52079	kunnskapstørst	
@@ -37917,7 +37917,7 @@
 52081	kunnskapstorste	
 52082	kunnskapstre	
 52083	kunnskapstrong	
-52084	kunst	
+52084	kunst	N
 52085	kunstakademi	
 52086	kunstart	
 52087	kunstbok	
@@ -38162,7 +38162,7 @@
 52387	kvalifiseringsløp	
 52388	kvalifiseringslaup	
 52389	kvalifiseringsrunde	
-52391	kvalitet	
+52391	kvalitet	S
 52392	kvalitetsarbeid	
 52394	kvalitetsfeil	
 52395	kvalitetskontroll	
@@ -39271,8 +39271,8 @@
 53855	lamring	
 53856	lamsau	
 53858	lamunge	
-53859	land	
-53860	land	
+53859	land	S
+53860	land	S
 53861	landadel	
 53862	landarbeidar	
 53863	landauer	
@@ -39293,7 +39293,7 @@
 53878	landbruksvikar	
 53879	landbruksvitskap	
 53880	landbu	
-53881	landdag	
+53881	landdag	S
 53882	landdistrikt	
 53885	landdyr	
 53888	landegrense	
@@ -39445,7 +39445,7 @@
 54053	landevinning	
 54054	landvinning	
 54055	landøyde	
-54056	lang	
+54056	lang	N
 54059	langar	
 54061	langball	
 54062	langbein	
@@ -39952,9 +39952,9 @@
 54773	leidning	
 54774	leidningsnet	
 54775	leidningsnett	
-54776	leie	
+54776	leie	N
 54777	lægje	
-54778	leie	
+54778	leie	N
 54780	leiemotiv	
 54781	leiende	
 54784	leiestjerne	
@@ -40063,7 +40063,7 @@
 54924	lekke	
 54927	lekkerbisken	
 54928	lekkje	
-54931	lekmann	
+54931	lekmann	S
 54932	lekpredikant	
 54933	lekpreikar	
 54934	lekse	
@@ -40261,13 +40261,13 @@
 55197	lest	
 55200	lester	
 55201	let	
-55202	lett	
+55202	lett	N
 55204	lete	
 55207	lating	
 55208	leting	
 55209	letnad	
 55211	let	
-55212	lett	
+55212	lett	N
 55214	lettar	
 55218	lettbetong	
 55221	lettbåt	
@@ -40281,7 +40281,7 @@
 55258	lettkorn	
 55261	lettlending	
 55269	lettmatros	
-55273	lettmetall	
+55273	lettmetall	N
 55276	lettmjølk	N
 55277	lettolje	
 55278	lettprogram	
@@ -40735,7 +40735,7 @@
 55916	litografi	
 55918	litot	
 55920	litterat	
-55921	litteratur	
+55921	litteratur	N
 55922	litteraturforskar	
 55923	litteraturgranskar	
 55924	litteraturhistorie	
@@ -40744,7 +40744,7 @@
 55927	litteraturspråk	
 55930	liturg	
 55931	liturgi	
-55933	liv	
+55933	liv	S
 55936	livar	
 55938	livaure	
 55939	livbelte	
@@ -41677,12 +41677,12 @@
 57232	lutdraging	
 57233	lottdrift	
 57234	lutdrift	
-57238	lutefisk	
+57238	lutefisk	N
 57239	lutfisk	
 57240	lotteigar	
 57241	luteigar	
 57245	lutetium	
-57247	lutefisk	
+57247	lutefisk	N
 57248	lutfisk	
 57249	lottfiske	
 57250	lutfiske	
@@ -42173,7 +42173,7 @@
 57930	læger	
 57931	læging	
 57932	lægje	
-57933	leie	
+57933	leie	N
 57942	læke	
 57943	læking	
 57944	lækjar	
@@ -42506,7 +42506,7 @@
 58310	løss	
 58311	løssjord	
 58312	løvd	
-58313	løve	
+58313	løve	N
 58314	løvehale	
 58315	løvemanke	
 58316	løvemunn	
@@ -43036,7 +43036,7 @@
 59094	mankement	
 59096	mankesau	
 59097	manko	
-59098	mann	
+59098	mann	S
 59099	manna	
 59100	mannaask	
 59101	mannalav	
@@ -43069,7 +43069,7 @@
 59137	mannevett	
 59138	mannevit	
 59139	manneætt	
-59140	mannfolk	
+59140	mannfolk	N
 59141	mannfolkarbeid	
 59142	mannfolkblad	
 59143	mannfolkside	
@@ -43397,7 +43397,7 @@
 59536	massai	
 59537	massakre	
 59539	massasje	
-59540	masse	
+59540	masse	N
 59542	massearrestasjon	
 59543	masseeining	
 59544	massefabrikasjon	
@@ -43518,7 +43518,7 @@
 59695	matolje	
 59696	matoppskrift	
 59697	matos	
-59698	matpakke	
+59698	matpakke	N
 59699	matpakkekøyrar	
 59700	matpakkekjørar	
 59701	matpause	
@@ -43861,13 +43861,13 @@
 60180	mellomheat	
 60181	mellomjul	
 60182	mellomkalv	
-60183	mellomklasse	
+60183	mellomklasse	N
 60184	mellomkome	
 60185	mellomkomme	
 60186	mellomkomst	
 60187	mellomkrigstid	
 60188	mellomkrigsår	
-60191	mellomlag	
+60191	mellomlag	S
 60193	mellomlanding	
 60194	mellomled	
 60195	mellomledd	
@@ -43961,7 +43961,7 @@
 60309	menneskemengd	
 60310	menneskenatur	
 60311	menneskerase	
-60312	menneskerett	
+60312	menneskerett	S
 60313	menneskerettsdomstol	
 60314	menneskerettserklæring	
 60315	menneskerettsforkjempar	
@@ -44186,7 +44186,7 @@
 60630	midd	
 60631	mit	
 60632	middag	
-60633	middagsavis	
+60633	middagsavis	N
 60634	middagsbord	
 60635	middagsgjest	
 60636	middagshøgd	
@@ -44417,14 +44417,14 @@
 60932	militærteneste	
 60933	militærvelde	
 60934	militærøving	
-60935	miljø	
+60935	miljø	N
 60936	miljøarbeidar	
 60940	miljøfaktor	
 60942	miljøskade	
 60945	miljøskildring	
 60946	miljøterapeut	
 60947	miljøterapi	
-60952	miljøvern	
+60952	miljøvern	N
 60953	miljøverndepartement	
 60954	miljøvernminister	
 60955	milkshake	
@@ -44869,7 +44869,7 @@
 61604	mogningsprøve	
 61605	modningstid	
 61606	mogningstid	
-61607	modul	
+61607	modul	N
 61608	modulasjon	
 61609	modulator	
 61611	modulering	
@@ -45064,7 +45064,7 @@
 61913	moreld	
 61914	morell	
 61915	morelltre	
-61916	morene	
+61916	morene	N
 61917	morenejord	
 61918	morenerygg	
 61919	morf	
@@ -45178,7 +45178,7 @@
 62055	mosaisme	
 62056	mosambikar	
 62058	mosdyr	
-62059	mose	
+62059	mose	N
 62063	Mosebok	
 62064	mosebok	
 62065	mosedott	
@@ -45270,7 +45270,7 @@
 62187	motmann	
 62188	motmæle	
 62189	motocross	
-62190	motor	
+62190	motor	N
 62191	motorblokk	
 62192	motorbåt	
 62193	motordrift	
@@ -45914,7 +45914,7 @@
 63148	måfåtur	
 63149	måg	
 63150	mågskap	
-63152	måke	
+63152	måke	N
 63153	måse	
 63154	måkeegg	
 63155	måseegg	
@@ -46322,7 +46322,7 @@
 63678	nasjonalitet	
 63679	nasjonalitetsmerke	
 63680	nasjonalitetsprinsipp	
-63681	nasjonalpark	
+63681	nasjonalpark	N
 63682	nasjonalprodukt	
 63683	nasjonalrekneskap	
 63684	nasjonalromantikk	
@@ -46680,7 +46680,7 @@
 64214	nedside	
 64216	nedskjering	
 64218	nedskriving	
-64219	nedslag	
+64219	nedslag	S
 64220	nedslagsbord	
 64221	nedslagsdistrikt	
 64222	nedslagsfelt	
@@ -47114,7 +47114,7 @@
 64880	nordlandsmål	
 64883	nordlending	
 64885	nordljos	
-64886	nordlys	
+64886	nordlys	N
 64887	nordljosbelte	
 64888	nordlysbelte	
 64889	nordlyse	
@@ -47327,7 +47327,7 @@
 65189	nuv	
 65191	nuve	
 65192	nuve	
-65200	ny	
+65200	ny	N
 65202	nyanlegg	
 65203	nyanse	
 65207	nybegynnar	
@@ -47378,7 +47378,7 @@
 65266	nyhus	
 65267	nying	
 65268	nying	
-65269	nøkkel	
+65269	nøkkel	N
 65270	nykel	
 65271	nøkkelbarn	
 65272	nykelbarn	
@@ -47640,8 +47640,8 @@
 65621	nære	
 65623	nærekspress	
 65627	nærhand	
-65629	næring	
-65630	næring	
+65629	næring	S
+65630	næring	S
 65631	næringsbrev	
 65632	næringsdepartement	
 65633	næringsdrift	
@@ -47652,7 +47652,7 @@
 65640	næringskjede	
 65641	næringskjelde	
 65642	næringsliv	
-65643	næringsmiddel	
+65643	næringsmiddel	N
 65644	næringsmiddelindustri	
 65645	næringsoppgåve	
 65646	næringspolitikk	
@@ -47742,7 +47742,7 @@
 65764	nøff	
 65767	nøgd	
 65772	nøkk	
-65773	nøkkel	
+65773	nøkkel	N
 65774	nykel	
 65775	nøkkelbarn	
 65776	nykelbarn	
@@ -48165,7 +48165,7 @@
 66337	olivin	
 66338	olivinsand	
 66339	olivinstein	SN
-66340	olje	
+66340	olje	N
 66342	oljeaksje	
 66343	oljebad	
 66344	oljebeis	
@@ -48254,7 +48254,7 @@
 66443	olympiar	
 66444	olympiatropp	
 66445	olympiavinnar	
-66447	om	
+66447	om	N
 66451	omanar	
 66453	omarbeiding	
 66456	ombering	
@@ -48676,7 +48676,7 @@
 67068	opphav	
 67071	opphavskvinne	
 67072	opphavsmann	
-67073	opphavsrett	
+67073	opphavsrett	S
 67074	opphavssegn	
 67075	oppheim	
 67076	opphelde	
@@ -48840,7 +48840,7 @@
 67291	opprørstrong	
 67292	opprørsånd	
 67298	oppsamlar	
-67299	oppsamling	
+67299	oppsamling	S
 67300	oppsamlingsheat	
 67301	oppsats	
 67302	oppsedar	
@@ -49390,7 +49390,7 @@
 68052	overbodspolitikk	
 68054	overbreisle	
 68056	overbygg	
-68057	overbygning	
+68057	overbygning	S
 68058	overdekk	
 68059	overdel	
 68061	overdomar	
@@ -49406,7 +49406,7 @@
 68080	overfallsmann	
 68081	overfart	
 68083	overferd	
-68084	overflate	
+68084	overflate	N
 68086	overflatebehandling	
 68087	overflatedyrking	
 68088	overflatehandsaming	
@@ -49414,7 +49414,7 @@
 68090	overflatespenning	
 68091	overflatestruktur	
 68092	overflatevev	
-68094	overflod	
+68094	overflod	S
 68095	overflodssamfunn	
 68096	overflyging	
 68100	overfolking	
@@ -49433,7 +49433,7 @@
 68115	overføringsverd	
 68116	overføringsverde	
 68117	overføringsverdi	
-68118	overgang	
+68118	overgang	S
 68119	overgangsalder	
 68120	overgangsbillett	
 68121	overgangsordning	
@@ -49614,7 +49614,7 @@
 68413	overteljing	
 68414	overtelne	
 68415	overtenel	
-68419	overtid	
+68419	overtid	S
 68421	overtidsarbeid	
 68422	overtidsbetaling	
 68423	overtidsgodtgjørsle	
@@ -49912,7 +49912,7 @@
 68856	papiljott	
 68857	papill	
 68858	papillom	
-68859	papir	
+68859	papir	N
 68860	papirbleie	
 68861	papirfabrikk	
 68862	papirkniv	
@@ -50066,7 +50066,7 @@
 69058	pariverd	
 69059	pariverde	
 69060	pariverdi	
-69061	park	
+69061	park	N
 69062	parkanlegg	
 69063	parkas	
 69065	parkering	
@@ -50138,7 +50138,7 @@
 69142	partikkelstruktur	
 69143	partikkelstråling	
 69144	partikularisme	
-69147	partilag	
+69147	partilag	N
 69149	partileiar	
 69150	partimedlem	
 69151	partiorgan	
@@ -50391,9 +50391,9 @@
 69475	pendling	
 69476	peneplan	
 69477	peng	
-69478	penge	
+69478	penge	N
 69479	peng	
-69480	penge	
+69480	penge	N
 69481	pengebok	
 69482	pengebruk	
 69483	pengeforbruk	
@@ -50872,8 +50872,8 @@
 70179	plakett	
 70180	plakk	
 70181	plakk	
-70182	plan	
-70183	plan	
+70182	plan	N
+70183	plan	N
 70187	planet	
 70189	planetarium	
 70190	planetoide	
@@ -51504,7 +51504,7 @@
 71016	postopnar	
 71017	postopneri	
 71018	postoppkrav	
-71019	postordre	
+71019	postordre	N
 71020	postordrefirma	
 71021	postordreforretning	
 71022	postpakke	
@@ -51537,7 +51537,7 @@
 71061	potetbing	
 71062	potetbinge	
 71063	potetbrennevin	
-71064	potetchips	
+71064	potetchips	N
 71065	poteteple	
 71066	potetferie	
 71067	potetgras	
@@ -51766,8 +51766,8 @@
 71365	presisjonsverkty	
 71366	presisjonvåpen	
 71369	preskripsjon	
-71370	press	
-71371	press	
+71370	press	N
+71371	press	N
 71372	pressar	
 71373	presse	
 71375	presseattaché	
@@ -51830,7 +51830,7 @@
 71438	prestevigsel	
 71439	prestevigsle	
 71440	prestinne	
-71441	prestisje	
+71441	prestisje	N
 71442	prestisjeomsyn	
 71443	prestisjesak	
 71444	prestisjetap	
@@ -51925,9 +51925,9 @@
 71573	prioritetsrekke	
 71574	prioritetsrekkje	
 71575	prioritetsvik	
-71577	pris	
-71578	pris	
-71579	pris	
+71577	pris	N
+71578	pris	N
+71579	pris	N
 71580	prisauke	
 71581	prisavhandling	
 71582	prisavslag	
@@ -52089,7 +52089,7 @@
 71794	progestron	
 71795	prognose	
 71796	prognosemakar	
-71800	program	
+71800	program	N
 71801	programavdeling	
 71802	programblad	
 71803	programdikt	
@@ -52214,7 +52214,7 @@
 71974	prosenttal	
 71975	prosenttrekk	
 71978	prosesjon	
-71979	prosess	
+71979	prosess	N
 71980	prosessdugleik	
 71982	prosessfullmektig	
 71983	prosessindustri	
@@ -52347,7 +52347,7 @@
 72162	prøveomgang	
 72163	prøveprent	
 72164	prøverom	
-72165	prøverør	
+72165	prøverør	S
 72166	prøverøyr	
 72167	prøverørsbarn	
 72168	prøverøyrsbarn	
@@ -52678,7 +52678,7 @@
 72706	pålebru	
 72707	pålebrygge	
 72708	pålebryggje	
-72709	pålegg	
+72709	pålegg	S
 72710	pålegging	
 72713	påleggsgaffel	
 72714	påleggskalv	
@@ -52852,7 +52852,7 @@
 72986	radiosending	
 72987	radiosignal	
 72988	radiosonde	
-72989	radiostasjon	
+72989	radiostasjon	S
 72992	radioteknikk	
 72993	radiotelefon	
 72994	radiotelefoni	
@@ -53577,10 +53577,10 @@
 74074	reipslagar	
 74075	reir	
 74077	reis	
-74078	reise	
+74078	reise	N
 74079	reis	
 74081	reis	
-74082	reise	
+74082	reise	N
 74085	reisebyrå	
 74086	reisefeber	
 74087	reisefelage	
@@ -53643,7 +53643,7 @@
 74160	rekkefylgd	
 74161	rekkefølgje	
 74162	rekkefylgje	
-74163	rekkehus	
+74163	rekkehus	N
 74164	rekkenummer	
 74165	rekketal	
 74166	rekkevidd	
@@ -53661,7 +53661,7 @@
 74180	rekkefylgje	
 74181	rekkjefølgje	
 74182	rekkjefylgje	
-74183	rekkehus	
+74183	rekkehus	N
 74184	rekkjehus	
 74185	rekkenummer	
 74186	rekkjenummer	
@@ -53844,7 +53844,7 @@
 74437	rensel	
 74438	rensle	
 74440	rentabilitet	
-74441	rente	
+74441	rente	N
 74444	rentedag	
 74445	rentefot	
 74447	renteinntekt	
@@ -54634,7 +54634,7 @@
 75587	ros	
 75588	ròs	
 75589	ros	
-75592	rose	
+75592	rose	N
 75593	ròse	
 75596	rosebusk	
 75597	rosebuske	
@@ -55366,10 +55366,10 @@
 76638	røytevêr	
 76639	røyting	
 76640	røyve	
-76642	rå	
-76643	rå	
-76644	rå	
-76645	rå	
+76642	rå	N
+76643	rå	N
+76644	rå	N
+76645	rå	N
 76649	råband	
 76650	råbandsknut	
 76651	råbandsknute	
@@ -56419,7 +56419,7 @@
 78035	sauesaks	
 78036	sauesanking	
 78037	saueside	
-78038	saueskinn	
+78038	saueskinn	S
 78039	saueskinnsfell	
 78040	saueskinnspels	
 78041	sauestir	
@@ -56596,7 +56596,7 @@
 78302	seiing	
 78303	seikake	
 78304	seikval	
-78305	seil	
+78305	seil	N
 78316	seinhaust	
 78317	seinkapitalisme	
 78320	seinking	
@@ -56708,7 +56708,7 @@
 78475	sekterar	
 78477	sekterisme	
 78478	sekterist	
-78480	sektor	
+78480	sektor	N
 78481	sektorgrense	
 78482	sektorløysing	
 78483	sektortenking	
@@ -56738,7 +56738,7 @@
 78518	selegnag	
 78519	seleknapp	
 78520	seleksjon	
-78523	selektivitet	
+78523	selektivitet	S
 78524	selen	
 78525	selencelle	
 78526	selenografi	
@@ -56839,9 +56839,9 @@
 78656	semulegryn	
 78657	semulepudding	
 78658	semulevelling	
-78659	sen	
+78659	sen	N
 78660	sene	
-78661	sen	
+78661	sen	N
 78664	senat	
 78665	senator	
 78666	senatsvedtak	
@@ -56864,7 +56864,7 @@
 78684	sendingskorg	
 78685	sendingskost	
 78686	sendingsmat	
-78687	sen	
+78687	sen	N
 78688	sene	
 78689	sene	
 78690	senebein	
@@ -57080,7 +57080,7 @@
 78933	sentimentalisme	
 78934	sentimentalist	
 78935	sentimentalitet	
-78936	sentral	
+78936	sentral	N
 78938	sentraladministrasjon	
 78939	sentralafrikan	
 78940	sentralafrikanar	
@@ -57235,7 +57235,7 @@
 79141	serveringsdame	
 79142	serveringsløyve	
 79143	serveringsstad	
-79144	service	
+79144	service	N
 79145	serviceanlegg	
 79146	servicebil	
 79147	serviceboks	
@@ -57270,7 +57270,7 @@
 79182	sesjonslækjar	
 79183	sesjonslege	
 79184	sesjonsstad	
-79185	sesong	
+79185	sesong	N
 79186	sesongarbeid	
 79187	sesongarbeidar	
 79188	sesongbillett	
@@ -57749,7 +57749,7 @@
 79801	sil	
 79802	siland	
 79803	silbein	
-79806	sild	
+79806	sild	N
 79807	sildeball	
 79808	sildeberg	
 79809	sildebruk	
@@ -58097,7 +58097,7 @@
 80254	sivilstand	
 80255	siviltenest	
 80256	sivilteneste	
-80257	siviløkonom	
+80257	siviløkonom	N
 80258	sevmatte	
 80259	sivmatte	
 80260	sevmyr	
@@ -58629,7 +58629,7 @@
 80996	sjømine	
 80997	sjømål	
 80998	sjøoffiser	
-80999	sjøorm	
+80999	sjøorm	N
 81000	sjøpiggsvin	
 81001	sjøpung	
 81002	sjøpølse	
@@ -58704,7 +58704,7 @@
 81101	skabelon	
 81102	skaberakk	
 81103	skabilken	
-81106	skade	
+81106	skade	N
 81109	skadebeist	
 81111	skadebjørn	
 81112	skadebot	
@@ -60051,7 +60051,7 @@
 82975	skuledag	
 82976	skoledemokrati	
 82977	skuledemokrati	
-82978	skoledirektør	
+82978	skoledirektør	N
 82979	skuledirektør	
 82980	skoleeksempel	
 82981	skuleeksempel	
@@ -60104,7 +60104,7 @@
 83032	skolekamerat	
 83033	skulekamerat	
 83034	skolekjøken	
-83035	skolekjøkken	
+83035	skolekjøkken	N
 83036	skulekjøken	
 83037	skulekjøkken	
 83038	skolekøyring	
@@ -60880,9 +60880,9 @@
 84083	skrøytar	
 84086	skrøyv	
 84087	skrøyve	
-84089	skrå	
-84090	skrå	
-84091	skrå	
+84089	skrå	N
+84090	skrå	N
+84091	skrå	N
 84095	skråband	
 84096	skrål	
 84097	skrålar	
@@ -60996,7 +60996,7 @@
 84267	skuledag	
 84268	skoledemokrati	
 84269	skuledemokrati	
-84270	skoledirektør	
+84270	skoledirektør	N
 84271	skuledirektør	
 84272	skoleeksempel	
 84273	skuleeksempel	
@@ -61047,7 +61047,7 @@
 84322	skolekamerat	
 84323	skulekamerat	
 84324	skolekjøken	
-84325	skolekjøkken	
+84325	skolekjøkken	N
 84326	skulekjøken	
 84327	skulekjøkken	
 84328	skolekøyring	
@@ -61794,7 +61794,7 @@
 85383	slaur	
 85385	slav	
 85386	slavar	
-85387	slave	
+85387	slave	N
 85389	slavearbeid	
 85391	slavedrivar	
 85392	slavehald	
@@ -62876,7 +62876,7 @@
 87081	snære	
 87082	snære	
 87084	snø	
-87088	snøball	
+87088	snøball	N
 87089	snøballkrig	
 87092	snøbil	
 87094	snøblinde	
@@ -63455,7 +63455,7 @@
 87809	SOS	
 87811	sosekopp	
 87812	sosemikkel	
-87813	sosial	
+87813	sosial	N
 87815	sosialantropologi	
 87816	sosialarbeidar	
 87817	sosialdemokrat	
@@ -64028,8 +64028,8 @@
 88586	spontak	
 88588	spontanisme	
 88589	spontanitet	
-88590	spor	
-88591	spor	
+88590	spor	N
+88591	spor	N
 88594	sporbreidd	
 88595	spord	
 88596	spordstykke	
@@ -64114,7 +64114,7 @@
 88706	sprek	
 88709	spreking	
 88710	spræking	
-88711	sprekk	
+88711	sprekk	N
 88712	sprekkdaning	
 88713	sprekkdanning	
 88714	sprekke	
@@ -64129,7 +64129,7 @@
 88735	sprel	
 88736	sprell	
 88738	sprellemann	
-88741	spreng	
+88741	spreng	N
 88744	sprengemne	
 88747	sprenghovud	
 88748	sprenging	
@@ -64192,7 +64192,7 @@
 88826	spritsmugling	
 88827	sprittermometer	
 88828	spròke	
-88830	sprosse	
+88830	sprosse	N
 88831	sprot	
 88832	sprote	
 88834	sprotte	
@@ -64208,7 +64208,7 @@
 88853	sprøsalat	
 88856	sprøyt	
 88857	sprøyt	
-88858	sprøyte	
+88858	sprøyte	N
 88860	sprøytehopp	
 88862	sprøytemiddel	
 88863	sprøytenarkoman	
@@ -64605,7 +64605,7 @@
 89383	statsmann	
 89384	statsmannskunst	
 89385	statsmeteorolog	
-89386	statsminister	
+89386	statsminister	N
 89387	statsmonopol	
 89388	statsmoral	
 89389	statsobligasjon	
@@ -64613,8 +64613,8 @@
 89391	statsrekneskap	
 89392	statsreligion	
 89393	statsrett	
-89394	statsråd	
-89395	statsråd	
+89394	statsråd	S
+89395	statsråd	S
 89396	statssamband	
 89397	statssekretær	
 89398	statssjef	
@@ -64719,7 +64719,7 @@
 89545	steilskrift	
 89546	stein	SN
 89548	stein	SN
-89550	steinalder	
+89550	steinalder	N
 89553	steinandlet	
 89554	steinansikt	
 89555	steinarbeid	
@@ -64795,7 +64795,7 @@
 89665	stemjarn	
 89666	stemjern	
 89667	stemmar	
-89668	stemme	
+89668	stemme	N
 89671	stemmeband	
 89672	stemmebruk	
 89673	stemmefiske	
@@ -64992,7 +64992,7 @@
 89913	stikkleidning	
 89914	stikklomme	
 89915	stikkontakt	
-89916	stikkord	
+89916	stikkord	S
 89917	stikkordregister	
 89919	stikkpille	
 89920	stikkprøve	
@@ -65246,7 +65246,7 @@
 90280	storbygd	
 90281	stordom	
 90282	stordomstid	
-90283	stordrift	
+90283	stordrift	S
 90284	stordrikkar	
 90285	stordåd	
 90286	storebror	
@@ -65942,7 +65942,7 @@
 91244	studering	
 91245	studerkammer	
 91246	studerkammers	
-91247	studie	
+91247	studie	N
 91248	studiearbeid	
 91249	studiegruppe	
 91250	studiekamerat	
@@ -67328,7 +67328,7 @@
 93396	syssel	
 93399	sysselsetjing	
 93400	sysselsetting	
-93402	system	
+93402	system	N
 93403	systemanalyse	
 93404	systemanalytikar	
 93405	systematikar	
@@ -67651,7 +67651,7 @@
 93864	sønnadrag	
 93867	sønnavêr	
 93868	sønnavind	
-93870	søppel	
+93870	søppel	N
 93871	søppelbil	
 93872	søppelbrett	
 93873	søppeldunk	
@@ -67789,7 +67789,7 @@
 94089	såld	
 94093	sålvåe	
 94095	såmaskin	
-94100	såpe	
+94100	såpe	N
 94102	såpeboble	
 94103	såpebuble	
 94105	såpekokar	
@@ -68050,7 +68050,7 @@
 94466	talkarakter	
 94467	talkum	
 94468	tall	
-94469	toll	
+94469	toll	N
 94471	talle	
 94473	tallerk	
 94474	tallerken	
@@ -68461,7 +68461,7 @@
 94996	te	
 94998	teak	
 94999	teaktre	
-95000	team	
+95000	team	N
 95001	teamarbeid	
 95003	teater	
 95004	teaterbesøk	
@@ -69089,7 +69089,7 @@
 95783	terrazzo	
 95784	terrassogolv	
 95785	terre	
-95788	terreng	
+95788	terreng	N
 95789	terrengforhold	
 95791	terrengløp	
 95792	terrenglaup	
@@ -69562,7 +69562,7 @@
 96468	tillating	
 96469	tilløp	
 96470	tillaup	
-96472	tillegg	
+96472	tillegg	S
 96473	tilleggsband	
 96474	tilleggsbind	
 96475	tilleggsjord	
@@ -69572,7 +69572,7 @@
 96479	tilleggsspørsmål	
 96480	tilleggsstraff	
 96482	tillemping	
-96484	tillit	
+96484	tillit	S
 96486	tillitsbrot	
 96487	tillitsbrott	
 96488	tillitserklæring	
@@ -70149,14 +70149,14 @@
 97363	tolkingsproblem	
 97364	tolkingsspørsmål	
 97365	tall	
-97366	toll	
-97367	toll	
+97366	toll	N
+97367	toll	N
 97368	tolle	
-97369	toll	
+97369	toll	N
 97372	tollar	
 97373	tollavgift	
 97374	tollbu	
-97375	toll	
+97375	toll	N
 97376	tolle	
 97380	tollegang	
 97381	tollekniv	
@@ -70513,8 +70513,8 @@
 97880	tot	
 97881	totaktar	
 97882	totaktsmotor	
-97883	total	
-97884	total	
+97883	total	N
+97884	total	N
 97886	totalareal	
 97887	totalavhald	
 97888	totalavhaldskvinne	
@@ -71104,7 +71104,7 @@
 98741	tren	
 98743	trenar	
 98744	trenarchampion	
-98745	trend	
+98745	trend	N
 98750	treneve	
 98752	trengar	
 98759	trengsel	
@@ -73078,8 +73078,8 @@
 101741	tysdagskveld	
 101742	tysdagsmorgon	
 101743	tysdagsnatt	
-101745	tysk	
-101746	tysk	
+101745	tysk	N
+101746	tysk	N
 101748	tyskar	
 101749	tyskaranlegg	
 101750	tyskarbrakke	
@@ -73592,7 +73592,7 @@
 102418	tåpe	
 102422	tår	
 102423	tår	
-102426	tåre	
+102426	tåre	N
 102427	tårebekk	
 102429	tåredal	
 102431	tåreflaum	
@@ -73873,7 +73873,7 @@
 103326	ul	
 103329	ulag	
 103336	ulagnad	
-103339	u-land	
+103339	u-land	S
 103340	u-landsekspert	
 103341	u-landshjelp	
 103342	U-landskamp	
@@ -74520,7 +74520,7 @@
 104337	ungarar	
 104338	ungarsk	
 104340	ungbeist	
-104341	ungdom	
+104341	ungdom	S
 104346	ungdomsalder	
 104347	ungdomsarrest	
 104348	ungdomsbande	
@@ -75133,7 +75133,7 @@
 105608	utbygding	
 105609	utbygg	
 105610	utbygg	
-105611	utbygging	
+105611	utbygging	S
 105612	utbyggingsarbeid	
 105613	utbyggingskommune	
 105614	utbyggingslån	
@@ -75199,7 +75199,7 @@
 105711	uterus	
 105712	uteseglar	
 105713	utesiglar	
-105714	uteseksjon	
+105714	uteseksjon	S
 105715	uteselskap	
 105716	utespelar	
 105717	utestasjon	
@@ -75347,7 +75347,7 @@
 105953	utjo	
 105954	utjoe	
 105955	utjon	
-105958	utkant	
+105958	utkant	N
 105959	utkantbygd	
 105960	utkantdistrikt	
 105961	utkantgrend	
@@ -75587,7 +75587,7 @@
 106319	utrivnad	
 106320	utrogn	
 106321	utrom	
-106322	utrop	
+106322	utrop	S
 106325	utropar	
 106326	utropsord	
 106327	utropsteikn	
@@ -77151,7 +77151,7 @@
 108576	vegetarkost	
 108577	vegetarmat	
 108578	vegetarrestaurant	
-108579	vegetasjon	
+108579	vegetasjon	S
 108580	vegetasjonsbelte	
 108581	vegetasjonsgrense	
 108582	vegetasjonsperiode	
@@ -77493,7 +77493,7 @@
 108970	vekttal	
 108971	vekttap	
 108972	vekttunge	
-108973	vel	
+108973	vel	N
 108975	velar	
 108980	velborenskap	
 108986	velde	
@@ -77904,7 +77904,7 @@
 109609	verd	
 109610	verd	
 109611	verde	
-109612	verdi	
+109612	verdi	N
 109614	verdauke	
 109615	verdeauke	
 109616	verdiauke	
@@ -77916,7 +77916,7 @@
 109622	verdidom	
 109623	verd	
 109624	verde	
-109625	verdi	
+109625	verdi	N
 109626	verdauke	
 109627	verdeauke	
 109628	verdiauke	
@@ -78039,7 +78039,7 @@
 109763	verdigrunnlag	
 109764	verd	
 109765	verde	
-109766	verdi	
+109766	verdi	N
 109767	verdauke	
 109768	verdeauke	
 109769	verdiauke	
@@ -79417,7 +79417,7 @@
 111505	vinstrevriding	
 111506	vinsyre	
 111509	vintage	
-111510	vinter	
+111510	vinter	N
 111511	vinterarbeid	
 111512	vinterbraut	
 111513	vinterbruk	
@@ -80141,7 +80141,7 @@
 112484	vulkanøy	
 112486	vulst	
 112487	vulstdekk	
-112492	vurdering	
+112492	vurdering	S
 112493	vurderingsevne	
 112494	vurderingsgrunnlag	
 112495	vurderingsmåte	
@@ -80417,7 +80417,7 @@
 112903	våtkopiering	
 112906	våtleik	
 112907	våtlende	
-112909	våtmark	
+112909	våtmark	S
 112910	våtmarksområde	
 112911	våtmyr	
 112913	våtrom	
@@ -81576,17 +81576,17 @@
 114602	åndsvekst	
 114603	åndsvokster	
 114604	ångstrøm	
-114606	år	
+114606	år	S
 114607	åre	
-114608	år	
+114608	år	S
 114609	åre	
-114610	år	
+114610	år	S
 114614	årbok	
 114615	årbuk	
 114616	årbyte	
-114617	år	
+114617	år	S
 114618	åre	
-114619	år	
+114619	år	S
 114620	åre	
 114621	åre	
 114623	årebetennelse	
@@ -81656,7 +81656,7 @@
 114708	årrekkje	
 114709	årring	
 114710	årringsgrense	
-114712	årsak	
+114712	årsak	S
 114713	årsaksadverbial	
 114714	årsaksforhold	
 114715	årsakshøve	
@@ -81965,7 +81965,7 @@
 115162	mudd	
 115163	mætnad	
 115165	mòl	
-115166	måke	
+115166	måke	N
 115170	nattklede	
 115173	nestemann	
 115178	niob	
@@ -81999,7 +81999,7 @@
 115231	regina	
 115232	regnklede	
 115233	reise-TV	
-115236	repro	
+115236	repro	N
 115237	residu	
 115238	residuum	
 115239	resorpsjon	
@@ -82221,7 +82221,7 @@
 123108	spyt	
 123110	skyn	
 123118	byge	
-123121	grov	
+123121	grov	N
 123124	syren	
 123126	puse	
 123131	møss	
@@ -82262,7 +82262,7 @@
 123217	nyansering	
 123221	messias	
 123222	burgar	
-123295	narko	
+123295	narko	N
 123296	time-out	
 123297	efedrin	
 123310	telefax	
