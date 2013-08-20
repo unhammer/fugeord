@@ -76479,7 +76479,7 @@
 107762	varmebilde	
 107763	varmebilete	K
 107764	varmebildekamera	
-107765	varmebiletkamera	K
+107765	varmebiletkamera	N
 107766	varmebolk	
 107767	varmebord	
 107768	varmebølgje	
